@@ -11,6 +11,8 @@ Physicist, Mathematician, Cambridge professor.
 
 ---
 
+<div class="container">
+<div class="item" id="profile" markdown="1">
 
 ## Currently
 
@@ -25,6 +27,19 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+</div>
+<div class="item" id="webaddress" markdown="1">
+
+## Contact
+
+[isaac@applesdofall.org](mailto: isaac@applesdofall.org)
+
+[My wikipedia page](http://en.wikipedia.org/wiki/Isaac_Newton)
+
+</div>
+</div>
+
+---
 
 ## Education
 
@@ -41,7 +56,7 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
+---
 
 ## Awards
 
@@ -50,7 +65,7 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-
+---
 
 ## Publications
 
@@ -71,6 +86,7 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+---
 
 ## Occupation
 

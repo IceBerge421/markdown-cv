@@ -209,6 +209,46 @@ img {
     border-radius: 50%;
 }
 
+/* --- Flexbox --- */
+/* No column gap in print .container to allow for border between
+* profile and contact */
+.container {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div.item {
+    flex-basis: 30pt;
+}
+
+div.item > * {
+    width: 100%;
+    text-align: justify;
+}
+
+div.item > h2 {
+    margin-top: 1em;
+}
+
+/* Padding specified here instead of .container to allow for border */
+div#profile {
+    padding-right: 5%;
+    flex-grow: 7;
+    border-right: 0.5px solid rgb(66, 66, 66);
+}
+
+div#webaddress {
+    padding-left: 5%;
+    flex-grow: 1;
+}
+
+div#webaddress > p {
+    text-transform: uppercase;
+}
+
+
 @page {
     margin: 8%;
   }
