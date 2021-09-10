@@ -8,7 +8,7 @@ A fork from [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) with s
 
 Here is how the new layout looks:
 
-<img src="./img/cv-wide.png" width=500>
+<img src="./img/cv-wide.png">
 
 <img src="./img/cv-narrow.png" height=500>
 
