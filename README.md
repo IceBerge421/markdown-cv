@@ -6,7 +6,7 @@ A fork from [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) with s
 
 **Disclaimer: Not a CSS guy**
 
-Here is how the new layout looks:
+You can check out it [here](https://benmeller.github.io/markdown-cv/). Here is how the new layout looks:
 
 <img src="./img/cv-wide.png">
 
