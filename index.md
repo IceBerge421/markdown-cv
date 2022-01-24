@@ -48,7 +48,7 @@ Queer power fantasies in gaming, Discord, hate and extremism on social media, ta
 
 ## Education
 
-`Exp. 2025`
+`2024`
 __Ph.D. Texts and Technology, Universty of Central Florida__
 
 - Specialization: Digital Media
