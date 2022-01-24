@@ -49,7 +49,20 @@ table {
 
 /* end of reset */
 
-
+/* Style buttons */
+.btn {
+	background-color: DodgerBlue;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	cursor: pointer;
+	font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+	background-color: RoyalBlue;
+  }
 
 body {
 	font: normal normal 400;
@@ -285,3 +298,9 @@ and (min-width : 1824px) {
 		right: -34%;
 	}
 }
+
+@media print {
+	#printPageButton {
+	  display: none;
+	}
+  }

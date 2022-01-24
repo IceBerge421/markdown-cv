@@ -260,3 +260,9 @@ div#webaddress > p {
 @page {
     margin: 8%;
   }
+
+  @media print {
+	#printPageButton {
+	  display: none;
+	}
+  }
