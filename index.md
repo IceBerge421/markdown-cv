@@ -24,7 +24,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Queer power fantasies in gaming, cross-platform insulation, Discord, networked harassment. 
+Queer power fantasies in gaming, cross-platform insulation, Discord, networked harassment.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
@@ -386,7 +386,7 @@ UCF College of Arts & Humanities. (June, 2021). "Research Spotlight: PS Berge, T
 *Creator & maintainer*
 
 An accessible suite of tools for Discord researchers. Available on GitHub and Google Colab. Handles scraping, cleaning, and analysis of public Discord metadata.
-[https://gist.github.com/IceBerge421/a58d154c01e1e4702eb99ecb0ad3045c](https://gist.github.com/IceBerge421/a58d154c01e1e4702eb99ecb0ad3045c)
+[darcmode.org/scraper](https://darcmode.org/scraper)
 
 `2020`
 **Universal Reddit Scraper (URS) on GitHub**
