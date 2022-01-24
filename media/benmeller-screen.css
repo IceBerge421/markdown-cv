@@ -130,7 +130,8 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	/*font-size: 3em;*/
+	font-size: 285%;
 	line-height: 1.1em;
     letter-spacing: 3px;
 	position: relative;
@@ -144,7 +145,8 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.4em;
+	/*font-size: 1.4em;*/
+	font-size: 140%;
 	margin-top: 2em;
 	position: relative;
     font-weight: 500;
@@ -163,7 +165,8 @@ h2::before {
 }
 
 h3 {
-	font-size: 1.4em;
+	/*font-size: 1.4em;*/
+	font-size: 140%;
 	line-height: 2.2em;
 	position: relative;
     font-weight: 400;
