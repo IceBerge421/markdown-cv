@@ -350,13 +350,13 @@ __Grey Door Games LLC__
 Also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `October 2021`
-__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7
+__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
 - Ranked 3.5 stars on the Interactive Fiction Database
 
 Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 `April 2021`
-__*Fish & Dagger*__<br>Developed in Twine (Sugarcube & Harlowe), A-Frame and AR.js, and JavaScript
+__*Fish & Dagger*__<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
 
@@ -383,13 +383,15 @@ UCF College of Arts & Humanities. (June, 2021). "Research Spotlight: PS Berge, T
 
 `2021-Present`
 **Modified Disboard Scraper and Analysis Notebook**
-*Creator & maintainer*
+*Creator*
 
 An accessible suite of tools for Discord researchers. Available on GitHub and Google Colab. Handles scraping, cleaning, and analysis of public Discord metadata.
-[darcmode.org/scraper](https://darcmode.org/scraper)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View notebook: [darcmode.org/scraper](https://darcmode.org/scraper)
 
 `2020`
 **Universal Reddit Scraper (URS) on GitHub**
+*Contributor*
 
 Assisted in debugging fatal errors in the Universal Reddit Scraper, an open source research tool for scraping Reddit.
 
