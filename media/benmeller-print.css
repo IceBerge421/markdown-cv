@@ -56,7 +56,7 @@ body {
 	font-size: 11pt;
 	line-height: 1.2em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Gill Sans Mt,sans-serif;
+	font-family: Cabin,sans-serif;
 	/* margin-top: 1em;
 	margin-left: 1em; */
 }
@@ -67,6 +67,7 @@ p {
 	margin-right: 0;
 	width: 82%;
     font-weight: 300;
+	font-size: 1.2em;
     color: #535150;
 }
 
@@ -78,8 +79,8 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Gill Sans Mt,sans-serif;
-	color: #ccc;
+	font-family: Cabin,sans-serif;
+	color: rgb(112, 112, 112);
 }
 
 p code {
@@ -120,7 +121,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Gill Sans Mt,sans-serif;
+	font-family: Cabin,sans-serif;
 	width: 82%;
 
     text-transform: uppercase;
