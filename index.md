@@ -24,7 +24,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Queer power fantasies in gaming, cross-platform insulation, Discord, networked harassment.
+Queer power fantasies in gaming, Discord, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, virtual / augmented reality, interactive fiction.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
