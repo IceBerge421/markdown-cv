@@ -63,7 +63,8 @@ table {
   
   /* Darker background on mouse-over */
   .btn:hover {
-	background-color: RoyalBlue;
+	background-color: rgb(255, 30, 199);
+	color: white; 
   }
 
 body {
