@@ -57,7 +57,7 @@ table {
 	padding: 12px 30px;
 	cursor: pointer;
 	font-size: 20px;
-	font-family: Gill Sans Mt,sans-serif;
+	font-family: Cabin,sans-serif;
 
   }
   
@@ -70,9 +70,9 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 100%;
-	line-height: 1.2em;
+	line-height: 1.4em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Gill Sans Mt,sans-serif;
+	font-family: Cabin,sans-serif;
 	margin: 1em 20%;
 	min-width: 15em;
 }
@@ -80,6 +80,7 @@ body {
 p {
 	position: relative;
 	margin-bottom: 1.2em;
+	font-family: Cabin,sans-serif;
 	margin-right: 0;
 	width: 82%;
     font-weight: 300;
@@ -95,8 +96,8 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Gill Sans Mt,sans-serif;
-	color: #aaa;
+	font-family: Cabin,sans-serif;
+	color: rgb(112, 112, 112);
 }
 
 p code {
@@ -113,6 +114,7 @@ ul {
 	margin-top: -1em;
 	font-size: 1.2em;
 	font-weight: 300;
+	font-family: Cabin,sans-serif;
 	color: #535150;
 }
 
@@ -139,7 +141,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Gill Sans MT,Bold;
+	font-family: Cabin,Bold;
 	width: 82%;
     /*text-transform: uppercase;*/
 }

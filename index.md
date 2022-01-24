@@ -5,9 +5,9 @@ title: PS Berge's CV
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-# PS
+# **PS**
 
-# BERGE
+# **BERGE**
 
 *(they/them pronouns)*
 
