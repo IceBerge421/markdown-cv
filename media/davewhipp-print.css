@@ -73,8 +73,8 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	font-family: Cabin,sans-serif;
+	color: rgb(112, 112, 112);
 }
 
 p code {
@@ -115,7 +115,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Cabin,sans-serif;
 	width: 80%;
 }
 
