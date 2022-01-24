@@ -53,32 +53,27 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
-	line-height: 1.2em;
+	font-size: 12pt;
+	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Gill Sans Mt,sans-serif;
-	/* margin-top: 1em;
-	margin-left: 1em; */
+	font-family: Avenir,Verdana,sans-serif;
+	/*margin-top: 1em;
+	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	margin-bottom: 1.2em;
+	left: 25%;
+	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 82%;
-    font-weight: 300;
-    color: #535150;
-}
-
-b, strong {
-    color: #000;
+	width: 60%;
 }
 
 code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Gill Sans Mt,sans-serif;
+	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
 
@@ -91,47 +86,45 @@ p code {
 
 ul {
 	position: relative;
-	width: 82%;
-	margin-bottom: 1.5em;
-	margin-top: -1em;
-	color: #535150;
+	left: 25%;
+	width: 75%;
+	margin-bottom: 1em;
+	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-li:before {
+/*li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}
+}*/
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	/* text-indent: -1.25em; */
+	text-indent: -1.25em;
+	/*color: #777;*/
 }
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 82%;
+	width: 100%;
 	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Gill Sans Mt,sans-serif;
-	width: 82%;
-
-    text-transform: uppercase;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
+	width: 80%;
 }
 
 h1 {
 	text-align: left;
 	font-size: 3em;
-	line-height: 1.1em;
-    letter-spacing: 3px;
+	line-height: 1em;
 	position: relative;
-    font-weight: 700;
+	left: 25%;
 }
 
 h1+p {
@@ -141,35 +134,24 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.4em;
+	font-size: 1.1em;
+	color: #a00;
 	margin-top: 2em;
 	position: relative;
-    font-weight: 500;
-    margin-bottom: 1.4em;
+	top: 1.2em;
+	text-align: right;
+	width: 20%;
 }
 
-/* Add black bar under H2 */
-h2::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 1.2em;
-    height: 15px;
-    width: 65px;
-    border-top: 5px solid black;
-}
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
+	color: #ccc;
 	position: relative;
-    font-weight: 500;
-}
-
-h4 {
-
-	color: #535150;
-
+	top: 1.6em;
+	text-align: right;
+	width: 20%;
 }
 
 a {
@@ -181,13 +163,22 @@ a:hover {
 	color:#39f
 }
 
-div#webaddress > p {
-    text-transform: uppercase;
-} 
+#webaddress {
+	margin-top: 1em;
+	position: relative;
+	left: 25%;
+	color: #ccc;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 90%;
+}
+
+#webaddress a {
+	text-decoration: none;
+}
 
 em {
-	font-weight: normal;
-	font-style: italic;
+	font-style: normal;
+	color: #2d4e5e
 }
 
 strong {
@@ -199,63 +190,5 @@ strong {
 	visibility: hidden;
 }
 
-#address {
-	display: none;
-}
-
-hr {
-	border-top: 0.5px solid rgb(66, 66, 66);
-}
 
 
-/* Style for profile image at top. Insert image before H1 */
-img {
-    position: absolute;
-    right: -22%;
-    height: 7.5em;
-    border-radius: 50%;
-}
-
-/* --- Flexbox --- */
-/* No column gap in print .container to allow for border between
-* profile and contact */
-.container {
-    display: flex;
-    align-items: stretch;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-div.item {
-    flex-basis: 30pt;
-}
-
-div.item > * {
-    width: 100%;
-    text-align: justify;
-}
-
-div.item > h2 {
-    margin-top: 1em;
-}
-
-/* Padding specified here instead of .container to allow for border */
-div#profile {
-    padding-right: 5%;
-    flex-grow: 7;
-    border-right: 0.5px solid rgb(66, 66, 66);
-}
-
-div#webaddress {
-    padding-left: 5%;
-    flex-grow: 1;
-}
-
-div#webaddress > p {
-    text-transform: uppercase;
-}
-
-
-@page {
-    margin: 8%;
-  }
