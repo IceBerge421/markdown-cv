@@ -24,7 +24,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, virtual / augmented reality, game narrative systems.
+Queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
@@ -129,6 +129,9 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 ---
 ## Awards and Fellowships
+
+`2022`
+Departmental Conference Travel Funding Award
 
 `2021`
 IEEE VR Doctoral Consortium Best Presentation Award
