@@ -207,44 +207,6 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2019`
 **Berge, PS**, Eubanks, J., Nisbitt, L., & Stevens, A. (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
-## Campus and Community Talks
-
-### Workshops
-
-`2022`
-**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
-
-`2019`
-**Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
-
-`2017`
-**Berge, PS**. “Going meta in our writing”. Creative Writing course. February 2017, University of Alabama.
-
-`2016`
-**Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
-
-### Featured Speaker
-
-`2020`
-**Berge, PS.** "Emergent pedagogy in online environments" with graduate student instructors. May 2020, University of Alabama.
-
-`2019`
-**Berge, PS.** “Teaching with ePortfolios”. Graduate Teaching Assistant training. November 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games Writing course. October 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** "Technology research in virtual reality and video games"Gaming Journalism course. February 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** “Collaborative Writing, Print to Digital”. Research Methods graduate course. February 2019, University of Alabama.
-
-`2018`
-**Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
-
 ---
 
 ## Courses Taught
@@ -270,7 +232,48 @@ British Literature II [Face-to-Face Course]
 
 British Literature I [Face-to-Face Course]
 
+### Workshops
+
+`2022`
+**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
+
+`2019`
+**Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
+
+`2017`
+**Berge, PS**. “Going meta in our writing”. Creative Writing course. February 2017, University of Alabama.
+
+`2016`
+**Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
+
 ---
+
+## Campus and Community Talks
+
+### Featured Speaker
+
+`2020`
+**Berge, PS.** "Emergent pedagogy in online environments" with graduate student instructors. May 2020, University of Alabama.
+
+`2019`
+**Berge, PS.** “Teaching with ePortfolios”. Graduate Teaching Assistant training. November 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games Writing course. October 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** "Technology research in virtual reality and video games"Gaming Journalism course. February 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** “Collaborative Writing, Print to Digital”. Research Methods graduate course. February 2019, University of Alabama.
+
+`2018`
+**Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
+
+---
+
 ## Service to Profession
 
 `2021-Present`
@@ -281,6 +284,14 @@ Peer reviewer, *Press Start* journal
 
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
+
+### Panels Organized and Chaired
+
+`2022`
+- "Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
+  
+`2019`
+- "Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
 ## University Service
 
@@ -324,7 +335,7 @@ __The Discord Academic Research Community__
 - Leading the moderator team and engaging an active community of 100+ Internet researchers
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/)
-   
+
 `2016-2019`
 __University of Alabama__
 *Graduate Teaching Assistant, Digital Literacy Mentor*
