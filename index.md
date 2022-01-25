@@ -24,7 +24,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Queer power fantasies in gaming, Discord, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, virtual / augmented reality, interactive fiction.
+Queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, virtual / augmented reality, game narrative systems.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
@@ -48,7 +48,7 @@ Queer power fantasies in gaming, Discord, hate and extremism on social media, ta
 
 ## Education
 
-`2024`
+`In Progress`
 __Ph.D. Texts and Technology, Universty of Central Florida__
 
 - Specialization: Digital Media
