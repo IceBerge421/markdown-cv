@@ -255,19 +255,19 @@ British Literature I [Face-to-Face Course]
 ### Featured Speaker
 
 `2020`
-**Berge, PS.** "Emergent pedagogy in online environments" with graduate student instructors. May 2020, University of Alabama.
+**Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
 
 `2019`
-**Berge, PS.** “Teaching with ePortfolios”. Graduate Teaching Assistant training. November 2019, University of Alabama.
+**Berge, PS.** “Teaching with ePortfolios”. Graduate teaching assistant training. November 2019, University of Alabama.
 
 `2019`
-**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games Writing course. October 2019, University of Alabama.
+**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games writing course. October 2019, University of Alabama.
 
 `2019`
-**Berge, PS.** "Technology research in virtual reality and video games"Gaming Journalism course. February 2019, University of Alabama.
+**Berge, PS.** "Technology research in virtual reality and video games". Gaming journalism course. February 2019, University of Alabama.
 
 `2019`
-**Berge, PS.** “Collaborative Writing, Print to Digital”. Research Methods graduate course. February 2019, University of Alabama.
+**Berge, PS.** “Collaborative Writing, Print to Digital”. Research methods graduate course. February 2019, University of Alabama.
 
 `2018`
 **Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
