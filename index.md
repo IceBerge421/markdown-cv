@@ -192,8 +192,8 @@ Heslep, D.G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED
 `2021`
 **Berge, PS**. (2021). “SHOW YOUR DEDICATION:” VR Games and Outmersion. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Lisbon, Portugal [Virtual conference for COVID-19], March 27 – April 3, 2021, p. 737-738. Extended abstract. [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251). **Winner of the IEEE VR Doctoral Consortium Best Presentation Award**
 
-`2020, 2021`
-Awadhi, A., **Berge, PS**, Dwyer, S., Lovett, S., McQuaid, S., & Woolbright, L. (2020, 2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the meeting of the College Conference on Composition and Communications. April 7–10, 2021, Virtual Event: Spokane, WA. (Re-accepted from 2020. Cancelled due to COVID-19).
+`2021`
+Awadhi, A., **Berge, PS**, Dwyer, S., Lovett, S., McQuaid, S., & Woolbright, L. (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the meeting of the College Conference on Composition and Communications. April 7–10, 2021, Virtual Event: Spokane, WA. (Re-accepted from 2020. Cancelled due to COVID-19).
 
 `2020`
 **Berge, PS**, & Britt, R. K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association. November 19–22, 2020, Indianapolis, IN [Converted for COVID-19], Game Studies Division. **Winner of the Top Paper Award from the Game Studies Division.**
@@ -222,7 +222,7 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2016`
 **Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
 
-### Guest Speaker
+### Featured Speaker
 
 `2020`
 **Berge, PS.** "Emergent pedagogy in online environments" with graduate student instructors. May 2020, University of Alabama.
@@ -257,7 +257,7 @@ Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Co
 
 English Composition II [Face-to-Face Course]
 
-\* Unique courses pitched competitively to department.
+\* Unique courses designed pitched competitively to department.
 
 ### Graduate Teaching Assistant
 
@@ -304,7 +304,7 @@ ePortfolio Assessment Group, University of Alabama
 
 ---
 
-## Relevant Work and Leadership Experience
+## Selected Work and Leadership Experience
 
 `2022-Present`
 __University of Central Florida__
@@ -314,7 +314,7 @@ __University of Central Florida__
 
 `2021-Present`
 __The Discord Academic Research Community__
-*Founder, Community Manager*
+*Founder, Director, Community Manager*
 
 - Designing and maintaining an accessible Discord server for academic resources and community
 - Regularly updating calendar of events, community website and blog, and Twitter accounts
@@ -397,17 +397,7 @@ Assisted in debugging fatal errors in the Universal Reddit Scraper, an open sour
 
 ### Programming Experience
 
-C#, 4 years experience
-
-HTML, 3 years experience
-
-Python, 3 years experience
-
-Javascript, 2 years experience
-
-C++, 2 years experience
-
-Java, 1 year experience
+C#, HTML + CSS, Python, Javascript, Markdown, C++, Java
 
 ### Software Proficiencies
 
@@ -431,4 +421,4 @@ Unreal Engine 4
 
 ---
 
-This CV was last updated January 24th, 2020.
+This CV was last updated January 24, 2022.
