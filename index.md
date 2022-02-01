@@ -377,28 +377,29 @@ __Grey Door Games LLC__
 ---
 ## Game Publications
 
-Also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
+Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
-`October 2021`
-__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
-- Ranked 3.5 stars on the Interactive Fiction Database
-
-Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
-
-`April 2021`
+`2021`
 __*Fish & Dagger*__<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
 
-Playable at: [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
 
-`March 2021`
+`2021`
 ***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
 
-Playable at: [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
+
+`2021`
+__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
+- Ranked 3.5 stars on the Interactive Fiction Database
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 ---
+
 ## Media and Press
 
 UCF College of Arts & Humanities. (June, 2021). "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
