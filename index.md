@@ -11,9 +11,18 @@ title: "PS Berge"
 
 *(they/them pronouns)*
 
-Studying queer games 🌈🎮 and toxic technocultures 💻💀.
+<div id="printPageButton">
+<p>Studying queer games 🌈🎮 and toxic technocultures 💻💀.</p>
 
+</div>
+
+<div class="printOnly">
+<p>Email: hello@psberge.com | Website: psberge.com | Twitter: @theiceberge</p>
+</div>
+
+<div class="item" id="profile" markdown="1">
 ---
+</div>
 
 <div class="container">
 <div class="item" id="profile" markdown="1">
@@ -31,11 +40,11 @@ Queer game studies, hate and extremism on social media, tabletop roleplaying gam
 
 ## Contact
 
-📧 [hello@psberge.com](mailto: hello@psberge.com)
+<span id="printPageButton">📧 </span>[hello@psberge.com](mailto: hello@psberge.com)
 
-🌐 [psberge.com](https://psberge.com)
+<span id="printPageButton">🌐 </span>[psberge.com](https://psberge.com)
 
-🐦 [@theiceberge](https://twitter.com/theiceberge)
+<span id="printPageButton">🐦 </span>[@theiceberge](https://twitter.com/theiceberge)
 
 <!--👩‍🎓 [PS Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)-->
 
@@ -54,81 +63,85 @@ __Ph.D. Texts and Technology, Universty of Central Florida__
 - Specialization: Digital Media
 - Advisor: Dr. Anastasia Salter
 
-`2020`
+`2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
 
 - Thesis: DARKGLOW: A HEAVY-METAL BALLAD, an illustrated media novel
 - Advisor: Dr. Heidi Staples
 
-`2019`
-__M.A. Composition, Rhetoric, and English Studies, 2019__
+`2016-2019`
+__M.A. Composition, Rhetoric, and English Studies__
 
 - Thesis: “Lost in the Rift: Exploring the Rhetoric of Immersion and Identity in Virtual Realities”
 - Nominated for English Department’s Outstanding Thesis by a Master’s Student Award
 - Advisor: Dr. Amber Buck
 
-`2016`
-__B.A. English, University of Washington, 2016__
+`2014-2016`
+__B.A. English, University of Washington__
 
 - Emphasis in Creative Writing
 - *Summa Cum Laude*
 - Minor in History
 
-`2014`
+`2012-2014`
 __A.A. Integrated Studies, Cascadia Community College__
 
 - Certificate in Programming Foundations
 
 ---
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<div class="item" id="pubs" markdown="1">
 
 ## Peer-Reviewed Publications
 
 ### Journal Articles
 
-`2021`
+<!--`2021`-->
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt)
 
-`2021`
+<!--`2021`-->
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548)
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*Daniel G Heslep and PS Berge contributed equally to this research.
 
 ### Conference Proceedings Articles
 
-`2022`
-**Berge, PS**. (Forthcoming April 2021). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
+<!--`2022`-->
+**Berge, PS**. (Forthcoming April 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
 
-`2021`
+<!--`2021`-->
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16)
 
-`2021`
+<!--`2021`-->
 **Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094)
 
 ## Other Publications
 
 ### Peer-Reviewed Extended Abstracts
 
-`2021`
+<!--`2021`-->
 **Berge, PS**. (2021). "GO BACK IN YOUR FETUS CAVE": HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
 
-`2021`
+<!--`2021`-->
 Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
 
-`2021`
+<!--`2021`-->
 **Berge, PS**. (2021) "[DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion."  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2021, pp. 737-738, [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
 
 ### Academic Blog Posts
 
-`2022`
-**Berge, PS**. "Scraping Disboard Data." The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
+<!--`2022`-->
+**Berge, PS**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
 
-`2022`
-**Berge, PS**. "Announcing the Discord Academic Research Community." The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
+<!--`2022`-->
+**Berge, PS**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
 
+</div>
 ---
 ## Awards and Fellowships
+
+`2020-2024`
+Presidential Doctoral Fellowship, University of Central Florida
 
 `2022`
 Departmental Conference Travel Funding Award
@@ -136,11 +149,11 @@ Departmental Conference Travel Funding Award
 `2021`
 IEEE VR Doctoral Consortium Best Presentation Award
 
+`2021`
+NSF Conference Attendance Funding Award, IEEE VR
+
 `2020`
 Top Paper Award, NCA Game Studies Division
-
-`2020-2024`
-Presidential Doctoral Fellowship, University of Central Florida
 
 `2020`
 Extraordinary Service Scholarship, University of Alabama
@@ -148,14 +161,14 @@ Extraordinary Service Scholarship, University of Alabama
 `2019`
 Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
 
+`2016-2019`
+Truman Capote Literary Trust, University of Alabama
+
 `2018`
 Carolyn P. Handa Teaching Award, University of Alabama
 
 `2018`
 National Graduate Council Fellowship, University of Alabama
-
-`2016-2019`
-Truman Capote Literary Trust, University of Alabama
 
 `2016`
 Slavic Department’s Best Essay Competition Winner, University of Washington
@@ -214,6 +227,8 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 **University of Alabama**
 
+<div class="item" id="pubs" markdown="1">
+
 Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]\*
 
 Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]\*
@@ -222,7 +237,7 @@ Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Co
 
 English Composition II [Face-to-Face Course]
 
-\* Unique courses designed pitched competitively to department.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses designed pitched competitively to department.
 
 ### Graduate Teaching Assistant
 
@@ -232,6 +247,7 @@ British Literature II [Face-to-Face Course]
 
 British Literature I [Face-to-Face Course]
 
+</div>
 ### Workshops
 
 `2022`
@@ -435,4 +451,4 @@ Unreal Engine 4
 
 ---
 
-This CV was last updated January 24, 2022.
+This CV was last updated January 31, 2022.

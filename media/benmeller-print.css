@@ -212,10 +212,7 @@ hr {
 
 /* Style for profile image at top. Insert image before H1 */
 img {
-    position: absolute;
-    right: -22%;
-    height: 7.5em;
-    border-radius: 50%;
+    display: none;
 }
 
 /* --- Flexbox --- */
@@ -243,14 +240,16 @@ div.item > h2 {
 
 /* Padding specified here instead of .container to allow for border */
 div#profile {
-    padding-right: 5%;
+    /*padding-right: 5%;*/
+	display: none;
     flex-grow: 7;
-    border-right: 0.5px solid rgb(66, 66, 66);
+    /*border-right: 0.5px solid rgb(66, 66, 66);*/
 }
 
 div#webaddress {
-    padding-left: 5%;
-    flex-grow: 1;
+    /*padding-left: 5%;*/
+    /*flex-grow: 1;*/
+	display: none;
 }
 
 div#webaddress > p {
@@ -266,4 +265,10 @@ div#webaddress > p {
 	#printPageButton {
 	  display: none;
 	}
+
+	.print-only{
+		display: block;
+	}
   }
+
+  

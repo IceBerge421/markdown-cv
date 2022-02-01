@@ -260,6 +260,10 @@ div#webaddress {
     flex-grow: 1;
 }
 
+div#pubs {
+    flex-grow: 1;
+}
+
 div#webaddress > p {
     text-transform: uppercase;
 }
@@ -305,8 +309,17 @@ and (min-width : 1824px) {
 	}
 }
 
+.printOnly{
+	display: none;
+}
+
 @media print {
 	#printPageButton {
 	  display: none;
 	}
-  }
+
+	#printOnly {
+
+		display: none;
+	}
+}
