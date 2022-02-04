@@ -292,14 +292,14 @@ British Literature I [Face-to-Face Course]
 
 ## Service to Profession
 
+`2022-Present`
+Consultant, [Game in Lab](https://www.game-in-lab.org/)
+
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
 `2021-Present`
 Peer reviewer, *Press Start* journal
-
-`2022-Present`
-Consultant, [Game In Lab](https://www.game-in-lab.org/) 
 
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
