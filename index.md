@@ -29,7 +29,7 @@ title: "PS Berge"
 
 ## About
 
-Researcher, designer, and doctoral student in media studies in the University of Central Florida’s Texts & Technology PhD program. Work can be found or is forthcoming in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and ACM Hypertext.
+Researcher, designer, and doctoral student in media studies in the University of Central Florida’s Texts & Technology PhD program. Director of the Discord Academic Research Community. Work can be found or is forthcoming in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and ACM Hypertext.
 
 ### Research interests
 
@@ -298,6 +298,9 @@ Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.
 `2021-Present`
 Peer reviewer, *Press Start* journal
 
+`2022-Present`
+Consultant, [Game In Lab](https://www.game-in-lab.org/) 
+
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
 
@@ -452,4 +455,4 @@ Unreal Engine 4
 
 ---
 
-This CV was last updated January 31, 2022.
+This CV was last updated February 3rd, 2022.
