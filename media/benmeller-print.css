@@ -96,6 +96,7 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -1em;
 	font-weight: 300;
+	font-size: 1.2em;
 	color: #535150;
 }
 
@@ -116,6 +117,8 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 82%;
+	font-weight: 300;
+	font-size: 1.2em;
 	margin-top: 0.25em;
 }
 
@@ -162,7 +165,7 @@ h2::before {
 }
 
 h3 {
-	font-size: 140%;
+	font-size: 120%;
 	line-height: 2em;
 	position: relative;
     font-weight: 500;
