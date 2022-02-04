@@ -29,7 +29,7 @@ title: "PS Berge"
 
 ## About
 
-Researcher, designer, and doctoral student in media studies in the University of Central Florida’s Texts & Technology PhD program. Director of the Discord Academic Research Community. Work can be found or is forthcoming in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and ACM Hypertext.
+Researcher, designer, and doctoral student in media studies in the University of Central Florida’s Texts & Technology PhD program. Work can be found or is forthcoming in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and ACM Hypertext.
 
 ### Research interests
 
