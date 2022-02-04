@@ -293,7 +293,7 @@ British Literature I [Face-to-Face Course]
 ## Service to Profession
 
 `2022-Present`
-Consultant, [Game in Lab](https://www.game-in-lab.org/)
+Discord and Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
 
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
