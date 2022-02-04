@@ -307,10 +307,10 @@ Reviewer, organizing committee, Console-ing Passions 2022 Conference
 ### Panels Organized and Chaired
 
 `2022`
-- "Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
+"Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
   
 `2019`
-- "Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
+"Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
 ## University Service
 
