@@ -66,7 +66,7 @@ __Ph.D. Texts and Technology, Universty of Central Florida__
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
 
-- Thesis: DARKGLOW: A HEAVY-METAL BALLAD, an illustrated media novel
+- Thesis: DARKGLOW: A HEAVY-METAL BALLAD (illustrated media novel)
 - Advisor: Dr. Heidi Staples
 
 `2016-2019`
@@ -81,7 +81,7 @@ __B.A. English, University of Washington__
 
 - Emphasis in Creative Writing
 - *Summa Cum Laude*
-- Minor in History
+<!--- Minor in History-->
 
 `2012-2014`
 __A.A. Integrated Studies, Cascadia Community College__
@@ -313,6 +313,9 @@ Reviewer, organizing committee, Console-ing Passions 2022 Conference
 "Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
 ## University Service
+
+`2022`
+Designed wesbite for new faculty, University of Central Florida English Department
 
 `2020-Present`
 Digital Culture Research Group, active member, University of Central Florida

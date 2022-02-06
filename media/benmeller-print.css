@@ -68,6 +68,7 @@ p {
 	width: 82%;
     font-weight: 300;
 	font-size: 1.2em;
+	line-height: 1.2em;
     color: #535150;
 }
 
@@ -87,6 +88,8 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	color: #535150;
+
 }
 
 
@@ -97,12 +100,13 @@ ul {
 	margin-top: -1em;
 	font-weight: 300;
 	font-size: 1.2em;
+	line-height: 1.2em;
 	color: #535150;
 }
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "-";
+	content: "•";
 	position: relative;
 	left: -0.25em;
 }

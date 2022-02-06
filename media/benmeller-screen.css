@@ -116,11 +116,13 @@ ul {
 	font-weight: 300;
 	font-family: Cabin,sans-serif;
 	color: #535150;
+	padding-left: 5;
+
 }
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "-";
+	content: "•";
 	position: relative;
 	left: -0.25em;
 }
