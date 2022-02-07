@@ -453,5 +453,3 @@ Unity Engine
 Unreal Engine 4
 
 ---
-
-This CV was last updated February 3rd, 2022.
