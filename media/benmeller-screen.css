@@ -254,15 +254,17 @@ div.item > h2 {
     margin-top: 1em;
 }
 
+div#pubs {
+	flex-grow: 1;
+	width: 82%;
+}
+
+
 div#profile {
     flex-grow: 7;
 }
 
 div#webaddress {
-    flex-grow: 1;
-}
-
-div#pubs {
     flex-grow: 1;
 }
 

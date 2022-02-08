@@ -263,6 +263,14 @@ div#webaddress > p {
     text-transform: uppercase;
 }
 
+div#pubs {
+	flex-grow: 1;
+	width: 100%;
+}
+
+.p.code div#pubs{
+	visibility: hidden;
+}
 
 @page {
     margin: 8%;
