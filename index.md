@@ -88,11 +88,10 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 ---
 
-<div class="item" id="pubs" markdown="1">
-
 ## Peer-Reviewed Publications
-
 ### Journal Articles
+
+<div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt)
@@ -102,7 +101,11 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Daniel G Heslep and PS Berge contributed equally to this research.
 
+</div>
+
 ### Conference Proceedings - Articles
+
+<div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. (Forthcoming April 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
@@ -115,7 +118,11 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094)
 
+</div>
+
 ### Conference Proceedings - Extended Abstracts
+
+<div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). "GO BACK IN YOUR FETUS CAVE": HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
@@ -126,9 +133,13 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021) "[DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion."  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2021, pp. 737-738, [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
 
+</div>
+
 ## Other Publications
 
 ### Academic Blog Posts
+
+<div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
@@ -144,7 +155,7 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2021`
-__*Fish & Dagger*__<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
+***Fish & Dagger***<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
 
@@ -157,7 +168,7 @@ __*Fish & Dagger*__<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Fra
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 
 `2021`
-__*PUNy PUNchable PUNk!*__<br>1-page tabletop roleplaying game supplement.
+***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game supplement.
 - Published in the *Babalon's Hangover: Volume II* charity zine
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
@@ -206,9 +217,9 @@ National Graduate Council Fellowship, University of Alabama
 
 ---
 
-<div class="item" id="pubs" markdown="1">
-
 ## Peer-Reviewed Conference Presentations
+
+<div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS** and Heslep, D.G. (Forthcoming June 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
@@ -273,7 +284,11 @@ English Composition II [Face-to-Face Course]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses designed pitched competitively to department.
 
+</div>
+
 ### Graduate Teaching Assistant
+
+<div class="item" id="pubs" markdown="1">
 
 **University of Alabama**
 

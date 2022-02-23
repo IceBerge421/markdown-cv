@@ -172,9 +172,7 @@ h2 {
     font-weight: 500;
     margin-bottom: 1.4em;
 	line-height: 1.6em;
-	font-size: 1.4em;
-
-
+	font-size: 1.6em;
 }
 
 /* Add black bar under H2 */
@@ -185,7 +183,6 @@ h2::before {
     top: 120%; /*was 1.2em*/
     height: 15px;
     width: 65px;
-	font-size: 1.4em;
     border-top: 5px solid black;
 }
 
@@ -264,7 +261,6 @@ div.item > h2 {
     margin-top: 1em;
 }
 
-
 div#profile {
     flex-grow: 7;
 	width: 100%;
@@ -277,6 +273,15 @@ div#webaddress {
 div#webaddress > p {
     text-transform: uppercase;
 	width: 100%;
+}
+
+div#pubs > h2 {
+	margin-top: 2em;
+	position: relative;
+    font-weight: 500;
+    margin-bottom: 1.4em;
+	line-height: 1.6em;
+	font-size: 1.6em;
 }
 
 
