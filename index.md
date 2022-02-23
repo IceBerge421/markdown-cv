@@ -100,7 +100,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548)
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*Daniel G Heslep and PS Berge contributed equally to this research.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*Daniel G Heslep and PS Berge contributed equally to this research.
 
 ### Conference Proceedings - Articles
 

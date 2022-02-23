@@ -167,11 +167,14 @@ h1+p {
 
 h2 {
 	/*font-size: 1.4em;*/
-	font-size: 140%;
 	margin-top: 2em;
 	position: relative;
     font-weight: 500;
     margin-bottom: 1.4em;
+	line-height: 1.6em;
+	font-size: 1.4em;
+
+
 }
 
 /* Add black bar under H2 */
@@ -179,9 +182,10 @@ h2::before {
     content: '';
     position: absolute;
     left: 0;
-    top: 1.2em;
+    top: 120%; /*was 1.2em*/
     height: 15px;
     width: 65px;
+	font-size: 1.4em;
     border-top: 5px solid black;
 }
 
@@ -241,8 +245,14 @@ img {
 	justify-content: space-between;
 }
 
-div.item {
+/*div.item {
     flex-basis: 200px;
+}*/
+
+/*div#pubs {
+	flex-grow: 1;
+	width: 82%;
+	text-align: left;
 }
 
 div.item > * {
@@ -252,16 +262,12 @@ div.item > * {
 
 div.item > h2 {
     margin-top: 1em;
-}
-
-div#pubs {
-	flex-grow: 1;
-	width: 82%;
-}
+}*/
 
 
 div#profile {
     flex-grow: 7;
+	width: 100%;
 }
 
 div#webaddress {
@@ -270,6 +276,7 @@ div#webaddress {
 
 div#webaddress > p {
     text-transform: uppercase;
+	width: 100%;
 }
 
 
@@ -293,6 +300,11 @@ and (min-width : 1824px) {
 @media screen and (max-width: 480px) {
 	h1 {
 		font-size: 2em;
+	}
+
+	
+	h2 {
+		font-size: 2em%;
 	}
 
 	p {
