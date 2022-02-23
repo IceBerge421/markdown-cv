@@ -100,7 +100,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*Daniel G Heslep and PS Berge contributed equally to this research.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Daniel G Heslep and PS Berge contributed equally to this research.
 
 ### Conference Proceedings - Articles
 
@@ -108,7 +108,9 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 **Berge, PS**. (Forthcoming April 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) *Most downloaded paper of the International Conference on Interactive Digital Storytelling 2021 Proceedings.*
+**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094)
