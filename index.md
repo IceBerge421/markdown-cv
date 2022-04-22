@@ -221,14 +221,20 @@ National Graduate Council Fellowship, University of Alabama
 
 <div class="item" id="pubs" markdown="1">
 
-<span id="printPageButton">`2022`</span>
+`2022`
 **Berge, PS** and Heslep, D.G. (Forthcoming June 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
+
+`2022`
+Barnes, N., **Berge, PS** , Cato, F. (Forthcoming May 2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
+
+`2022`
+Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, PS**. (Forthcoming May 2022). “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature.” Presented at the Electronic Literature Conference. Como, Italy.
 
 `2022`
 **Berge, PS**. (Forthcoming April 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
 
 `2022`
-**Berge, PS** (chair), Rose Aceae, R., Zegura, C., Murray, J (Forthcoming March 2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
+**Berge, PS** (chair), Rose Aceae, R., Zegura, C., Murray, J (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
 
 `2021`
 **Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presdented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Hybrid Event: Tallinn, Estonia.
@@ -301,6 +307,7 @@ British Literature I [Face-to-Face Course]
 ### Workshops
 
 `2022`
+
 **Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
@@ -319,6 +326,11 @@ British Literature I [Face-to-Face Course]
 ## Campus and Community Talks
 
 ### Featured Speaker
+
+`2022`
+**Berge, PS.** *Understanding Extremism and Social Media*. Developmental psychology course. April 2022, University of Minnesota.
+
+**Berge, PS.** *Twine & Design*. Digital rhetoric course. March 2022, University of Central Florida.
 
 `2020`
 **Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
