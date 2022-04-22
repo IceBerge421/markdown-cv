@@ -330,6 +330,7 @@ British Literature I [Face-to-Face Course]
 `2022`
 **Berge, PS.** *Understanding Extremism and Social Media*. Developmental psychology course. April 2022, University of Minnesota.
 
+`2022`
 **Berge, PS.** *Twine & Design*. Digital rhetoric course. March 2022, University of Central Florida.
 
 `2020`
