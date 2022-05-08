@@ -222,6 +222,10 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2022`
+**Berge, PS**. (Forthoming June 2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." To be presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. Virtual Event.
+
+
+`2022`
 **Berge, PS** and Heslep, D.G. (Forthcoming June 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
 
 `2022`
