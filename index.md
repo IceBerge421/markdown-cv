@@ -108,7 +108,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (Forthcoming April 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
+**Berge, PS**. (Forthcoming July 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
@@ -222,20 +222,19 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2022`
-**Berge, PS**. (Forthoming June 2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." To be presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. Virtual Event.
-
-
-`2022`
-**Berge, PS** and Heslep, D.G. (Forthcoming June 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
+**Berge, PS**. (Forthcoming July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
 
 `2022`
-Barnes, N., **Berge, PS** , Cato, F. (Forthcoming May 2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
+**Berge, PS** and Heslep, D.G. (Forthcoming 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
 
 `2022`
-Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, PS**. (Forthcoming May 2022). “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature.” Presented at the Electronic Literature Conference. Como, Italy.
+**Berge, PS**. (2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." To be presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. Virtual Event.
 
 `2022`
-**Berge, PS**. (Forthcoming April 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
+Barnes, N., **Berge, PS** , Cato, F. (2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
+
+`2022`
+Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, PS**. (2022). "Adventures Through Twine & Space: Re-Imagining Geolocative IF Platforms". Presented in “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature” at the Electronic Literature Conference. Como, Italy.
 
 `2022`
 **Berge, PS** (chair), Rose Aceae, R., Zegura, C., Murray, J (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
@@ -457,10 +456,15 @@ __Grey Door Games LLC__<br>
 
 ## Media and Press
 
+`2022`
+Kotaku. (June, 2022). Interviewed for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+
 `2021`
 UCF College of Arts & Humanities. (June, 2021). "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
 ---
 
