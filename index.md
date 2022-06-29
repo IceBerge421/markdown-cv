@@ -222,13 +222,16 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2022`
+**Berge, PS**. (Forthcoming July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. To be presented at Generation Analog 2022. Virtual Event.
+
+`2022`
 **Berge, PS**. (Forthcoming July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
 
 `2022`
-**Berge, PS** and Heslep, D.G. (Forthcoming 2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” To be presented at the Console-ing Passions 2022 Conference. Orlando, FL.
+**Berge, PS** and Heslep, D.G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
 
 `2022`
-**Berge, PS**. (2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." To be presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. Virtual Event.
+**Berge, PS**. (2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." Presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. Virtual Event.
 
 `2022`
 Barnes, N., **Berge, PS** , Cato, F. (2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
