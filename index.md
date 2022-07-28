@@ -108,7 +108,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (Forthcoming July 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
+**Berge, PS**. (Forthcoming Summer 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Guadalajara, Mexico. (Accepted for publication and presentation).
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
@@ -153,6 +153,12 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 ## Creative Work - Games
 
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
+
+`2022`
+***Songs for Giants***<br>Interactive essay on lyric games made in Twine, Bitsy, and Glitch.
+- Featured in the Console-ing Passions 2022 Arcade
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://gravesnail.itch.io/songs-for-giants](https://gravesnail.itch.io/songs-for-giants)
 
 `2021`
 ***Fish & Dagger***<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
@@ -222,10 +228,10 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2022`
-**Berge, PS**. (Forthcoming July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. To be presented at Generation Analog 2022. Virtual Event.
+**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. To be presented at Generation Analog 2022. Virtual Event.
 
 `2022`
-**Berge, PS**. (Forthcoming July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
+**Berge, PS**. (July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
 
 `2022`
 **Berge, PS** and Heslep, D.G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
