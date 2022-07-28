@@ -181,7 +181,6 @@ Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io
 
 `2021`
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
-- Ranked 3.5 stars on the Interactive Fiction Database
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
