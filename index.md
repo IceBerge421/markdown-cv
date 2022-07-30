@@ -229,6 +229,8 @@ National Graduate Council Fellowship, University of Alabama
 `2022`
 **Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. To be presented at Generation Analog 2022. Virtual Event.
 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
+
 `2022`
 **Berge, PS**. (July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
 
