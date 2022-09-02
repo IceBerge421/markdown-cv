@@ -12,7 +12,7 @@ title: "PS Berge"
 *(they/them pronouns)*
 
 <div id="printPageButton">
-<p>Studying queer games 🌈🎮 and toxic technocultures 💻💀.</p>
+<p>Studying trans + queer games 🌈🎮 and toxic technocultures 💻💀.</p>
 
 </div>
 
@@ -33,7 +33,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
+Trans and queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
