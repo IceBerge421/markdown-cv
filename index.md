@@ -341,6 +341,9 @@ British Literature I [Face-to-Face Course]
 ### Featured Speaker
 
 `2022`
+**Berge, PS.** Book club discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. September, 2022. Game Philosophy Academics reading group.
+
+`2022`
 **Berge, PS.** *Understanding Extremism and Social Media*. Developmental psychology course. April 2022, University of Minnesota.
 
 `2022`
