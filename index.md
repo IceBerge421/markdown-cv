@@ -33,7 +33,7 @@ Researcher, designer, and doctoral student in media studies in the University of
 
 ### Research interests
 
-Trans and queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
+Trans and queer game studies, Adrianna's happiness, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
