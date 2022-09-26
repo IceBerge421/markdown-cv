@@ -474,6 +474,7 @@ __Grey Door Games LLC__<br>
 
 `2022`
 Nicholson School of Media Today. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation".
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
 Kotaku. (June, 2022). Interviewed for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
