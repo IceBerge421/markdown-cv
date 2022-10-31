@@ -111,7 +111,10 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (Forthcoming 2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Accepted for publication and presentation).
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine". In *Proceedings of the International Conference on Interactive Digital Storytelling*. ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation).
+
+<span id="printPageButton">`2022`</span>
+**Berge, PS**. (2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Proceedings forthcoming).
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
@@ -228,6 +231,10 @@ National Graduate Council Fellowship, University of Alabama
 ## Peer-Reviewed Conference Presentations
 
 <div class="item" id="pubs" markdown="1">
+
+`2022`
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine" ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation). Hybrid Event.
+
 
 `2022`
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North American 2022 Conference. Virtual Event.
