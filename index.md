@@ -9,7 +9,7 @@ title: "PS Berge"
 
 # BERGE
 
-*(they/them pronouns)*
+*(they/she pronouns)*
 
 <div id="printPageButton">
 <p>Studying queer games 🌈🎮 and toxic technocultures 💻💀.</p>
