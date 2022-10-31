@@ -230,7 +230,10 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2022`
-**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. To be presented at Generation Analog 2022. Virtual Event.
+David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North American 2022 Conference. Virtual Event.
+
+`2022`
+**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. Virtual Event.
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
 
