@@ -12,7 +12,7 @@ title: "PS Berge"
 *(they/she pronouns)*
 
 <div id="printPageButton">
-<p>Studying queer games 🌈🎮 and toxic technocultures 💻💀.</p>
+<p>Studying trans and queer games 🌈🎮 and toxic technocultures 💻💀.</p>
 
 </div>
 
