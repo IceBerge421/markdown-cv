@@ -29,7 +29,7 @@ title: "PS Berge"
 
 ## About
 
-Researcher, designer, and doctoral student in media studies in the University of Central Florida’s Texts & Technology PhD program. Work can be found or is forthcoming in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and ACM Hypertext.
+Researcher, designer, and doctoral candidate in media studies in the University of Central Florida’s Texts & Technology PhD program. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 ### Research interests
 
@@ -94,7 +94,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-Britt, R.K. & **Berge, PS**  (Forthcoming November, 2022). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(1).
+Britt, R.K. & **Berge, PS**  (Forthcoming, 2022). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(1).
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt)
@@ -111,7 +111,9 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine". In *Proceedings of the International Conference on Interactive Digital Storytelling*. ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation).
+
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), Interactive Storytelling (pp. 499–512). Springer International Publishing. [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32)
+
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. (2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Proceedings forthcoming).
