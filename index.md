@@ -114,6 +114,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nominee for Best Student Paper Award.
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. (2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Proceedings forthcoming).
