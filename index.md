@@ -200,6 +200,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 Presidential Doctoral Fellowship, University of Central Florida
 
 `2022`
+ICIDS 2022 Best Student Paper Award - Nominee 
+
+`2022`
 Departmental Conference Travel Funding Award
 
 `2021`
