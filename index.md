@@ -256,6 +256,15 @@ National Graduate Council Fellowship, University of Alabama
 
 <div class="item" id="pubs" markdown="1">
 
+`2023`
+Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (Forthcoming March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". To be presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+
+`2023`
+Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (Forthcoming, 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". To be presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+
+`2022`
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. Hybrid Event.
+
 `2022`
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine" ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation). Hybrid Event.
 
