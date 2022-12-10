@@ -120,7 +120,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 **Berge, PS**. (2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Proceedings forthcoming).
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
+**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
@@ -159,7 +159,9 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 </div>
 ---
 
-## Creative Work - Games
+## Published Media Projects
+
+### Games
 
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
@@ -192,6 +194,15 @@ Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
+
+### Tools and Software
+
+`2022`
+Cox, D., **Berge, PS**, Murray, J., & Salter, A. (2022). TwineSpace [HTML]. [https://twinestory.space/](https://twinestory.space/)
+
+`2021/2022`
+**Berge, PS**. (2021/2022). Disboard Scraper and Analysis Notebook. Zenodo. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+
 
 ---
 ## Awards and Fellowships
