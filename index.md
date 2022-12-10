@@ -204,10 +204,10 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 <div class="item" id="pubs" markdown="1">
 
 `2022`
-Cox, D., **Berge, PS**, Murray, J., & Salter, A. (2022). TwineSpace [HTML]. [https://twinestory.space/](https://twinestory.space/)
+Cox, D., **Berge, PS**, Murray, J., & Salter, A. (2022). TwineSpace [Twine Story Format]. [https://twinestory.space/](https://twinestory.space/)
 
 `2021/2022`
-**Berge, PS**. (2021/2022). Disboard Scraper and Analysis Notebook. Zenodo. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+**Berge, PS**. (2021/2022). Disboard Scraper and Analysis Notebook. Google Colaboratory Notebook. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
 
 </div>
 
