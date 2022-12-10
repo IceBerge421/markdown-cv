@@ -422,9 +422,6 @@ British Literature I [Face-to-Face Course]
 
 ## Service to Profession
 
-`2022-Present`
-Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
-
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
@@ -432,7 +429,13 @@ Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.
 Reviewer, *Press Start* journal
 
 `2022`
+Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
+
+`2022`
 Reviewer, *Queer Studies in Media and Popular Culture*, Special Issue
+
+`2022`
+Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
 
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
