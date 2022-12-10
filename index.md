@@ -163,6 +163,8 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 ### Games
 
+<div class="item" id="pubs" markdown="1">
+
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2022`
@@ -195,7 +197,11 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
+</div>
+
 ### Tools and Software
+
+<div class="item" id="pubs" markdown="1">
 
 `2022`
 Cox, D., **Berge, PS**, Murray, J., & Salter, A. (2022). TwineSpace [HTML]. [https://twinestory.space/](https://twinestory.space/)
@@ -203,6 +209,7 @@ Cox, D., **Berge, PS**, Murray, J., & Salter, A. (2022). TwineSpace [HTML]. [htt
 `2021/2022`
 **Berge, PS**. (2021/2022). Disboard Scraper and Analysis Notebook. Zenodo. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
 
+</div>
 
 ---
 ## Awards and Fellowships
