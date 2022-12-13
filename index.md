@@ -252,7 +252,17 @@ National Graduate Council Fellowship, University of Alabama
 
 ---
 
-## Peer-Reviewed Conference Presentations
+## Conferences and Talks
+
+### Invited Talks and Keynotes
+
+`2022`
+**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited webinar. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
+
+`2022`
+**Berge, PS.** Invited speaker at book club event to discuss “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. September, 2022. Game Philosophy Academics reading group.
+
+### Peer-Reviewed Conference Presentations
 
 <div class="item" id="pubs" markdown="1">
 
@@ -329,6 +339,51 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2019`
 **Berge, PS**, Eubanks, J., Nisbitt, L., & Stevens, A. (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
+### Workshops Led
+
+`2022`
+**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
+
+`2019`
+**Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
+
+`2017`
+**Berge, PS**. “Going meta in our writing”. Creative Writing course. February 2017, University of Alabama.
+
+`2016`
+**Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
+
+### Guest Lectures
+
+`2022`
+**Berge, PS.** "Understanding Extremism and Social Media". Developmental psychology course. April 2022, University of Minnesota.
+
+`2022`
+**Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
+
+`2020`
+**Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
+
+`2020`
+**Berge, PS** and Davenport, LM. Reading from "Great Opportunities: Stories from the Multiverse's Shittiest Space Colony". MFA Reading Series. February 2020, University of Alabama.
+
+`2019`
+**Berge, PS.** “Teaching with ePortfolios”. Graduate teaching assistant training. November 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games writing course. October 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** "Technology research in virtual reality and video games". Gaming journalism course. February 2019, University of Alabama.
+
+`2019`
+**Berge, PS.** “Collaborative Writing, Print to Digital”. Research methods graduate course. February 2019, University of Alabama.
+
+`2018`
+**Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
+
 </div>
 
 ---
@@ -364,59 +419,6 @@ British Literature II [Face-to-Face Course]
 British Literature I [Face-to-Face Course]
 
 </div>
-
-### Workshops
-
-`2022`
-
-**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
-
-`2019`
-**Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
-
-`2017`
-**Berge, PS**. “Going meta in our writing”. Creative Writing course. February 2017, University of Alabama.
-
-`2016`
-**Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
-
----
-
-## Campus and Community Talks
-
-### Featured Speaker
-
-`2022`
-**Berge, PS.** Book club discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. September, 2022. Game Philosophy Academics reading group.
-
-`2022`
-**Berge, PS.** *Understanding Extremism and Social Media*. Developmental psychology course. April 2022, University of Minnesota.
-
-`2022`
-**Berge, PS.** *Twine & Design*. Digital rhetoric course. March 2022, University of Central Florida.
-
-`2020`
-**Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
-
-`2020`
-**Berge, PS** and Davenport, LM. Reading from "Great Opportunities: Stories from the Multiverse's Shittiest Space Colony". MFA Reading Series. February 2020, University of Alabama.
-
-`2019`
-**Berge, PS.** “Teaching with ePortfolios”. Graduate teaching assistant training. November 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games writing course. October 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** "Technology research in virtual reality and video games". Gaming journalism course. February 2019, University of Alabama.
-
-`2019`
-**Berge, PS.** “Collaborative Writing, Print to Digital”. Research methods graduate course. February 2019, University of Alabama.
-
-`2018`
-**Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
 
 ---
 
