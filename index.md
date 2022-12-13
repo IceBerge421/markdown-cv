@@ -424,6 +424,9 @@ British Literature I [Face-to-Face Course]
 
 ## Service to Profession
 
+`2022-Present`
+Cofounder of Tabletop Research in Practice (TRiP)
+
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
