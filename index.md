@@ -257,10 +257,10 @@ National Graduate Council Fellowship, University of Alabama
 ### Invited Talks and Keynotes
 
 `2022`
-**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited webinar. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
+**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited speaker. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
 
 `2022`
-**Berge, PS.** Invited speaker at book club event to discuss “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. September, 2022. Game Philosophy Academics reading group.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. September, 2022. Game Philosophy Academics reading group.
 
 ### Peer-Reviewed Conference Presentations
 
