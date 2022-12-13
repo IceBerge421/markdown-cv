@@ -404,7 +404,7 @@ English Composition II [Face-to-Face Course]
 
 English Composition I [Face-to-Face Course]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses designed pitched competitively to department.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses pitched competitively to department.
 
 </div>
 
