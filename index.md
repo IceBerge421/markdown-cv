@@ -120,7 +120,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 **Berge, PS**. (2022). “LET ALL PARTAKE IN THE SUFFERING”: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix. In *Proceedings of the Digital Games Research Association*. DiGRA 2022, Kraków, Poland. (Proceedings forthcoming).
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) 
+**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
@@ -168,7 +168,11 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 </div>
 ---
 
-## Creative Work - Games
+## Published Media Projects
+
+### Games
+
+<div class="item" id="pubs" markdown="1">
 
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
@@ -201,6 +205,20 @@ Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
+
+</div>
+
+### Tools and Software
+
+<div class="item" id="pubs" markdown="1">
+
+`2022`
+Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]. [https://twinestory.space/](https://twinestory.space/)
+
+`2021/2022`
+**Berge, PS**. Disboard Scraper and Analysis Notebook. Google Colaboratory Notebook. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+
+</div>
 
 ---
 ## Awards and Fellowships
@@ -243,9 +261,28 @@ National Graduate Council Fellowship, University of Alabama
 
 ---
 
-## Peer-Reviewed Conference Presentations
+## Conferences and Talks
+
+### Invited Talks and Keynotes
+
+`2022`
+**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited speaker. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
+
+`2022`
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. September, 2022. Game Philosophy Academics reading group.
+
+### Peer-Reviewed Conference Presentations
 
 <div class="item" id="pubs" markdown="1">
+
+`2023`
+Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (Forthcoming March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". To be presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+
+`2023`
+Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (Forthcoming, 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". To be presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+
+`2022`
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. Hybrid Event.
 
 `2022`
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine" ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation). Hybrid Event.
@@ -311,46 +348,9 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2019`
 **Berge, PS**, Eubanks, J., Nisbitt, L., & Stevens, A. (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
-</div>
-
----
-## Courses Taught
-### Instructor of Record 
-
-**University of Alabama**
-
-<div class="item" id="pubs" markdown="1">
-
-Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]\*
-
-Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]\*
-
-Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Course]\*
-
-English Composition II [Face-to-Face Course]
-
-English Composition I [Face-to-Face Course]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses designed pitched competitively to department.
-
-</div>
-
-### Graduate Teaching Assistant
-
-<div class="item" id="pubs" markdown="1">
-
-**University of Alabama**
-
-British Literature II [Face-to-Face Course]
-
-British Literature I [Face-to-Face Course]
-
-</div>
-
-### Workshops
+### Workshops Led
 
 `2022`
-
 **Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
@@ -364,20 +364,13 @@ British Literature I [Face-to-Face Course]
 `2016`
 **Berge, PS**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
 
----
-
-## Campus and Community Talks
-
-### Featured Speaker
+### Guest Lectures
 
 `2022`
-**Berge, PS.** Book club discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. September, 2022. Game Philosophy Academics reading group.
+**Berge, PS.** "Understanding Extremism and Social Media". Developmental psychology course. April 2022, University of Minnesota.
 
 `2022`
-**Berge, PS.** *Understanding Extremism and Social Media*. Developmental psychology course. April 2022, University of Minnesota.
-
-`2022`
-**Berge, PS.** *Twine & Design*. Digital rhetoric course. March 2022, University of Central Florida.
+**Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
 
 `2020`
 **Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
@@ -400,12 +393,48 @@ British Literature I [Face-to-Face Course]
 `2018`
 **Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
 
+</div>
+
+---
+## Courses Taught
+### Instructor of Record 
+
+**University of Alabama**
+
+<div class="item" id="pubs" markdown="1">
+
+Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]\*
+
+Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]\*
+
+Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Course]\*
+
+English Composition II [Face-to-Face Course]
+
+English Composition I [Face-to-Face Course]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses pitched competitively to department.
+
+</div>
+
+### Graduate Teaching Assistant
+
+<div class="item" id="pubs" markdown="1">
+
+**University of Alabama**
+
+British Literature II [Face-to-Face Course]
+
+British Literature I [Face-to-Face Course]
+
+</div>
+
 ---
 
 ## Service to Profession
 
 `2022-Present`
-Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
+Cofounder of Tabletop Research in Practice (TRiP)
 
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
@@ -414,7 +443,13 @@ Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.
 Reviewer, *Press Start* journal
 
 `2022`
+Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
+
+`2022`
 Reviewer, *Queer Studies in Media and Popular Culture*, Special Issue
+
+`2022`
+Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
 
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
