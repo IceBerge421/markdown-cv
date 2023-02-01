@@ -146,6 +146,15 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 ## Other Publications
 
+### Book Reviews
+
+<div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2022`</span>
+**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132)
+
+</div>
+
 ### Academic Blog Posts
 
 <div class="item" id="pubs" markdown="1">
