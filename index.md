@@ -186,6 +186,8 @@ Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io
 ***Fish & Dagger***<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
+- Winner of the 2021 XYZZY Award "Best Use of Multimedia"
+- Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
 
@@ -227,28 +229,37 @@ Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]
 Presidential Doctoral Fellowship, University of Central Florida
 
 `2022`
-ICIDS 2022 Best Student Paper Award - Nominee 
+Nominee, ICIDS 2022 Best Student Paper Award
 
 `2022`
 Departmental Conference Travel Funding Award
 
 `2021`
-IEEE VR Doctoral Consortium Best Presentation Award
+Winner, IEEE VR Doctoral Consortium Best Presentation Award
+
+`2021`
+Winner, Best Use of Multimedia Award, 2021 XYZZY Awards
+
+`2021`
+Nominee, Best Use of innovation, 2021 XYZZY Awards
+
+`2021`
+Winner, Best In Show; Audience Choice; Best Humor; Most Innovative; Best Multimedia Spring Thing 2021 Main Festival
 
 `2021`
 NSF Conference Attendance Funding Award, IEEE VR
 
 `2020`
-Top Paper Award, NCA Game Studies Division
+Winner, Top Paper Award, NCA Game Studies Division
 
 `2020`
 Extraordinary Service Scholarship, University of Alabama
 
 `2019`
-Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
+Winner, Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
 
 `2019`
-Nominated for English Department’s Outstanding Thesis by a Master’s Student Award
+Nominee, Outstanding Thesis by a Master’s Student Award, University of Alabama English Department
 
 `2016-2019`
 Truman Capote Literary Trust, University of Alabama
