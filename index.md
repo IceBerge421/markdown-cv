@@ -229,6 +229,9 @@ Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]
 Presidential Doctoral Fellowship, University of Central Florida
 
 `2022`
+Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
+
+`2022`
 Nominee, ICIDS 2022 Best Student Paper Award
 
 `2022`
