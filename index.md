@@ -306,11 +306,7 @@ Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (Forthco
 Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (Forthcoming, 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". To be presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
 
 `2022`
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. Hybrid Event.
-
-`2022`
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (Forthcoming December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine" ICIDS 2022, Santa Cruz, California. (Accepted for publication and presentation). Hybrid Event.
-
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. In-Person Event.
 
 `2022`
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North American 2022 Conference. Virtual Event.
