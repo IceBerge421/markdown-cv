@@ -91,7 +91,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 ## Peer-Reviewed Publications
 ### Journal Articles
 
-<div class="item" id="pubs" markdown="1">
+<div class="item" id="pubs" markdown="1"> 
 
 <!-- <span id="printPageButton">`2022`</span>
 Britt, R.K. & **Berge, PS**  (Forthcoming). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies*. -->
