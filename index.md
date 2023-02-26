@@ -275,9 +275,19 @@ National Graduate Council Fellowship, University of Alabama
 
 ---
 
+### Panels Organized and Chaired
+
+`2022`
+"Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
+  
+`2019`
+"Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
+
+
+---
 ## Conferences and Talks
 
-### Invited Talks and Keynotes
+### Invited Talks
 
 `2022`
 **Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited speaker. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
@@ -509,12 +519,6 @@ ePortfolio Assessment Group, University of Alabama
 
 ## Selected Work and Leadership Experience
 
-`2022-Present`
-__University of Central Florida__<br>
-*Procedural Narrative + Augmented Reality Research Assistant*
-
-<!-- - Researching and devloping procedural narrative systems in JavaScript to support interactive fiction resources -->
-
 `2021-Present`
 __The [Discord Academic Research Community](https://darcmode.org/)__<br>
 *Director, Founder, Community Manager*
@@ -525,9 +529,23 @@ __The [Discord Academic Research Community](https://darcmode.org/)__<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
 
+`2022-Present`
+__University of Central Florida__<br>
+*Procedural Narrative + Augmented Reality Research Assistant*
+
+<!-- - Researching and devloping procedural narrative systems in JavaScript to support interactive fiction resources -->
+
+`2022-Present`
+__University of Texas, Austin__<br>
+Writing Assessment Specialist, OnRamps Rhetoric Program
+
+`2022`
+__Game in Lab__<br>
+Community Management Consultant
+
 `2016-2019`
 __University of Alabama__<br>
-*Graduate Teaching Assistant, Digital Literacy Mentor*
+*Digital Literacy Mentor, Graduate Teaching Assistant*
 
 <!-- - Developed creative and engaging lessons plans, syllabi, and activities to encourage emergent learning and introduce students to composing and critical thinking fundamentals, including multimodal composing strategies, rhetoric, discourse analysis, and holistic revision strategies -->
 <!-- - Worked with other instructors and departments to develop pedagogical resources and innovative approaches to teaching both composition and creative writing at the department level  -->
