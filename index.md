@@ -117,7 +117,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nominee for Best Student Paper Award.
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). Let All Partake in the Suffering: MÖRK BORG as a Visual-Material Toolkit for Fan Remix. Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together, 1–19. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf)
+**Berge, PS**. (2022). "LET ALL PARTAKE IN THE SUFFERING": *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together, 1–19. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf)
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16)
