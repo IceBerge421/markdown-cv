@@ -93,8 +93,8 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
-<!-- <span id="printPageButton">`2022`</span>
-Britt, R.K. & **Berge, PS**  (Forthcoming). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies*. -->
+<span id="printPageButton">`2023`</span>
+Britt, R.K. & **Berge, PS**  (March, 2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf)
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt)
