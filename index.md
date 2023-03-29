@@ -289,7 +289,7 @@ National Graduate Council Fellowship, University of Alabama
 ### Invited Talks
 
 `2023`
-**Berge, PS** & Cox, Dan. (2023). ARDIN Social Talk On TwineSpace: An Augmented Reality Story Format for Twine. ARDIN Social. Invited talk online on 29 March 2023.
+**Berge, PS** & Cox, Dan. (2023). Presentation of TwineSpace: An Augmented Reality Story Format for Twine. ARDIN Social Meeting. Invited talk online on 29 March 2023.
 
 `2022`
 **Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited speaker. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
