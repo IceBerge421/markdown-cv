@@ -506,17 +506,20 @@ __Grey Door Games LLC__<br>
 
 ## Service to Profession
 
-`2022-Present`
-Cofounder of Tabletop Research in Practice (TRiP)
+`2023`
+Reviewer, *CHI Play*
 
 `2022-Present`
-Reviewer, *New Media & Society*
+Cofounder of Tabletop Research in Practice (TRiP)
 
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
 `2021-Present`
 Reviewer, *Press Start*
+
+`2022`
+Reviewer, *New Media & Society*
 
 `2022`
 Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
