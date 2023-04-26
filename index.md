@@ -288,6 +288,9 @@ National Graduate Council Fellowship, University of Alabama
 
 ### Invited Talks
 
+<!--`2023`
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games, University of Malta.-->
+
 `2023`
 **Berge, PS** & Cox, Dan. (2023). Presentation of TwineSpace: An Augmented Reality Story Format for Twine. ARDIN Social Meeting. Invited talk online on 29 March 2023.
 
@@ -302,10 +305,10 @@ National Graduate Council Fellowship, University of Alabama
 <div class="item" id="pubs" markdown="1">
 
 `2023`
-Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (Forthcoming March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". To be presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". Presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
 
 `2023`
-Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (Forthcoming, 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". To be presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (March 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". Presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
 
 `2022`
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. In-Person Event.
