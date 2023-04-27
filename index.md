@@ -288,8 +288,8 @@ National Graduate Council Fellowship, University of Alabama
 
 ### Invited Talks
 
-<!--`2023`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games, University of Malta.-->
+`2023`
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games, Book Club, University of Malta.
 
 `2023`
 **Berge, PS** & Cox, Dan. (2023). Presentation of TwineSpace: An Augmented Reality Story Format for Twine. ARDIN Social Meeting. Invited talk online on 29 March 2023.
