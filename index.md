@@ -94,6 +94,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2023`</span>
+**Berge, PS**  (Forthcoming 2023). “#AnswerUsYouTube: Predatory Influencers and Cross-Platform Insulation,” *Feminist Media Studies.* (Accepted with minor revisions).
+
+<span id="printPageButton">`2023`</span>
 Britt, R.K. & **Berge, PS**  (March, 2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf)
 
 <span id="printPageButton">`2021`</span>
