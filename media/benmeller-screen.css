@@ -333,6 +333,10 @@ and (min-width : 1824px) {
 	display: none;
 }
 
+.PDF{ 
+	color: rgb(255, 30, 199);
+}
+
 @media print {
 	#printPageButton {
 	  display: none;

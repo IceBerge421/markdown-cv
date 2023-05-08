@@ -98,11 +98,11 @@ __A.A. Integrated Studies, Cascadia Community College__
 <span id="printPageButton">`2023`</span>
 **Berge, PS**  (Forthcoming 2023). “#AnswerUsYouTube: Predatory Influencers and Cross-Platform Insulation,” *Feminist Media Studies.* (Accepted with minor revisions).
 
-<span id="printPageButton">`2023 <br>[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)`</span>
-Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) [\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)
+<span id="printPageButton">`2023`</span>
+Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) [\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) [Open Access Online]
+**Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="PDF">[Open Access Online]</span>
 
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) [\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)
