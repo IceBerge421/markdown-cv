@@ -97,7 +97,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 **Berge, PS**  (Forthcoming 2023). “#AnswerUsYouTube: Predatory Influencers and Cross-Platform Insulation,” *Feminist Media Studies.* (Accepted with minor revisions).
 
 <span id="printPageButton">`2023`</span>
-Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf)
+Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) 
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt)
@@ -128,7 +128,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094)
+**Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) [\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)
 
 </div>
 
