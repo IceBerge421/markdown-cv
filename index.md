@@ -37,6 +37,7 @@ Trans and queer game studies, hate and extremism on social media, tabletop rolep
 
 </div>
 <div class="item" id="webaddress" markdown="1">
+
 <base target="_blank">
 
 ## Contact
@@ -97,7 +98,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <span id="printPageButton">`2023`</span>
 **Berge, PS**  (Forthcoming 2023). “#AnswerUsYouTube: Predatory Influencers and Cross-Platform Insulation,” *Feminist Media Studies.* (Accepted with minor revisions).
 
-<span id="printPageButton">`2023`</span>
+<span id="printPageButton">`2023`<br>[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) [\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)
 
 <span id="printPageButton">`2021`</span>
@@ -155,7 +156,7 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132)
+**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) [\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)
 
 </div>
 
