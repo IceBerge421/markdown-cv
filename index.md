@@ -68,7 +68,7 @@ __Ph.D. Texts and Technology, Universty of Central Florida__
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
 
-- Thesis: DARKGLOW: A HEAVY-METAL BALLAD (illustrated media novel)
+- Thesis: DARKGLOW: A HEAVY-METAL BALLAD (Interactive Media Novel)
 - Advisor: Dr. Heidi Staples
 
 `2016-2019`
@@ -308,6 +308,9 @@ National Graduate Council Fellowship, University of Alabama
 ### Peer-Reviewed Conference Presentations
 
 <div class="item" id="pubs" markdown="1">
+
+`2023`
+**Berge, PS** (July 2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Accepted for presentation at Generation Analog 2023. Online event hosted by *Analog Game Studies* and *Game in Lab.*
 
 `2023`
 Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". Presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
