@@ -78,7 +78,7 @@ __M.A. Composition, Rhetoric, and English Studies__
 - Advisor: Dr. Amber Buck
 
 `2014-2016`
-__B.A. English, University of Washington__
+__B.A. English (Creative Writing), University of Washington__
 <!-- - Emphasis in Creative Writing-->
 <!--- *Summa Cum Laude*-->
 <!--Minor in History-->
@@ -96,7 +96,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2023`</span>
-**Berge, PS**  (Forthcoming 2023). “#AnswerUsYouTube: Predatory Influencers and Cross-Platform Insulation,” *Feminist Media Studies.* (Accepted with minor revisions).
+**Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, 0(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
 
 <span id="printPageButton">`2023`</span>
 Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
