@@ -181,6 +181,13 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
+`2023`
+***the ice: a tragic roleplaying game***<br>18-page PDF. A tragic LARP about surviving an arctic hellscape over the course of seven scenes.  
+- Made in collaboration with adriiadventures.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playable at: [https://gravesnail.itch.io/the-ice](https://gravesnail.itch.io/the-ice)
+
+
 `2022`
 ***Songs for Giants***<br>Interactive essay on lyric games made in Twine, Bitsy, and Glitch.
 - Featured in the Console-ing Passions 2022 Arcade
@@ -219,11 +226,11 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 
 <div class="item" id="pubs" markdown="1">
 
+`2021-2023`
+**Berge, PS**. Disboard Scraper and Analysis Notebook. Google Colaboratory Notebook. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+
 `2022`
 Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]. [https://twinestory.space/](https://twinestory.space/)
-
-`2021/2022`
-**Berge, PS**. Disboard Scraper and Analysis Notebook. Google Colaboratory Notebook. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
 
 </div>
 
