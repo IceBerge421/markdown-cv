@@ -590,6 +590,9 @@ ePortfolio Assessment Group, University of Alabama
 
 ## Media and Press
 
+`2023`
+Interviewed as an expert by journalists from *PBS Frontline* and *The Washington Post* on Discord, gaming culture, and moderation challenges. (July, 2023).
+
 `2022`
 Nicholson School of Media Today. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation".
 
