@@ -481,13 +481,23 @@ __The [Discord Academic Research Community](https://darcmode.org/)__<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
 
-`2022-Present`
+`2021-Present`
+__[Tabletop Research in Practice (TRiP)](https://darcmode.org/)__<br>
+*Founder, Co-Director*
+
+<!--- Designing and maintaining an accessible Discord server for academic resources and community-->
+<!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
+- Leading the moderator team and engaging an active community of 100+ Internet researchers
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
+
+`2022-2023`
 __University of Central Florida__<br>
 *Procedural Narrative + Augmented Reality Research Assistant*
 
 <!-- - Researching and devloping procedural narrative systems in JavaScript to support interactive fiction resources -->
 
-`2022-Present`
+`2022-2023`
 __University of Texas, Austin__<br>
 Writing Assessment Specialist, OnRamps Rhetoric Program
 
