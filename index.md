@@ -286,15 +286,6 @@ National Graduate Council Fellowship, University of Alabama
 
 ---
 
-### Panels Organized and Chaired
-
-`2022`
-"Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
-  
-`2019`
-"Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
-
----
 ## Conferences and Talks
 
 ### Invited Talks
@@ -431,6 +422,14 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 `2018`
 **Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
+
+### Panels Organized and Chaired
+
+`2022`
+"Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
+  
+`2019`
+"Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
 </div>
 
