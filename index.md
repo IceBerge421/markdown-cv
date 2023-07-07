@@ -482,8 +482,8 @@ __The [Discord Academic Research Community](https://darcmode.org/)__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
 
 `2021-Present`
-__[Tabletop Research in Practice (TRiP)](https://darcmode.org/)__<br>
-*Founder, Co-Director*
+__[Tabletop Research in Practice (TRiP)](https://triptable.top/)__<br>
+*Cofounder, Sponsored Researcher*
 
 <!--- Designing and maintaining an accessible Discord server for academic resources and community-->
 <!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
