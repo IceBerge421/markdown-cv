@@ -598,12 +598,13 @@ Nicholson School of Media Today. (September, 2022). Featured in spotlight articl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
-Kotaku. (June, 2022). Interviewed for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
+`2022`
+Kotaku. (June, 2022). Interviewed as an expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
 
 `2021`
-UCF College of Arts & Humanities. (June, 2021). "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
+UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
