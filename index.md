@@ -63,6 +63,8 @@ Trans and queer game studies, hate and extremism on social media, tabletop rolep
 __Ph.D. Texts and Technology, Universty of Central Florida__
 
 - Specialization: Digital Media
+- Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
+and possibility in digital and analog gaming"
 - Advisor: Dr. Anastasia Salter
 
 `2016-2020`
