@@ -113,7 +113,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Daniel G Heslep and PS Berge contributed equally to this research.
 
-</div>
+</div><br>
 
 ### Conference Proceedings - Articles
 
