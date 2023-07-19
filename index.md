@@ -29,11 +29,11 @@ title: "PS Berge"
 
 ## About
 
-Researcher, designer, and doctoral candidate in media studies in the University of Central Florida’s Texts & Technology PhD program. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Media studies doctoral candidate in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 ### Research interests
 
-Trans and queer game studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
+Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics.
 
 </div>
 <div class="item" id="webaddress" markdown="1">
@@ -162,9 +162,9 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 <div class="item" id="pubs" markdown="1">
 
-**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* Manuscript under review.
+**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* (Manuscript under review.)
 
-Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Play as Practice: A Collaborative Reflection on *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
+Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Play as Practice: A Collaborative Reflection on *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
