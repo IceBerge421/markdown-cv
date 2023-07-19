@@ -48,7 +48,7 @@ Trans and queer game studies, hate and extremism on social media, tabletop rolep
 
 <span id="printPageButton">🐦 </span>[@theiceberge](https://twitter.com/theiceberge)
 
-<span id="printPageButton">🕹 </span>[gravesnail.itch.io](https://gravesnail.itch.io/)
+<span id="printPageButton">🎲 </span>[gravesnail.itch.io](https://gravesnail.itch.io/)
 
 <!--👩‍🎓 [PS Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)-->
 
