@@ -165,6 +165,20 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 </div>
 
+### Manuscripts in Process
+
+<div class="item" id="pubs" markdown="1">
+
+**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* Manuscript under review.
+
+Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Play as Practice: A Collaborative Reflection on *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
+
+**Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
+
+Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)
+
+</div>
+
 ### Academic Blog Posts
 
 <div class="item" id="pubs" markdown="1">
