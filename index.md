@@ -60,12 +60,14 @@ Trans and queer game studies, hate and extremism on social media, tabletop rolep
 ## Education
 
 `2020-Present`
-__Ph.D. Texts and Technology, Universty of Central Florida__
+__Ph.D. Candidate Texts and Technology, Universty of Central Florida__
 
 - Specialization: Digital Media
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
 and possibility in digital and analog gaming"
 - Advisor: Dr. Anastasia Salter
+- Expected Defense: June 2024
+
 
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
@@ -119,12 +121,13 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 
 <span id="printPageButton">`2022`</span>
 
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
+**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. In-Person Event.
+[https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nominee for Best Student Paper Award.
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). "LET ALL PARTAKE IN THE SUFFERING": *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together, 1–19. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Let-All-Partake-In-The-Suffering.pdf)</span>
+**Berge, PS**. (2022). "LET ALL PARTAKE IN THE SUFFERING": *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. In *Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together*, 1–19. Presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico. Hybrid Event. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Let-All-Partake-In-The-Suffering.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Monster-Power.-Rebel-Heart.-Gay-Sword.pdf)</span>
@@ -132,7 +135,7 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (August, 2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design”. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
+**Berge, PS**. (August, 2021). Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. Presented at the ACM Conference on Hypertext and Social media. August 30 – September 2, 2021, Virtual Event, Ireland.  [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
 
 </div>
 
@@ -193,7 +196,7 @@ Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]
 
 <div class="item" id="pubs" markdown="1">
 
-Most games are also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
+Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2023`
 ***the ice: a tragic roleplaying game***<br>18-page PDF. A tragic LARP about surviving an arctic hellscape over the course of seven scenes.  
@@ -236,19 +239,14 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 </div>
 
 ---
-## Awards and Fellowships
 
-`2020-2024`
-Presidential Doctoral Fellowship, University of Central Florida
+## Awards and Fellowships - External
 
 `2022`
 Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
 
 `2022`
 Nominee, ICIDS 2022 Best Student Paper Award
-
-`2022`
-Departmental Conference Travel Funding Award
 
 `2021`
 Winner, IEEE VR Doctoral Consortium Best Presentation Award
@@ -257,7 +255,7 @@ Winner, IEEE VR Doctoral Consortium Best Presentation Award
 Winner, Best Use of Multimedia Award, 2021 XYZZY Awards
 
 `2021`
-Nominee, Best Use of innovation, 2021 XYZZY Awards
+Nominee, Best Use of Innovation, 2021 XYZZY Awards
 
 `2021`
 Winner, Best In Show; Audience Choice; Best Humor; Most Innovative; Best Multimedia Spring Thing 2021 Main Festival
@@ -268,45 +266,50 @@ NSF Conference Attendance Funding Award, IEEE VR
 `2020`
 Winner, Top Paper Award, NCA Game Studies Division
 
-`2020`
-Extraordinary Service Scholarship, University of Alabama
+---
+## Media and Press
 
-`2019`
-Winner, Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
+`2023`
+Interviewed as subject expert by journalists from *PBS Frontline* and *The Washington Post* on Discord, gaming culture, and platform dynamics. (July, 2023).
 
-`2019`
-Nominee, Outstanding Thesis by a Master’s Student Award, University of Alabama English Department
+`2022`
+Nicholson School of Media Today. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation".
 
-`2016-2019`
-Truman Capote Literary Trust, University of Alabama
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
-`2018`
-Carolyn P. Handa Teaching Award, University of Alabama
+`2022`
+Kotaku. (June, 2022). Interviewed as an expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
 
-`2018`
-National Graduate Council Fellowship, University of Alabama
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+
+`2021`
+UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
 ---
 
 ## Conferences and Talks
 
-### Invited Talks
+### Invited Talks - External
 
 `2023`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games, Book Club, University of Malta.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
 `2023`
-**Berge, PS** & Cox, Dan. (2023). Presentation of TwineSpace: An Augmented Reality Story Format for Twine. ARDIN Social Meeting. Invited talk online on 29 March 2023.
+**Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023. Virtual event.
 
 `2022`
-**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Invited speaker. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
+**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table. Virtual event.
 
 `2022`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. September, 2022. Game Philosophy Academics reading group.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. September, 2022. Game Philosophy Academics reading group. Virtual event.
 
 ### Peer-Reviewed Conference Presentations
 
 <div class="item" id="pubs" markdown="1">
+
+*Additional presentations may found as published confernece proeecings, listed above.*
 
 `2023`
 **Berge, PS** (July 2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Accepted for presentation at Generation Analog 2023. Online event hosted by *Analog Game Studies* and *Game in Lab.*
@@ -318,18 +321,12 @@ Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2
 Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Arianna (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (March 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%". Presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
 
 `2022`
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (December 2022). “Adventures in TwineSpace: An Augmented Reality Story Format for Twine." Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California. In-Person Event.
-
-`2022`
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North American 2022 Conference. Virtual Event.
 
 `2022`
 **Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. Virtual Event.
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
-
-`2022`
-**Berge, PS**. (July 2022). “‘LET ALL PARTAKE IN THE SUFFERING’: *MÖRK BORG* As a Visual-Material Toolkit for Fan Remix”. To be presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
 
 `2022`
 **Berge, PS** and Heslep, D.G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
@@ -349,7 +346,7 @@ Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, 
 `2021`
 **Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presdented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Hybrid Event: Tallinn, Estonia.
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Presentation Video: [youtu.be/gH6P3JiT6dE](https://youtu.be/gH6P3JiT6dE)
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation Video: [youtu.be/gH6P3JiT6dE](https://youtu.be/gH6P3JiT6dE)
 
 `2021`
 **Berge, PS**. (2021). “Playing Against the Clock: Doomsday and Queer Inevitabilities in Roleplaying Games.” Presented at the Queer Temporalities in Literature, Cinema, and Video Games International Conference. December 2–4, 2021, Virtual Event: Murcia, Spain.
@@ -357,13 +354,10 @@ Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, 
 `2021`
 **Berge, PS**. (2021). "'GO BACK IN YOUR FETUS CAVE': HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021, Virtual Event: AoIR. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View Presentation Video: [youtu.be/sVvyz2lnP5M](https://youtu.be/sVvyz2lnP5M)
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentation Video: [youtu.be/sVvyz2lnP5M](https://youtu.be/sVvyz2lnP5M)
 
 `2021`
 Heslep, D.G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021, Virtual Event: AoIR. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
-
-`2021`
-**Berge, PS**. (2021). “Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design,” in Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT’21). August 30 – September 2, 2021, Virtual Event, Ireland. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3465336.3475094.
 
 `2021`
 **Berge, PS**. (2021). “SHOW YOUR DEDICATION:” VR Games and Outmersion. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Lisbon, Portugal [Virtual conference for COVID-19], March 27 – April 3, 2021, p. 737-738. Extended abstract. [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251). **Winner of the IEEE VR Doctoral Consortium Best Presentation Award.**
@@ -385,7 +379,7 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2022`
 **Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Event flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
 
 `2019`
 **Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
@@ -596,25 +590,31 @@ ePortfolio Assessment Group, University of Alabama
 
 ---
 
-## Media and Press
+## Awards and Fellowships - Internal
 
-`2023`
-Interviewed as an expert by journalists from *PBS Frontline* and *The Washington Post* on Discord, gaming culture, and moderation challenges. (July, 2023).
-
-`2022`
-Nicholson School of Media Today. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation".
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
+`2020-2024`
+Presidential Doctoral Fellowship, University of Central Florida
 
 `2022`
-Kotaku. (June, 2022). Interviewed as an expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)".
+Departmental Conference Travel Funding Award
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+`2020`
+Extraordinary Service Scholarship, University of Alabama
 
-`2021`
-UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program".
+`2019`
+Winner, Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View at [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
+`2019`
+Nominee, Outstanding Thesis by a Master’s Student Award, University of Alabama English Department
+
+`2016-2019`
+Truman Capote Literary Trust, University of Alabama
+
+`2018`
+Carolyn P. Handa Teaching Award, University of Alabama
+
+`2018`
+National Graduate Council Fellowship, University of Alabama
 
 ---
 
