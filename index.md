@@ -158,15 +158,6 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 ## Other Publications
 
-### Book Reviews
-
-<div class="item" id="pubs" markdown="1">
-
-<span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)</span>
-
-</div>
-
 ### Manuscripts in Process
 
 <div class="item" id="pubs" markdown="1">
@@ -178,6 +169,15 @@ Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibb
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
 Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)
+
+</div>
+
+### Book Reviews
+
+<div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2022`</span>
+**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)</span>
 
 </div>
 
