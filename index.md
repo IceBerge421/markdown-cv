@@ -31,7 +31,7 @@ title: "PS Berge"
 
 Media studies doctoral candidate in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
-### Teaching and Research Fields
+### Fields of Research
 
 Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making.
 
@@ -96,7 +96,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="printOnly">
 
-<h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p>
+<hr><h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p>
 
 </div>
 
