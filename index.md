@@ -98,7 +98,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="printOnly">
 
-<hr><h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p><hr>
+<h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p><hr>
 
 </div>
 
