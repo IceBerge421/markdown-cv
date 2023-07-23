@@ -549,9 +549,6 @@ __Grey Door Games LLC__<br>
 
 ## Service to Profession
 
-`2023`
-Reviewer, *CHI Play*
-
 `2022-Present`
 Cofounder of Tabletop Research in Practice (TRiP)
 
@@ -561,8 +558,17 @@ Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.
 `2021-Present`
 Reviewer, *Press Start*
 
+`2023`
+Reviewer, *CHI Play*
+
 `2022`
 Reviewer, *New Media & Society*
+
+`2022`
+Designed and implemented the official Association of Internet Researchers Graduate Student and Early Career Group Discord Server
+
+`2022`
+Designed the [conference program](https://stars.library.ucf.edu/cp2022/resources/materials/1/) and official Discord server for the Console-ing Passions 2022 confernece
 
 `2022`
 Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
