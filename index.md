@@ -170,7 +170,7 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 **Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* (Manuscript under review.)
 
-Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Play as Practice: A Collaborative Reflection on *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
+Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
@@ -331,7 +331,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 
 <div class="item" id="pubs" markdown="1">
 
-*Additional presentations may found as published confernece proeecings, listed above.*
+*Additional presentations may found as published conference proceedings, listed above.*
 
 `2023`
 **Berge, PS** (July 2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Accepted for presentation at Generation Analog 2023. Online event hosted by *Analog Game Studies* and *Game in Lab.*
