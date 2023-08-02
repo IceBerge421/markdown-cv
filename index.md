@@ -305,7 +305,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 ### Invited Talks - External
 
 `2023`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. April, 2023. Institute of Digital Games Book Club, University of Malta.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured speaker. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
 `2023`
 **Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023. Virtual event.
@@ -314,7 +314,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 **Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table. Virtual event.
 
 `2022`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Invited speaker. September, 2022. Game Philosophy Academics reading group. Virtual event.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured speaker. September, 2022. Game Philosophy Academics reading group. Virtual event.
 
 ### Peer-Reviewed Conference Presentations
 
@@ -337,9 +337,8 @@ Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Ari (co-chair); Schmalzer, Ma
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North America 2022 Conference. [Virtual Event].
 
 `2022`
-**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. [Virtual Event].
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
+**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. [Virtual Event]. 
+- Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
 
 `2022`
 **Berge, PS** and Heslep, D.G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
@@ -358,16 +357,14 @@ Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, 
 
 `2021`
 **Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presdented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Tallinn, Estonia.
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation Video: [youtu.be/gH6P3JiT6dE](https://youtu.be/gH6P3JiT6dE)
+- Presentation Video: [youtu.be/gH6P3JiT6dE](https://youtu.be/gH6P3JiT6dE)
 
 `2021`
 **Berge, PS**. (2021). “Playing Against the Clock: Doomsday and Queer Inevitabilities in Roleplaying Games.” Presented at the Queer Temporalities in Literature, Cinema, and Video Games International Conference. December 2–4, 2021, Murcia, Spain, [Virtual Event].
 
 `2021`
 **Berge, PS**. (2021). "'GO BACK IN YOUR FETUS CAVE': HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021 [Virtual Event]. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentation Video: [youtu.be/sVvyz2lnP5M](https://youtu.be/sVvyz2lnP5M)
+- Presentation Video: [youtu.be/sVvyz2lnP5M](https://youtu.be/sVvyz2lnP5M)
 
 `2021`
 Heslep, D.G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021 [Virtual Event]. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
@@ -391,8 +388,10 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 `2022`
 **Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
+- Event flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Event flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
+`2022`
+**Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
 
 `2019`
 **Berge, PS**. “A Dip into Design: Building for ‘Fun’”. Games Writing course. October 2019, University of Alabama.
@@ -407,9 +406,6 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 `2022`
 **Berge, PS.** "Understanding Extremism and Social Media". Developmental psychology course. April 2022, University of Minnesota.
-
-`2022`
-**Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
 
 `2020`
 **Berge, PS.** "Emergent pedagogy in online environments" Graduate teaching assistant training. May 2020, University of Alabama.
@@ -450,17 +446,16 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 <div class="item" id="pubs" markdown="1">
 
-Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]\*
+Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]
 
-Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]\*
+Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]
 
-Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Course]\*
+Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Course]
 
 English Composition II [Face-to-Face Course]
 
 English Composition I [Face-to-Face Course]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* Unique courses pitched competitively to department.
 
 </div>
 
