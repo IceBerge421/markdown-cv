@@ -210,7 +210,7 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. â€
 - Presented at D/ARC workshop "Working with Networked Discord Data."
 
 `2022`
-Cox, D., **Berge, PS**, Murray, J., & Salter, A. *TwineSpace*. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. [https://twinestory.space/](https://twinestory.space/)
+Cox, D., **Berge, PS**, Murray, J., & Salter, A. *TwineSpace*. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
 - Presented at the ICIDS 2022 conference.
 
 </div>
