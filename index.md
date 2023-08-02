@@ -320,7 +320,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 
 <div class="item" id="pubs" markdown="1">
 
-*Additional presentations may found as published conference proceedings, listed above.*
+*Additional presentations may found as published proceedings, listed above.*
 
 `2023`
 **Berge, PS** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2022. [Virtual Event].
@@ -427,14 +427,6 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 `2018`
 **Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
-
-### Panels Organized and Chaired
-
-`2022`
-"Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
-  
-`2019`
-"Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
 </div>
 
@@ -579,7 +571,7 @@ Reviewer, organizing committee, Console-ing Passions 2022 Conference
 ## University Service
 
 `2022`
-Designed wesbite for new faculty, University of Central Florida English Department
+Designed website for new faculty, University of Central Florida English Department
 
 `2020-Present`
 Digital Culture Research Group, active member, University of Central Florida
