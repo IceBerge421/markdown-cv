@@ -324,8 +324,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 
 `2023`
 **Berge, PS** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2022. [Virtual Event].
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation Video: []
+- Presentation Video: [https://youtu.be/5RoHxZw2wlI?t=2083](https://youtu.be/5RoHxZw2wlI?t=2083)
 
 `2023`
 Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". Presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
