@@ -31,9 +31,9 @@ title: "PS Berge"
 
 Media studies doctoral candidate in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
-### Fields of Research
+<!--### Fields of Research
 
-Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making.
+Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making.-->
 
 </div>
 <div class="item" id="webaddress" markdown="1">
@@ -69,7 +69,6 @@ __Ph.D. Candidate Texts and Technology, Universty of Central Florida__
 and possibility in digital and analog gaming"
 - Advisor: Dr. Anastasia Salter
 - Expected Defense: June 2024
-
 
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
@@ -111,7 +110,8 @@ __A.A. Integrated Studies, Cascadia Community College__
 **Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, 0(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
 
 <span id="printPageButton">`2023`</span>
-Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
+Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
+[https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, R.K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[Open Access Online]</span>
