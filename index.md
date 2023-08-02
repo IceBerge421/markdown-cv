@@ -93,11 +93,11 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 - Certificate in Programming Foundations
 
-<div class="printOnly">
+<!--<div class="printOnly">
 
 <hr><h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p>
 
-</div>
+</div>-->
 
 ---
 
