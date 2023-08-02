@@ -206,13 +206,11 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. â€
 <div class="item" id="pubs" markdown="1">
 
 `2021-2023`
-**Berge, PS**. Disboard Scraper and Analysis Notebook. Google Colaboratory Notebook. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
-- A toolkit made in Python and Colaboratory for collecting and analyzing data about Discord server networks (with no additional coding required). 
+**Berge, PS**. Disboard Scraper and Analysis Notebook. A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
 - Presented at D/ARC workshop "Working with Networked Discord Data."
 
 `2022`
-Cox, D., **Berge, PS**, Murray, J., & Salter, A. TwineSpace [Twine Story Format]. [https://twinestory.space/](https://twinestory.space/)
-- A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame.
+Cox, D., **Berge, PS**, Murray, J., & Salter, A. *TwineSpace*. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. [https://twinestory.space/](https://twinestory.space/)
 - Presented at the ICIDS 2022 conference.
 
 </div>
