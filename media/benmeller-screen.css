@@ -253,7 +253,7 @@ div#pubs {
 }
 
 div.item > * {
-    text-align: justify;
+    text-align: left;
 	width: 100%;
 }
 
