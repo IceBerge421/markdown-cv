@@ -118,9 +118,9 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
-- \**Daniel G Heslep and PS Berge contributed equally to this research.*<br>
+- \**Daniel G Heslep and PS Berge contributed equally to this research.*
 
-</div>
+</div><br>
 
 ### Conference Proceedings - Articles
 
@@ -179,9 +179,9 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 **Berge, PS**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)<br>
+**Berge, PS**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
 
-</div>
+</div><br>
 
 ### Accepted Manuscripts in Process
 
