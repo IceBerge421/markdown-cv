@@ -118,9 +118,10 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
+
 - \**Daniel G Heslep and PS Berge contributed equally to this research.*
 
-</div><br>
+</div>
 
 ### Conference Proceedings - Articles
 
@@ -162,6 +163,20 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 ## Other Publications
 
+### Accepted Manuscripts in Process
+
+<div class="item" id="pubs" markdown="1">
+
+Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
+
+<!--**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* (Manuscript under review.)
+
+**Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
+
+Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)-->
+
+</div>
+
 ### Book Reviews
 
 <div class="item" id="pubs" markdown="1">
@@ -180,20 +195,6 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
-
-</div><br>
-
-### Accepted Manuscripts in Process
-
-<div class="item" id="pubs" markdown="1">
-
-Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
-
-<!--**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* (Manuscript under review.)
-
-**Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
-
-Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)-->
 
 </div>
 ---
