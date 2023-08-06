@@ -267,6 +267,10 @@ div#profile {
 	width: 100%;
 }
 
+div#about {
+    justify-content: space-between;
+}
+
 div#webaddress {
     flex-grow: 1;
 }

@@ -118,8 +118,7 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Daniel G Heslep and PS Berge contributed equally to this research.
+- \**Daniel G Heslep and PS Berge contributed equally to this research.*
 
 </div>
 
@@ -244,12 +243,8 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 ***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game supplement. [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
 - Published in the *Babalon's Hangover: Volume II* charity zine
 
-
-
 `2021`
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
-
-
 
 </div>
 
@@ -385,7 +380,6 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 `2022`
 **Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
-- Event flyer: [darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg](https://darcmode.org/wp-content/uploads/2022/01/Workshop-Banner-B.jpg)
 
 `2022`
 **Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
@@ -649,8 +643,6 @@ Python, C#, HTML + CSS, Javascript, Markdown, C++, Java
 Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator, Dreamweaver)
 
 WordPress, Weebly, GitHub Pages, Jekyll, Hugo
-
-Microsoft Office and Visual Studio
 
 Twine, Ren’Py, Inform 7, Bitsy
 
