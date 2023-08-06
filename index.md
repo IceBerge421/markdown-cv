@@ -29,7 +29,7 @@ title: "PS Berge"
 
 ## About
 
-Media studies doctoral candidate in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher. Work can be found in *Game Studies,* *New Media & Society,* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Doctoral candidate in Media Studies in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 <!--### Fields of Research
 
