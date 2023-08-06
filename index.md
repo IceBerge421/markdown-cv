@@ -281,13 +281,13 @@ Winner, Top Paper Award, NCA Game Studies Division
 ## Media and Press
 
 `2023`
-Interviewed as subject expert by journalists from *PBS Frontline* and *The Washington Post* on Discord, gaming culture, and platform dynamics. (July, 2023).
+Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, gaming culture, and platform dynamics. (July, 2023).
 
 `2022`
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
 `2022`
-Kotaku. (June, 2022). Interviewed as an expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+Kotaku. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
 
 `2021`
 UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
