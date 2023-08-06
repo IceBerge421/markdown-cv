@@ -120,9 +120,8 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 
 - \**Daniel G Heslep and PS Berge contributed equally to this research.*
-<br>
-</div>
 
+</div>
 
 ### Conference Proceedings - Articles
 
@@ -430,8 +429,6 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 
 **University of Alabama**
 
-<div class="item" id="pubs" markdown="1">
-
 Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]
 
 Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]
@@ -441,20 +438,14 @@ Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Co
 English Composition II [Face-to-Face Course]
 
 English Composition I [Face-to-Face Course]
-<br>
-</div>
 
 ### Graduate Teaching Assistant
-
-<div class="item" id="pubs" markdown="1">
 
 **University of Alabama**
 
 British Literature II [Face-to-Face Course]
 
 British Literature I [Face-to-Face Course]
-
-</div>
 
 ---
 
