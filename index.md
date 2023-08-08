@@ -521,6 +521,12 @@ Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.
 Reviewer, *Press Start*
 
 `2023`
+Reviewer, *Transformative Works & Culture*
+
+`2023`
+Cover Designer, *Peitho* journal special issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
+
+`2023`
 Reviewer, *CHI Play*
 
 `2022`
