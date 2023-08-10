@@ -7,7 +7,7 @@ title: "PS Berge"
 
 # PS BERGE
 
-*(Pronouns: they/them/she/her)*
+*(Pronouns: they/she)*
 
 <div id="printPageButton">
 <p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
@@ -33,7 +33,7 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 
 <h3>Fields of Research:</h3>
 
-Trans game and media studies, critical platform studies, tabletop roleplaying games, social media research and cross-platform dynamics, critical making. </div>
+<p>Trans game and media studies, critical platform studies, tabletop roleplaying games, social media research and cross-platform dynamics, critical making.</p></div>
 
 </div>
 
