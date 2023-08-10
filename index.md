@@ -76,7 +76,7 @@ and possibility in digital and analog gaming"
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
 
-- Thesis: DARKGLOW: A HEAVY-METAL BALLAD (Interactive Media Novel)
+- Thesis: *DARKGLOW: A HEAVY-METAL BALLAD* (Interactive Media Novel)
 
 `2016-2019`
 __M.A. Composition, Rhetoric, and English Studies__
