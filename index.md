@@ -504,10 +504,6 @@ __Grey Door Games LLC__<br>
 
 ## Service to Profession
 
-### Peer Reviewer, Various Journals
-
-*New Media & Society* (2022), *Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *Transformative Works & Culture* (2023-Present)
-
 `2022-Present`
 Cofounder of Tabletop Research in Practice (TRiP)
 
@@ -531,6 +527,10 @@ Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
 
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
+
+### Peer Reviewer, Various Journals
+
+*New Media & Society* (2022), *Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *Transformative Works & Culture* (2023-Present)
 
 ### Panels Organized and Chaired
 
