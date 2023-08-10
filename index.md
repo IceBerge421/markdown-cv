@@ -413,7 +413,7 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 `2018`
 **Berge, PS.** "Video game pedagogy and roleplaying in the classroom" First-Year Writing Program’s Creative Composition Series. March 2018, University of Alabama.
 
-</div>
+</div><div class="printOnly"><br></div>
 
 ---
 
