@@ -29,7 +29,9 @@ title: "PS Berge"
 
 Doctoral candidate in Media Studies in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
-<div id="printPageButton">### Fields of Research
+<div id="printPageButton">
+
+### Fields of Research
 
 Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making</div>
 
