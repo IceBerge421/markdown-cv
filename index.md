@@ -5,10 +5,9 @@ title: "PS Berge"
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-# PS 
-# BERGE
+# PS BERGE
 
-<div id="printPageButton"><i>(they/she pronouns)</i></div>
+## (they/she)
 
 <div id="printPageButton">
 <p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
@@ -30,9 +29,9 @@ title: "PS Berge"
 
 Doctoral candidate in Media Studies in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
-<!--### Fields of Research
+<div id="printPageButton">### Fields of Research
 
-Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making.-->
+Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making</div>
 
 </div>
 <div class="item" id="webaddress" markdown="1">
