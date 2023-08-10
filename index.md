@@ -274,7 +274,7 @@ Winner, Top Paper Award, NCA Game Studies Division
 ## Media and Press
 
 `2023`
-Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, gaming culture, and platform dynamics. (July, 2023).
+Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a forthcoming documentary project. (July, 2023).
 
 `2022`
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
