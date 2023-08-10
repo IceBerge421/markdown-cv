@@ -1,11 +1,12 @@
 ---
 layout: cv
 title: "PS Berge"
+icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg"
 ---
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-<div id="printPageButton"><h1>PS<br>Berge</h1></div>
+<div id="printPageButton"><h1>PS<br>BERGE</h1></div>
 <div class="printOnly"><h1>PS Berge</h1></div>
 
 *(Pronouns: they/them, she/her)*
@@ -69,20 +70,20 @@ __Ph.D. Candidate Texts and Technology, Universty of Central Florida__
 - Specialization: Digital Media
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
 and possibility in digital and analog gaming"
-- Committee: Dr. Anastasia Salter (chair), Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
+- Committee: Anastasia Salter (chair), Mel Stanfill, Brandy Dieterle, Amanda Phillips, Bo Ruberg
 - Expected Defense: June 2024
 
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
 
 - Thesis: DARKGLOW: A HEAVY-METAL BALLAD (Interactive Media Novel)
-- Advisor: Dr. Heidi Staples
+- Advisor: Heidi Staples
 
 `2016-2019`
 __M.A. Composition, Rhetoric, and English Studies__
 
 - Thesis: “Lost in the Rift: Exploring the Rhetoric of Immersion and Identity in Virtual Realities”
-- Advisor: Dr. Amber Buck
+- Advisor: Amber Buck
 
 `2014-2016`
 __B.A. English (Creative Writing), University of Washington__
