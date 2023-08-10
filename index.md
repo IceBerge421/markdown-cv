@@ -7,7 +7,7 @@ title: "PS Berge"
 
 # PS BERGE
 
-## (they/she)
+*(they/she)*
 
 <div id="printPageButton">
 <p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
