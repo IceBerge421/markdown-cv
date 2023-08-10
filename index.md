@@ -5,9 +5,8 @@ title: "PS Berge"
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-# PS 
-
-# BERGE
+<div id="printPageButton"><h1>PS<br>Berge</h1></div>
+<div class="printOnly"><h1>PS Berge</h1></div>
 
 *(Pronouns: they/them, she/her)*
 
