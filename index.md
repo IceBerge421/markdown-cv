@@ -250,8 +250,8 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 `2021`
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
-</div>
-<br>
+</div><br>
+
 ---
 
 ## Awards and Fellowships - External
