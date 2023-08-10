@@ -68,10 +68,9 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 __Ph.D. Candidate, Texts and Technology (Digital Media), Universty of Central Florida__
 
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
-and possibility in digital and analog gaming"
+and possibility in digital and analog gaming" (Expected defense: June 2024)
 - Chair: Dr. Anastasia Salter
 - Committee: Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
-- Expected Defense: June 2024
 
 `2016-2020`
 __M.F.A. Creative Writing, University of Alabama__
@@ -121,7 +120,7 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
-- \* Authors contributed equally to this research.
+- Authors contributed equally to this research.
 
 </div>
 
@@ -175,8 +174,7 @@ Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibb
 <!--
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
-Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)-->
-
+Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Forthcoming in special issue on Fandom and Platforms.)-->
 </div>
 
 ### Book Reviews
