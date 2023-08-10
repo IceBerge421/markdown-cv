@@ -129,7 +129,6 @@ Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distri
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California.
 [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
 - Nominee for Best Student Paper Award.
