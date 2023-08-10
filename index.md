@@ -51,7 +51,7 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 
 <span id="printPageButton">🎲 </span>[gravesnail.itch.io](https://gravesnail.itch.io/)
 
-<!--👩‍🎓 [PS Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)-->
+<span id="printPageButton">👩‍🎓 </span>[PS Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)
 
 <!--👩‍💻 [IceBerge421 (GitHub)](https://github.com/IceBerge421)  -->
 
@@ -265,15 +265,6 @@ Nominee, ICIDS 2022 Best Student Paper Award
 Winner, IEEE VR Doctoral Consortium Best Presentation Award
 
 `2021`
-Winner, Best Use of Multimedia Award, 2021 XYZZY Awards
-
-`2021`
-Nominee, Best Use of Innovation, 2021 XYZZY Awards
-
-`2021`
-Winner, Best In Show; Audience Choice; Best Humor; Most Innovative; Best Multimedia Spring Thing 2021 Main Festival
-
-`2021`
 NSF Conference Attendance Funding Award, IEEE VR
 
 `2020`
@@ -332,7 +323,7 @@ Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Ari (co-chair); Schmalzer, Ma
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North America 2022 Conference. [Virtual Event].
 
 `2022`
-**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. [Virtual Event]. 
+**Berge, PS**. (July 2022). “The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*”. Presented at Generation Analog 2022. [Virtual Event].
 - Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
 
 `2022`
@@ -429,25 +420,25 @@ Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A c
 ## Courses Taught
 ### Instructor of Record 
 
-**University of Alabama**
+**University of Alabama (2016-2020)**
 
 Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]
 
-Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games” [Face-to-Face Courses]
+Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games”
 
-Intro to Creative Writing: “Heroes of the Fractured Worlds” [Face-to-Face Course]
+Intro to Creative Writing: “Heroes of the Fractured Worlds”
 
-English Composition II [Face-to-Face Course]
+English Composition II
 
-English Composition I [Face-to-Face Course]
+English Composition I
 
 ### Graduate Teaching Assistant
 
-**University of Alabama**
+**University of Alabama (2016-2017)**
 
-British Literature II [Face-to-Face Course]
+British Literature II
 
-British Literature I [Face-to-Face Course]
+British Literature I
 
 ---
 
@@ -513,26 +504,18 @@ __Grey Door Games LLC__<br>
 
 ## Service to Profession
 
+### Peer Reviewer, Various Journals
+
+*New Media & Society* (2022), *Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *Transformative Works & Culture* (2023-Present)
+
 `2022-Present`
 Cofounder of Tabletop Research in Practice (TRiP)
 
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
-`2021-Present`
-Reviewer, *Press Start*
-
-`2023`
-Reviewer, *Transformative Works & Culture*
-
 `2023`
 Cover Designer, *Peitho* journal special issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
-
-`2023`
-Reviewer, *CHI Play*
-
-`2022`
-Reviewer, *New Media & Society*
 
 `2022`
 Designed and implemented the official Association of Internet Researchers Graduate Student and Early Career Group Discord Server
@@ -542,9 +525,6 @@ Designed the [conference program](https://stars.library.ucf.edu/cp2022/resources
 
 `2022`
 Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
-
-`2022`
-Reviewer, *Queer Studies in Media and Popular Culture*, Special Issue
 
 `2022`
 Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
@@ -575,7 +555,7 @@ Carolyn P. Handa Undergraduate Scholarship Award Committee, University of Alabam
 CCCC’s Council for Play and Game Studies, active member and panelist.
 
 `2019-2020`
-Digital Pedagogy Community of Practice, active member, University of Alabama, 2019-2020
+Digital Pedagogy Community of Practice, University of Alabama
 
 `2020-2021`
 Creative writing online instructor training and development, Univeristy of Alabama
