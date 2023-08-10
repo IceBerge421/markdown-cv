@@ -121,7 +121,7 @@ Britt, R.K. & **Berge, PS**  (2023). “Megathreads and ‘waifu wars’: A stru
 <span id="printPageButton">`2021`</span>
 Heslep, D. G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 
-- \**Authors contributed equally to this research.*
+\**Authors contributed equally to this research.*
 
 </div>
 
