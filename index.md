@@ -77,6 +77,7 @@ and possibility in digital and analog gaming"
 __M.F.A. Creative Writing, University of Alabama__
 
 - Thesis: *DARKGLOW: A HEAVY-METAL BALLAD* (Interactive Media Novel)
+- Advisor: Dr. Heidi Staples
 
 `2016-2019`
 __M.A. Composition, Rhetoric, and English Studies__
