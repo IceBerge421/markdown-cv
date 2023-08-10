@@ -81,7 +81,7 @@ __M.F.A. Creative Writing, University of Alabama__
 `2016-2019`
 __M.A. Composition, Rhetoric, and English Studies__
 
-- Thesis: “Lost in the Rift: Exploring Rhetorics of Immersion and Identity in Virtual Realities”
+- Thesis: “Lost in the Rift: Exploring the Rhetoric of Immersion and Identity in VR”
 - Advisor: Dr. Amber Buck
 
 `2014-2016`
