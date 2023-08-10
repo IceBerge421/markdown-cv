@@ -203,20 +203,6 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. â€
 
 ## Published Media Projects
 
-### Tools and Software
-
-<div class="item" id="pubs" markdown="1">
-
-`2021-2023`
-***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
-- Presented at D/ARC workshop "Working with Networked Discord Data."
-
-`2022`
- ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
-- Presented at the ICIDS 2022 conference.
-
-</div>
-
 ### Games
 
 <div class="item" id="pubs" markdown="1">
@@ -248,6 +234,20 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2021`
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
+
+</div>
+
+### Tools and Software
+
+<div class="item" id="pubs" markdown="1">
+
+`2021-2023`
+***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+- Presented at D/ARC workshop "Working with Networked Discord Data."
+
+`2022`
+ ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
+- Presented at the ICIDS 2022 conference.
 
 </div><div class="printOnly"><br></div>
 
