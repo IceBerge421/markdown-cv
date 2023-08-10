@@ -8,7 +8,7 @@ title: "PS Berge"
 # PS 
 # BERGE
 
-<div id="printPageButton">*(they/she pronouns)*</div>
+<div id="printPageButton"><i>(they/she pronouns)</i></div>
 
 <div id="printPageButton">
 <p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
