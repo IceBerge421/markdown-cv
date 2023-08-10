@@ -5,9 +5,10 @@ title: "PS Berge"
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-# PS BERGE
+# PS 
+# BERGE
 
-*(they/she pronouns)*
+<div id="printPageButton">*(they/she pronouns)*</div>
 
 <div id="printPageButton">
 <p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
@@ -65,7 +66,7 @@ __Ph.D. Candidate Texts and Technology, Universty of Central Florida__
 - Specialization: Digital Media
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
 and possibility in digital and analog gaming"
-- Advisor: Dr. Anastasia Salter
+- Committee: Dr. Anastasia Salter (chair), Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
 - Expected Defense: June 2024
 
 `2016-2020`
@@ -165,10 +166,11 @@ Heslep, D. G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTE
 
 <div class="item" id="pubs" markdown="1">
 
+**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted with minor revisions.)
+
 Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
-<!--**Berge, PS**. The Table and the Tomb: Positioning Trans Power and Play in Dungeons & Dragons. *Games & Culture.* (Manuscript under review.)
-
+<!--
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
 Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Revised manuscript under review for forthcoming special issue.)-->
