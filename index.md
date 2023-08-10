@@ -68,7 +68,7 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 __Ph.D. Candidate, Texts and Technology (Digital Media), Universty of Central Florida__
 
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
-and possibility in digital and analog gaming" (Expected defense: June 2024)
+and possibility in digital and analog gaming" (Expected Defense: June 2024)
 - Chair: Dr. Anastasia Salter
 - Committee: Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
 
