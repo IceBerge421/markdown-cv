@@ -31,9 +31,9 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 
 <div id="printPageButton">
 
-### Fields of Research
+### Fields of Research:
 
-Trans game and media studies, hate and extremism on social media, tabletop roleplaying games, cross-platform dynamics, critical making</div>
+Trans game and media studies, critical platform studies, tabletop roleplaying games, social media research and cross-platform dynamics, critical making. </div>
 
 </div>
 <div class="item" id="webaddress" markdown="1">
