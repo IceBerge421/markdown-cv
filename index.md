@@ -321,10 +321,10 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 - Presentation Video: [https://youtu.be/v6O0vPsXRWQ](https://youtu.be/v6O0vPsXRWQ)
 
 `2023`
-Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". Presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 confernece. Denver, CO.
+Cote, Amanda (chair); **Berge, PS**; Dashiell, Steven; Trammell, Aaron. (March 2023). "'Hack It ‘Till It’s Yours'? Learning to 'Unplay' Dungeons & Dragons". Presented on "Dice-y Interventions: Dungeons & Dragons, Identity, and Challenges to Inclusive Representation" at the Society for Cinema and Media Studies 2023 conference. Denver, CO.
 
 `2023`
-Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Ari (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (March 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%" presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 Conference. Denver, CO.
+Thach, Hibby (co-chair) and Haimson, Oliver; Gass, Ari (co-chair); Schmalzer, Madison and **Berge, PS**; McLaren, Jack. (March 2023). "'We really just pressed buttons': Trans Vectors of Desire, Arbitrary Code Execution, and Unplaying Zelda in Triforce%" presented on "Trans Play and the Boundaries of Game Studies" at the Society for Cinema and Media Studies 2023 conference. Denver, CO.
 
 `2022`
 David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (October 2022). "Emerging Fandom Networks on Discord." Presented on the “Intimacy and Hierarchy in Fan Discord Servers” panel at the Fan Studies Network - North America 2022 Conference. [Virtual Event].
