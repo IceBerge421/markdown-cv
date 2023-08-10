@@ -36,6 +36,7 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 Trans game and media studies, critical platform studies, tabletop roleplaying games, social media research and cross-platform dynamics, critical making. </div>
 
 </div>
+
 <div class="item" id="webaddress" markdown="1">
 
 <base target="_blank">
