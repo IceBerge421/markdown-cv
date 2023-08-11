@@ -293,7 +293,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 ### Invited Talks - External
 
 `2023`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured speaker. April, 2023. Institute of Digital Games Book Club, University of Malta.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
 `2023`
 **Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023. Virtual event.
@@ -302,7 +302,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 **Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table. Virtual event.
 
 `2022`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured speaker. September, 2022. Game Philosophy Academics reading group. Virtual event.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. September, 2022. Game Philosophy Academics reading group. Virtual event.
 
 ### Peer-Reviewed Conference Presentations
 
