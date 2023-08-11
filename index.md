@@ -391,6 +391,9 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 ### Guest Lectures
 
 `2022`
+**Berge, PS.** Collecting and Analyzing Discord Data. Social Media Research course. November 2022, University of Central Florida.
+
+`2022`
 **Berge, PS.** "Understanding Extremism and Social Media". Developmental psychology course. April 2022, University of Minnesota.
 
 `2020`
@@ -425,9 +428,9 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]
 
-Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigators in the World of Video Games”
+Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigating the World of Video Games”
 
-Intro to Creative Writing: “Heroes of the Fractured Worlds”
+Intro to Creative Writing: “The Writer's Journey”
 
 English Composition II
 
