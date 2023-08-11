@@ -109,7 +109,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2023`</span>
-**Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, 0(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
+**Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, *0*(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
 
 <span id="printPageButton">`2023`</span>
 Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
@@ -119,7 +119,7 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 **Berge, PS** & Britt, Rebecca K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](http://gamestudies.org/2104/articles/berge_britt)</span>
 
 <span id="printPageButton">`2021`</span>
-Heslep, Daniel G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
+Heslep, Daniel G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 - Authors contributed equally to this research.
 
 </div>
@@ -327,19 +327,19 @@ David Kocik, Celeste Oon, Camille Butera, **Berge, PS**, Michael Senters. (Octob
 - Presentation Video: [https://youtu.be/m_zHH0vyrCY](https://youtu.be/m_zHH0vyrCY)
 
 `2022`
-**Berge, PS** and Heslep, D.G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
+**Berge, PS** and Heslep, Daniel G. (2022). “‘!pls deletethis’: How Discord Bots Perform and Center White Cismasculinity.” Presented at the Console-ing Passions 2022 Conference. Orlando, FL.
 
 `2022`
 **Berge, PS**. (2022). "'But First We Need to Talk About Parallel Universes:' Vectorizing Trans Power in Videogames." Presented at the Queering and Questioning Video Games Conference. Hosted by MultiPlay. [Virtual Event].
 
 `2022`
-Barnes, N., **Berge, PS** , Cato, F. (2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
+Barnes, Nikki; **Berge, PS**; and Cato, Farah. (2022). “#UploadELO2022: Electronic Narratives of Hybridity.” Presented at the Electronic Literature Conference. Como, Italy.
 
 `2022`
-Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, PS**. (2022). "Adventures Through Twine & Space: Re-Imagining Geolocative IF Platforms". Presented in “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature” at the Electronic Literature Conference. Como, Italy.
+Salter, Anastasia; Moulthrop, Stuart; Marino, Mark; Ciccoricco, David; Milligan, Chloe A., **Berge, PS**. (2022). "Adventures Through Twine & Space: Re-Imagining Geolocative IF Platforms". Presented in “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature” at the Electronic Literature Conference. Como, Italy.
 
 `2022`
-**Berge, PS** (chair), Rose Aceae, R., Zegura, C., Murray, J (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
+**Berge, PS** (chair); Aceae, Ryan Rose; Zegura, Cass; Murray, Jack (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
 
 `2021`
 **Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presdented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Tallinn, Estonia.
@@ -353,7 +353,7 @@ Salter, A., Moulthrop, S., Marino, M., Ciccoricco, D., Milligan, C.A., **Berge, 
 - Presentation Video: [youtu.be/sVvyz2lnP5M](https://youtu.be/sVvyz2lnP5M)
 
 `2021`
-Heslep, D.G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021 [Virtual Event]. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
+Heslep, Daniel G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021 [Virtual Event]. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
 
 `2021`
 **Berge, PS**. (2021). “SHOW YOUR DEDICATION:” VR Games and Outmersion. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), March 27 – April 3, 2021, Lisbon, Portugal [Virtual Event], p. 737-738. Extended abstract. [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251). **Winner of the IEEE VR Doctoral Consortium Best Presentation Award.**
@@ -362,13 +362,13 @@ Heslep, D.G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED
 Awadhi, A., **Berge, PS**, Dwyer, S., Lovett, S., McQuaid, S., & Woolbright, L. (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the meeting of the College Conference on Composition and Communications. April 7–10, 2021, Spokane, WA [Virtual Event]. (Re-accepted from 2020. Cancelled due to COVID-19).
 
 `2020`
-**Berge, PS**, & Britt, R. K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event]. **Winner of the Top Paper Award from the Game Studies Division.**
+**Berge, PS**, & Britt, Rebecca K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event]. **Winner of the Top Paper Award from the Game Studies Division.**
 
 `2020`
-Britt, R. K., & **Berge, PS** (2020). r/persona5 as a community of practice: A computational content analysis of expressed communication based on a Japanese role-playing game. Presented at the National Communication Association, Japan-US Communication Association. November 19–22, 2020, Indianapolis, IN [Virtual Event, Converted for COVID-19].
+Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice: A computational content analysis of expressed communication based on a Japanese role-playing game. Presented at the National Communication Association, Japan-US Communication Association. November 19–22, 2020, Indianapolis, IN [Virtual Event, Converted for COVID-19].
 
 `2019`
-**Berge, PS**, Eubanks, J., Nisbitt, L., & Stevens, A. (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
+**Berge, PS**; Eubanks, James; Nisbitt, Lacee; & Stevens, Amanda (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
 ### Workshops Led
 
