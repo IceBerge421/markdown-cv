@@ -157,7 +157,7 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2021, pp. 737-738, [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
+**Berge, PS**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*, 2021, pp. 737-738, [doi:10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
 
 </div>
 
@@ -169,7 +169,7 @@ Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRI
 
 **Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted with minor revisions.)
 
-Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Chapter conditionally accepted for forthcoming collection.)
+Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
 Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Article conditionally accepted for publication in special issue on Fandom and Platforms.)
 
