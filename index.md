@@ -35,7 +35,7 @@ Doctoral candidate in Media Studies in the University of Central Florida’s Tex
 
 <h3>Fields of Research:</h3>
 
-<p>Trans game and media studies, critical platform studies, tabletop roleplaying games, social media research and cross-platform dynamics, critical making.</p></div>
+<p>Game and media studies, critical platform studies, trans theory, tabletop roleplaying games, social media research and cross-platform dynamics, critical making.</p></div>
 
 </div>
 
@@ -236,7 +236,7 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 </div>
-<div class="printOnly"><br></div>
+<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ### Tools and Software
 
