@@ -76,13 +76,13 @@ and possibility in digital and analog gaming" (Expected Defense: June 2024)
 __M.F.A. Creative Writing, University of Alabama__
 
 - Thesis: *DARKGLOW: A HEAVY-METAL BALLAD* (Interactive Media Novel)
-- Advisor: Dr. Heidi Staples
+<!--- Advisor: Dr. Heidi Staples-->
 
 `2016-2019`
 __M.A. Composition, Rhetoric, and English Studies__
 
 - Thesis: “Lost in the Rift: Exploring the Rhetoric of Immersion and Identity in VR”
-- Advisor: Dr. Amber Buck
+<!--- Advisor: Dr. Amber Buck-->
 
 `2014-2016`
 __B.A. English (Creative Writing), University of Washington__
