@@ -373,8 +373,8 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 ### Workshops Led
 
-`2022`
-**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.
+<!--`2022`
+**Berge, PS.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). Online, February 4, 2022.-->
 
 `2022`
 **Berge, PS.** "Twine & Design". Digital rhetoric course. March 2022, University of Central Florida.
@@ -420,8 +420,6 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 </div><div class="printOnly"><br></div>
 
 ---
-
-<div class="printOnly"><br><br><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ## Courses Taught
 ### Instructor of Record 
