@@ -420,7 +420,7 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 </div><div class="printOnly"><br></div>
 
 ---
-<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
+<div class="printOnly"><br><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ## Courses Taught
 ### Instructor of Record 
