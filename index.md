@@ -157,7 +157,7 @@ Heslep, Daniel G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Di
 Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021) "[DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion."  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2021, pp. 737-738, [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
+**Berge, PS**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*, 2021, pp. 737-738, [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
 
 </div>
 
