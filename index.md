@@ -615,7 +615,7 @@ TwineSpace, *Co-Creator, Contributor*
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View notebook: [darcmode.org/scraper](https://darcmode.org/scraper)-->
 
 `2020`
-Universal Reddit Scraper (URS) on GitHub, *Contributor*
+Universal Reddit Scraper (URS), *Contributor*
 
 <!--Assisted in debugging fatal errors in the Universal Reddit Scraper, an open source research tool for scraping Reddit.-->
 
