@@ -112,7 +112,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 **Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, 0(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
 
 <span id="printPageButton">`2023`</span>
-Britt, Rebecca Katherine. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
+Britt, Rebecca Katherine & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
 [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
