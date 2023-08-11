@@ -116,7 +116,7 @@ Britt, R.K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’: A str
 [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS** & Britt, Rebecca Katherine. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[Open Access Online]</span>
+**Berge, PS** & Britt, Rebecca Katherine. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](http://gamestudies.org/2104/articles/berge_britt)</span>
 
 <span id="printPageButton">`2021`</span>
 Heslep, Daniel G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*. [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
