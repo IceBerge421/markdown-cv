@@ -151,7 +151,7 @@ Heslep, Daniel G.\*, & **Berge, PS**\*. (2021). Mapping Discord’s darkside: Di
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). "GO BACK IN YOUR FETUS CAVE": HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
+**Berge, PS**. (2021). "GO BACK IN YOUR FETUS CAVE:" HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
 
 <span id="printPageButton">`2021`</span>
 Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
