@@ -430,11 +430,11 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 **University of Alabama (2016-2020)**
 
-Applied Topics in Creative Writing: “Press Start: Writing for Games” [Hybrid Course]
+“Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
-Advanced English Composition: “Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigating the World of Video Games”
+“Play//Write: Writing and the World of Video Games” and “Play//Write (Season 2): Investigating the World of Video Games” (Advanced English Composition)
 
-Intro to Creative Writing: “The Writer's Journey”
+“The Writer's Journey” (Intro to Creative Writing)
 
 English Composition II
 
