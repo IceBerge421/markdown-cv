@@ -274,16 +274,12 @@ Winner, Top Paper Award, NCA Game Studies Division
 ---
 ## Media and Press
 
-`2023`
 Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a forthcoming documentary project. (July, 2023).
 
-`2022`
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
-`2022`
 Kotaku. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
 
-`2021`
 UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
 ---
@@ -292,16 +288,12 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 
 ### Invited Talks - External
 
-`2023`
 **Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
-`2023`
 **Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023. Virtual event.
 
-`2022`
 **Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table. Virtual event.
 
-`2022`
 **Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. September, 2022. Game Philosophy Academics reading group. Virtual event.
 
 ### Peer-Reviewed Conference Presentations
@@ -537,6 +529,8 @@ Reviewer, organizing committee, Console-ing Passions 2022 Conference
 *New Media & Society* (2022), *Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *Transformative Works & Culture* (2023-Present)
 
 ### Panels Organized and Chaired
+`2023`
+"(Re)Producing the 'Real': Bad Copies, Trans* Media, and Unindexable Techno-Genders," SCMS 2024. (Panel Under Review).
 
 `2022`
 "Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
