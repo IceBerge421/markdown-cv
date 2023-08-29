@@ -236,7 +236,7 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 </div>
-
+<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ### Tools and Software
 
@@ -287,6 +287,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 </div>
 
 ---
+<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ## Conferences and Talks
 
