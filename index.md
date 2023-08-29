@@ -287,7 +287,6 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 </div>
 
 ---
-<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ## Conferences and Talks
 
