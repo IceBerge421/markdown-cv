@@ -227,16 +227,16 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 `2021`
 ***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement. [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
+- Featured in Volume 3 of the *FÖLK-LORE* zine by Rughose Kohn
 
 `2021`
 ***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game supplement. [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
-- Published in the *Babalon's Hangover: Volume II* charity zine
+- Published in the *Babalon's Hangover: Volume II* charity zine by stebro
 
 `2021`
 __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 </div>
-<div class="printOnly"><br><br></div> <!--TEMP FIX -- PB DELETE THIS LATER!-->
 
 ### Tools and Software
 
@@ -248,7 +248,8 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in 
 
 `2022`
  ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
-- Presented at the ICIDS 2022 conference.
+- Presented at the International Conference on Interactive Digital Storytelling 2022.
+- Presented at the annual meeting of the Association for Research in Digital Interactive Narratives.
 
 </div>
 
