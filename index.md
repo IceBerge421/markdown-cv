@@ -215,12 +215,12 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 - Made in collaboration with adriiadventures
 
 `2022`
-***Songs for Giants***<br>A short interactive essay on lyric games built in Twine, Bitsy, Tracery, P5.js, Python, and Glitch. This essay weaves together personal anecdotes, myth, minigames, and scholarship to paint an opaque portrait of an analog microgame scene.
+***Songs for Giants***<br>A short interactive essay on lyric games built in Twine, Bitsy, Tracery, P5.js, Python, and Glitch. This essay weaves together minigames, myth, and scholarship to paint an opaque portrait of lyric game design.
 - Playable at: [https://gravesnail.itch.io/songs-for-giants](https://gravesnail.itch.io/songs-for-giants)
 - Featured in the Console-ing Passions 2022 Arcade
 
 `2021`
-***Fish & Dagger***<br>Mixed-media-filled, comedy spy-thriller with an existential twist. Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
+***Fish & Dagger***<br>Comedy spy-thriller game made in Twine (Sugarcube / Harlowe), A-Frame, AR.js, and JavaScript.
 - Playable at: [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
@@ -228,13 +228,13 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 - Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
 
 `2021`
-***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement for the *MÖRK BORG* Roleplaying Game.
+***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement for the *MÖRK BORG* roleplaying game.
 - Playable at: [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
 - Featured in Volume 3 of the *FÖLK-LORE* zine by Rughose Kohn
 
 `2021`
-***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game creature supplement for the *MÖRK BORG* Roleplaying Game.
+***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game creature supplement for the *MÖRK BORG* roleplaying game.
 - Playable at: [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
 - Published in the *Babalon's Hangover: Volume II* charity zine by stebro
 
@@ -249,11 +249,13 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal
 <div class="item" id="pubs" markdown="1">
 
 `2021-2023`
-***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. 
+- Available at: [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
 - Presented at D/ARC workshop "Working with Networked Discord Data."
 
 `2022`
- ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
+ ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. 
+- Available at: [https://twinestory.space/](https://twinestory.space/)
 - Presented at the International Conference on Interactive Digital Storytelling 2022.
 - Presented at the annual meeting of the Association for Research in Digital Interactive Narratives.
 
