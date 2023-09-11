@@ -451,7 +451,7 @@ British Literature I
 
 `2021-Present`
 __The [Discord Academic Research Community](https://darcmode.org/)__<br>
-*Director, Founder, Community Manager*
+*Director, Cofounder, Community Manager*
 
 <!--- Designing and maintaining an accessible Discord server for academic resources and community-->
 <!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
@@ -477,11 +477,11 @@ __University of Central Florida__<br>
 
 `2022-2023`
 __University of Texas, Austin__<br>
-Writing Assessment Specialist, OnRamps Rhetoric Program
+*Writing Assessment Specialist, OnRamps Rhetoric Program*
 
 `2022`
 __Game in Lab__<br>
-Community Management Consultant
+*Community Management Consultant*
 
 `2016-2019`
 __University of Alabama__<br>
@@ -492,7 +492,7 @@ __University of Alabama__<br>
 
 `2012-2016`
 __Blu-Orange Entertainment LLC__<br>
-*Founder, lead designer, lead writer, team manager*
+*Founder, Lead designer, Lead writer, Team Manager*
 
 <!-- - Recruited and managed a small team of programmers, artists, and designers
 - Worked together to develop games for local game jams, winning several contests
@@ -500,7 +500,7 @@ __Blu-Orange Entertainment LLC__<br>
 
 `2014-2015`
 __Grey Door Games LLC__<br>
-*Programmer and writer*
+*Programmer and Writer*
 
 <!-- - Designed game-specific combat and locomotion systems to design specifications
 - Collaborated with designer on narrative elements and key mechanics -->
@@ -510,7 +510,7 @@ __Grey Door Games LLC__<br>
 ## Service to Profession
 
 `2022-Present`
-Cofounder of Tabletop Research in Practice (TRiP)
+Cofounder of [Tabletop Research in Practice (TRiP)](https://triptable.top)
 
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
