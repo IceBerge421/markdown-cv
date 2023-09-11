@@ -247,7 +247,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal
 - Presented at the International Conference on Interactive Digital Storytelling 2022.
 - Presented at the annual meeting of the Association for Research in Digital Interactive Narratives.
 
-</div>
+</div><div class="printOnly"><br></div>
 
 ---
 
