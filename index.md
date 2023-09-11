@@ -234,13 +234,9 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 - Published in the *Babalon's Hangover: Volume II* charity zine by stebro
 
 `2021`
-__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
-
-</div>
+__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal parser game developed in Inform 7.<br>[https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 ### Tools and Software
-
-<div class="item" id="pubs" markdown="1">
 
 `2021-2023`
 ***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
