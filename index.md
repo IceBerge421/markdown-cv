@@ -210,31 +210,37 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. �
 Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2023`
-***the ice: a tragic roleplaying game***<br>18-page PDF. A tragic LARP about surviving an arctic hellscape over the course of seven scenes. [https://gravesnail.itch.io/the-ice](https://gravesnail.itch.io/the-ice)
+***the ice: a tragic roleplaying game***<br>18-page PDF. A tragic LARP about surviving an arctic hellscape over the course of seven scenes.
+- Playable at: [https://gravesnail.itch.io/the-ice](https://gravesnail.itch.io/the-ice)
 - Made in collaboration with adriiadventures
 
 `2022`
-***Songs for Giants***<br>Interactive essay on lyric games made in Twine, Bitsy, and Glitch. [https://gravesnail.itch.io/songs-for-giants](https://gravesnail.itch.io/songs-for-giants)
+***Songs for Giants***<br>A short interactive essay on lyric games built in Twine, Bitsy, Tracery, P5.js, Python, and Glitch. This essay weaves together personal anecdotes, myth, minigames, and scholarship to paint an opaque portrait of an analog microgame scene.
+- Playable at: [https://gravesnail.itch.io/songs-for-giants](https://gravesnail.itch.io/songs-for-giants)
 - Featured in the Console-ing Passions 2022 Arcade
 
 `2021`
-***Fish & Dagger***<br>Mixed-media Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript. [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
+***Fish & Dagger***<br>Mixed-media-filled, comedy spy-thriller with an existential twist. Twine game made in Sugarcube / Harlowe, A-Frame + AR.js, and JavaScript.
+- Playable at: [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
 - Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
 - Winner of the 2021 XYZZY Award "Best Use of Multimedia"
 - Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
 
 `2021`
-***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement. [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
+***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement for the *MÖRK BORG* Roleplaying Game.
+- Playable at: [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
 - Featured in Volume 3 of the *FÖLK-LORE* zine by Rughose Kohn
 
 `2021`
-***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game supplement. [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
+***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game creature supplement for the *MÖRK BORG* Roleplaying Game.
+- Playable at: [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
 - Published in the *Babalon's Hangover: Volume II* charity zine by stebro
 
 `2021`
-__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short parser game developed in Inform 7. [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
+__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal parser game developed in Inform 7.
+- Playable at: [https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 </div>
 
