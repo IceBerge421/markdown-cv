@@ -225,7 +225,7 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 - Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
 
 `2021`
-***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page fort-building supplement for the *MÖRK BORG* roleplaying game.  [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
+***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page fort-building supplement for the *MÖRK BORG* roleplaying game.<br>[https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
 - Featured in Volume 3 of the *FÖLK-LORE* zine by Rughose Kohn
 
