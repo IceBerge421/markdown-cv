@@ -167,7 +167,7 @@ Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRI
 
 <div class="item" id="pubs" markdown="1">
 
-**Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted with minor revisions.)
+**Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted for publication.)
 
 Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Article accepted with minor revisions for forthcoming special issue on Fandom and Platforms.)
 
@@ -225,25 +225,25 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 - Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
 
 `2021`
-***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page tabletop roleplaying game supplement for the *MÖRK BORG* roleplaying game. [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
+***Hovel of Miseries: Fort-based "survival" for MÖRK BORG***<br>18-page fort-building supplement for the *MÖRK BORG* roleplaying game.  [https://gravesnail.itch.io/hovel-of-miseries](https://gravesnail.itch.io/hovel-of-miseries)
 - Featured in the *Ex Libris MÖRK BORG* Kickstarter
 - Featured in Volume 3 of the *FÖLK-LORE* zine by Rughose Kohn
 
 `2021`
-***PUNy PUNchable PUNk!***<br>1-page tabletop roleplaying game creature supplement for the *MÖRK BORG* roleplaying game. [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
+***PUNy PUNchable PUNk!***<br>1-page dark-comedy creature supplement for the *MÖRK BORG* roleplaying game. [https://gravesnail.itch.io/punpunpun](https://gravesnail.itch.io/punpunpun)
 - Published in the *Babalon's Hangover: Volume II* charity zine by stebro
 
 `2021`
-__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short puzzle-based, heavy-metal parser game developed in Inform 7.<br>[https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
+__*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game with some “heavy” puzzles; developed in Inform 7.<br>[https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn](https://ifdb.org/viewgame?id=ihrvzvqkerv7idkn)
 
 ### Tools and Software
 
 `2021-2023`
-***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [https://doi.org/10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670)
+***Disboard Scraper and Analysis Notebook***<br>**Berge, PS**.  A Google Colaboratory notebook and toolkit for collecting and analyzing data about Discord server networks (with no additional coding required). Made in Python. [DOI:10.5281/zenodo.7305670](https://doi.org/10.5281/zenodo.7305670). Available at: [https://darcmode.org/scraper](https://darcmode.org/scraper)
 - Presented at D/ARC workshop "Working with Networked Discord Data."
 
 `2022`
- ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [https://twinestory.space/](https://twinestory.space/)
+ ***TwineSpace***<br>Cox, D., **Berge, PS**, Murray, J., & Salter, A. A Twine 2 story format supporting mixed-reality storytelling using AR.js and A-Frame. Made in JavaScript, HTML, CSS, A-Frame, and AR.js. [DOI:10.5281/zenodo.6915351](https://doi.org/10.5281/zenodo.6915351). Available at: [https://twinestory.space/](https://twinestory.space/)
 - Presented at the International Conference on Interactive Digital Storytelling 2022.
 - Presented at the annual meeting of the Association for Research in Digital Interactive Narratives.
 
