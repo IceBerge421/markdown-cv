@@ -255,19 +255,19 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 ## Awards and Fellowships - External
 
 `2022`
-Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
 
 `2022`
-Nominee, ICIDS 2022 Best Student Paper Award
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, ICIDS 2022 Best Student Paper Award
 
 `2021`
-Winner, IEEE VR Doctoral Consortium Best Presentation Award
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, IEEE VR Doctoral Consortium Best Presentation Award
 
 `2021`
-NSF Conference Attendance Funding Award, IEEE VR
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>NSF Conference Attendance Funding Award, IEEE VR
 
 `2020`
-Winner, Top Paper Award, NCA Game Studies Division
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Top Paper Award, NCA Game Studies Division
 
 ---
 ## Media and Press
@@ -509,6 +509,9 @@ __Grey Door Games LLC__<br>
 ---
 
 ## Service to Profession
+
+`2023-Present`
+Design Lead and Organizing Committee Member, Electronic Literature Organization 2024 Conference, July 20-22 2024
 
 `2022-Present`
 Cofounder of [Tabletop Research in Practice (TRiP)](https://triptable.top)
