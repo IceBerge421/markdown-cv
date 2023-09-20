@@ -170,7 +170,7 @@ Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRI
 
 **Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted for publication.)
 
-Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Article accepted with minor revisions for forthcoming special issue on Fandom and Platforms.)
+Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Alberto, Maria; Sapuridis, Effie; and Willard, Leslie (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (Manuscript accepted for publication).
 
 Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
