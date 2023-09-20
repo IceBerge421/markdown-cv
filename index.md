@@ -220,7 +220,7 @@ Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2021`
 ***Fish & Dagger***<br>Comedy spy-thriller game made in Twine (Sugarcube / Harlowe), A-Frame, AR.js, and JavaScript. [https://www.springthing.net/2021/play.html#FishAndDagger](https://www.springthing.net/2021/play.html#FishAndDagger)
-- <span id="printPageButton">🏆 </span>Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif;">🏆 </span>Voted “Best In Show” at the 2021 Spring Thing Interactive Fiction festival
 - <span id="printPageButton">🏆 </span>Winner of three audience awards: “Best Multimedia,” “Most Innovative,” “Best Humor”
 - <span id="printPageButton">🏆 </span>Winner of the 2021 XYZZY Award "Best Use of Multimedia"
 - <span id="printPageButton">🏆 </span>Nominee for "Best Use of Innovation" at the 2021 XYZZY Awards
