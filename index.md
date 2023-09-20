@@ -131,7 +131,8 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 <span id="printPageButton">`2022`</span>
 **Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California.
 [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
-- Nominee for Best Student Paper Award.
+
+- <span id="printPageButton">🏆 </span>Nominee for Best Student Paper Award.
 
 <span id="printPageButton">`2022`</span>
 **Berge, PS**. (2022). 'LET ALL PARTAKE IN THE SUFFERING': *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. In *Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together*, 1–19. Presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Let-All-Partake-In-The-Suffering.pdf)</span>
