@@ -117,6 +117,7 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Britt, Rebecca K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](http://gamestudies.org/2104/articles/berge_britt)</span>
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the Top Paper Award from the NCA Game Studies Division.
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS** & Heslep, Daniel G. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
@@ -365,7 +366,7 @@ Heslep, Daniel G. and **Berge, PS**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRI
 Awadhi, A., **Berge, PS**, Dwyer, S., Lovett, S., McQuaid, S., & Woolbright, L. (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the College Conference on Composition and Communications. April 7–10, 2021, Spokane, WA [Virtual Event]. (Re-accepted from 2020. Cancelled due to COVID-19).
 
 `2020`
-**Berge, PS**, & Britt, Rebecca K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event]. **Winner of the Top Paper Award from the Game Studies Division.**
+**Berge, PS**, & Britt, Rebecca K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event]. 
 
 `2020`
 Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice: A computational content analysis of expressed communication based on a Japanese role-playing game. Presented at the National Communication Association, Japan-US Communication Association. November 19–22, 2020, Indianapolis, IN [Virtual Event, Converted for COVID-19].
