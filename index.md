@@ -141,7 +141,7 @@ Heslep, Daniel G. & **Berge, PS** (2021). Mapping Discord’s darkside: Distribu
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Monster-Power.-Rebel-Heart.-Gay-Sword.pdf)</span>
 
-- Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
 <span id="printPageButton">`2021`</span>
 **Berge, PS**. (August, 2021). Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. Presented at the ACM Conference on Hypertext and Social media. August 30 – September 2, 2021, Virtual Event, Ireland.  [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
