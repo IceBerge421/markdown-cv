@@ -494,7 +494,7 @@ __University of Alabama__<br>
 
 `2012-2016`
 __Blu-Orange Entertainment LLC__<br>
-*Founder, Lead designer, Lead writer, Team Manager*
+*Founder, Lead Designer, Team Manager*
 
 <!-- - Recruited and managed a small team of programmers, artists, and designers
 - Worked together to develop games for local game jams, winning several contests
