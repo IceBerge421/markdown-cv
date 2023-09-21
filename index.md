@@ -371,7 +371,7 @@ Awadhi, A., **Berge, PS**, Dwyer, S., Lovett, S., McQuaid, S., & Woolbright, L. 
 Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice: A computational content analysis of expressed communication based on a Japanese role-playing game. Presented at the National Communication Association, Japan-US Communication Association. November 19–22, 2020, Indianapolis, IN [Virtual Event, Converted for COVID-19].
 
 `2019`
-**Berge, PS**; Eubanks, James; Nisbitt, Lacee; & Stevens, Amanda (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the meeting of the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
+**Berge, PS**; Eubanks, James; Nisbitt, Lacee; & Stevens, Amanda (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
 ### Workshops Led
 
