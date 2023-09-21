@@ -120,7 +120,7 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the Top Paper Award from the NCA Game Studies Division.
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS** & Heslep, Daniel G. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
+Heslep, Daniel G. & **Berge, PS** (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 - Authors contributed equally to this research.
 
 </div>
@@ -297,13 +297,13 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 **Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
 `2023`
-**Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023. Virtual event.
+**Berge, PS** & Cox, Dan. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023.
 
 `2022`
-**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table. Virtual event.
+**Berge, PS.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
 
 `2022`
-**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. September, 2022. Game Philosophy Academics reading group. Virtual event.
+**Berge, PS.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. September, 2022. Game Philosophy reading group.
 
 </div>
 
