@@ -169,9 +169,9 @@ Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRI
 
 <div class="item" id="pubs" markdown="1">
 
-**Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture.* (Manuscript accepted for publication.)
+**Berge, PS**. (Forthcoming). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture.* (In press).
 
-Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Alberto, Maria; Sapuridis, Effie; and Willard, Leslie (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (Manuscript accepted for publication).
+Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Alberto, Maria; Sapuridis, Effie; and Willard, Leslie (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
 
 Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection.)
 
@@ -451,23 +451,23 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 “Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
-- In this advanced studio course, I guided students through game writing practices and design principles. Students developed a portfolio of three game projects: a critical review, an analog game prototype, and a collaborative digital game. Students engaged a variety of accessible tools for game design (including Twine, Bitsy, and The Homebrewery), read theory and guides by current designers and critics, and built professional portfolios by which to showcase their work.
+- In this advanced studio course, I guided students through game writing practices and design principles. Students engaged a variety of accessible tools for game design (including Twine, Bitsy, and The Homebrewery) and developed a portfolio of three game projects: a critical review, an analog game prototype, and a collaborative digital game.
 
 “Writing and the World of Video Games” and “Investigating the World of Video Games” (Advanced English Composition)
 
-- In this advanced research course (taught over two semesters), I used a quest-based adventure game approach to teach students critical media research skills. Students embarked on a main questline and side questlines to explore multimodal and visual design, and research political and social issues surrounding digital gaming. The course culminated in a critical discourse analysis and in the collaborative development of a video game.
+- In this advanced research course (taught over two semesters), I used a quest-based adventure game approach to teach students critical media research skills. Students embarked on a main questline and side questlines to explore multimodal and visual design, and research social issues surrounding digital gaming. The course culminated in a critical discourse analysis and in the collaborative development of a video game.
 
 “The Writer's Journey” (Introduction to Creative Writing)
 
-- In this introductory, studio course, students explored four “worlds” of creative writing (Character & Persona, Narrative & Plot, World & Space and Sonics and Revision) through a unique adventure-game structure. Students worked in groups to build creative experiments and were encouraged to explore new genres, identify their own voices and interests, and go out and experience local art scenes.
+- In this introductory course, students explored four “worlds” of creative writing (Character & Persona, Narrative & Plot, World & Space and Sonics and Revision) through a unique adventure-game structure. Students worked in groups to build creative experiments and were encouraged to explore new genres, identify their own voices and interests, and experience local art scenes.
 
 English Composition II
 
-- For this introductory course, I guided students through semester-long, student-centered research projects. Students worked to develop an extended discourse analysis research project related to digital gaming over the course of the semester and ultimately created a multimodal research project to bring the results of their findings to a tangible audience.
+- For this introductory course, I guided students through semester-long, student-centered research projects. Students worked to develop an extended discourse analysis research project related to digital gaming and ultimately created a multimodal research project to bring the results of their findings to a tangible audience.
 
 English Composition I
 
-- In this introductory course I taught students an introduction to expository writing and genre exploration.  Students wrote papers in numerous new genres, collaborated in groups, and ultimately produced a media project to ‘remix’ one of their papers and explore revision in a new light.
+- In this introductory course, I taught students an introduction to expository writing and genre exploration.  Students wrote papers in numerous new genres, collaborated in groups, and ultimately produced a media project to ‘remix’ one of their papers.
 
 ### Graduate Teaching Assistant
 
