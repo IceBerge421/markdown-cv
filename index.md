@@ -257,7 +257,7 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. â€
 
 ### Full Media Portfolio
 
-A comprehensive portfolio of my media and design work, including published games, software, and works-in-progress is available on my website at [https://psberge.com/portfolio](https://psberge.com/portfolio).
+A portfolio of my media and design work, including published games, software, and works-in-progress is available on my website at [psberge.com/portfolio](https://psberge.com/portfolio).
 
 ### Games
 
