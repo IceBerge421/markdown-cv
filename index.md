@@ -451,19 +451,19 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 “Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
-- Advanced studio course on game writing practices and design principles. Students engaged accessible design tools (e.g., Twine, Bitsy, and The Homebrewery) and developed a portfolio of game projects: a critical review, an analog game prototype, and a collaborative digital game.
+- Advanced studio course on game writing and design principles. Students engaged accessible design tools (e.g., Twine, Bitsy, Homebrewery) and developed a game portfolio: a critical review, an analog game prototype, and a collaborative digital game.
 
 “Writing and the World of Video Games” and “Investigating the World of Video Games” (Advanced English Composition)
 
-- Advanced course developing students' critical media research skills. Students explored multimodal and visual design and researched social issues surrounding digital gaming. Culminated in a critical discourse analysis and collaborative development of a video game.
-
+- Advanced course developing critical media research skills. Students explored multimodal design and researched social issues surrounding digital gaming. Culminated in a critical discourse analysis and collaborative development of a video game.
+  
 “The Writer's Journey” (Introduction to Creative Writing)
 
-- Introductory multigenre, media-focused writing course. Students explored four creative writing elements (Character, Narrative, World, and Sonics) through a unique adventure-game structure.
+- Introductory multigenre, media-focused course. Students explored writing elements (Character, Narrative, World, and Sonics) through an adventure-game structure.
 
 English Composition II
 
-- Introductory course centering semester-long, student-centered research projects. Students developed a discourse analysis related to digital gaming and designed a multimodal project demonstrating their findings.
+- Introductory course centering semester-long, student-centered research projects. Students developed a discourse analysis and designed an interactive project.
 
 English Composition I
 
@@ -628,7 +628,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 
 ## Technical Skills
 
-### Notable Repository Contributions
+<!--### Notable Repository Contributions
 
 `2021-Present`
 Modified Disboard Scraper and Analysis Notebook, *Creator*
@@ -637,7 +637,7 @@ Modified Disboard Scraper and Analysis Notebook, *Creator*
 TwineSpace, *Co-Creator, Contributor*
 
 `2020`
-Universal Reddit Scraper (URS), *Contributor*
+Universal Reddit Scraper (URS), *Contributor*-->
 
 ### Software Proficiencies
 
