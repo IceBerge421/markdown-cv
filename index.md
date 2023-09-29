@@ -203,7 +203,61 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. �
 </div>
 ---
 
+## Awards & Fellowships
+
+### External
+
+`2022`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
+
+`2022`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, ICIDS 2022 Best Student Paper Award
+
+`2021`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, IEEE VR Doctoral Consortium Best Presentation Award
+
+`2021`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>NSF Conference Attendance Funding Award, IEEE VR
+
+`2020`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Top Paper Award, NCA Game Studies Division
+
+### Internal
+
+`2020-2024`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Presidential Doctoral Fellowship, University of Central Florida
+
+`2023`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, Order of Pegasus, University of Central Florida School of Performing Arts
+
+`2022`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Departmental Conference Travel Funding Award
+
+`2020`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Extraordinary Service Scholarship, University of Alabama
+
+`2019`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
+
+`2019`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, Outstanding Thesis by a Master’s Student Award, University of Alabama English Department
+
+`2016-2019`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Truman Capote Literary Trust, University of Alabama
+
+`2018`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Carolyn P. Handa Teaching Award, University of Alabama
+
+`2018`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>National Graduate Council Fellowship, University of Alabama
+
+---
+
 ## Published Media Projects
+
+### Full Media Portfolio
+
+A comprehensive portfolio of my media and design work, including published games, software, and works-in-progress is available on my website at [https://psberge.com/portfolio](https://psberge.com/portfolio).
 
 ### Games
 
@@ -250,40 +304,6 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 - Presented at the annual meeting of the Association for Research in Digital Interactive Narratives.
 
 </div><div class="printOnly"><br></div>
-
----
-
-## Awards and Fellowships - External
-
-`2022`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
-
-`2022`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, ICIDS 2022 Best Student Paper Award
-
-`2021`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, IEEE VR Doctoral Consortium Best Presentation Award
-
-`2021`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>NSF Conference Attendance Funding Award, IEEE VR
-
-`2020`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Top Paper Award, NCA Game Studies Division
-
----
-## Media and Press
-
-<div class="item" id="pubs" markdown="1">
-
-Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a forthcoming documentary project. (July, 2023).
-
-Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
-
-Kotaku. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
-
-UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
-
-</div>
 
 ---
 
@@ -431,13 +451,23 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 “Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
+- In this advanced studio course, I guided students through game writing practices and design principles. Students developed a portfolio of three game projects: a critical review, an analog game prototype, and a collaborative digital game. Students engaged a variety of accessible tools for game design (including Twine, Bitsy, and The Homebrewery), read theory and guides by current designers and critics, and built professional portfolios by which to showcase their work.
+
 “Writing and the World of Video Games” and “Investigating the World of Video Games” (Advanced English Composition)
+
+- In this advanced research course (taught over two semesters), I used a quest-based adventure game approach to teach students critical media research skills. Students embarked on a main questline and side questlines to explore multimodal and visual design, and research political and social issues surrounding digital gaming. The course culminated in a critical discourse analysis and in the collaborative development of a video game.
 
 “The Writer's Journey” (Introduction to Creative Writing)
 
+- In this introductory, studio course, students explored four “worlds” of creative writing (Character & Persona, Narrative & Plot, World & Space and Sonics and Revision) through a unique adventure-game structure. Students worked in groups to build creative experiments and were encouraged to explore new genres, identify their own voices and interests, and go out and experience local art scenes.
+
 English Composition II
 
+- For this introductory course, I guided students through semester-long, student-centered research projects. Students worked to develop an extended discourse analysis research project related to digital gaming over the course of the semester and ultimately created a multimodal research project to bring the results of their findings to a tangible audience.
+
 English Composition I
+
+- In this introductory course I taught students an introduction to expository writing and genre exploration.  Students wrote papers in numerous new genres, collaborated in groups, and ultimately produced a media project to ‘remix’ one of their papers and explore revision in a new light.
 
 ### Graduate Teaching Assistant
 
@@ -493,14 +523,14 @@ __University of Alabama__<br>
 <!-- - Worked with other instructors and departments to develop pedagogical resources and innovative approaches to teaching both composition and creative writing at the department level  -->
 
 `2012-2016`
-__Blu-Orange Entertainment LLC__<br>
-*Founder, Lead Designer, Team Manager*
+__Frelance Game Design__<br>
+*Unity Programmer, Writer, Team Founder and Manager*
 
 <!-- - Recruited and managed a small team of programmers, artists, and designers
 - Worked together to develop games for local game jams, winning several contests
 - Developed team members to go on to successful careers in software and game development -->
 
-`2014-2015`
+<!--`2014-2015`
 __Grey Door Games LLC__<br>
 *Programmer and Writer*
 
@@ -580,34 +610,22 @@ ePortfolio Assessment Group, University of Alabama
 
 ---
 
-## Awards and Fellowships - Internal
+## Media and Press
 
-`2020-2024`
-Presidential Doctoral Fellowship, University of Central Florida
+<div class="item" id="pubs" markdown="1">
 
-`2022`
-Departmental Conference Travel Funding Award
+Interviewed as subject-matter expert by journalists from *PBS Frontline* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a forthcoming documentary project. (July, 2023).
 
-`2020`
-Extraordinary Service Scholarship, University of Alabama
+Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
-`2019`
-Winner, Outstanding Teaching by a Masters Student Award, University of Alabama Graduate School
+Kotaku. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
 
-`2019`
-Nominee, Outstanding Thesis by a Master’s Student Award, University of Alabama English Department
+UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
-`2016-2019`
-Truman Capote Literary Trust, University of Alabama
-
-`2018`
-Carolyn P. Handa Teaching Award, University of Alabama
-
-`2018`
-National Graduate Council Fellowship, University of Alabama
+</div>
 
 ---
-
+<!--
 ## Technical Skills
 
 ### Notable Repository Contributions
@@ -618,14 +636,10 @@ Modified Disboard Scraper and Analysis Notebook, *Creator*
 `2022-Present`
 TwineSpace, *Co-Creator, Contributor*
 
-<!--An accessible suite of tools for Discord researchers. Available on GitHub and Google Colab. Handles scraping, cleaning, and analysis of public Discord metadata.-->
-
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View notebook: [darcmode.org/scraper](https://darcmode.org/scraper)-->
-
 `2020`
 Universal Reddit Scraper (URS), *Contributor*
 
-<!--Assisted in debugging fatal errors in the Universal Reddit Scraper, an open source research tool for scraping Reddit.-->
+<!--Assisted in debugging fatal errors in the Universal Reddit Scraper, an open source research tool for scraping Reddit.
 
 ### Programming Experience
 
@@ -645,4 +659,4 @@ Unreal Engine 4
 
 Unity Engine
 
----
+----->
