@@ -451,23 +451,23 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 “Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
-- Advanced studio course on game writing and design principles. Students engaged accessible design tools (e.g., Twine, Bitsy, Homebrewery) and developed a game portfolio: a critical review, an analog game prototype, and a collaborative digital game.
+- *Advanced studio course on game writing and design principles. Students engaged accessible design tools (e.g., Twine, Bitsy, Homebrewery) and developed a game portfolio: a critical review, an analog game prototype, and a collaborative digital game.*
 
 “Writing and the World of Video Games” and “Investigating the World of Video Games” (Advanced English Composition)
 
-- Advanced course developing critical media research skills. Students explored multimodal design and researched social issues surrounding digital gaming. Culminated in a critical discourse analysis and collaborative development of a video game.
+- *Advanced course developing critical media research skills. Students explored multimodal design and researched social issues surrounding digital gaming. Culminated in a critical discourse analysis and collaborative development of a video game.*
   
 “The Writer's Journey” (Introduction to Creative Writing)
 
-- Introductory multigenre, media-focused course. Students explored writing elements (Character, Narrative, World, and Sonics) through an adventure-game structure.
+- *Introductory multigenre, media-focused course. Students explored writing elements (Character, Narrative, World, and Sonics) through an adventure-game structure.*
 
-English Composition II
+**English Composition II**
 
-- Introductory course centering semester-long, student-centered research projects. Students developed a discourse analysis and designed an interactive project.
+- *Introductory course centering semester-long, student-centered research projects. Students developed a discourse analysis and designed an interactive project.*
 
-English Composition I
+**English Composition I**
 
-- Introductory course on expository writing and genre exploration. Students wrote in new genres and produced media projects.
+- *Introductory course on expository writing and genre exploration. Students wrote in new genres and produced media projects.*
 
 ### Graduate Teaching Assistant
 
@@ -638,8 +638,6 @@ TwineSpace, *Co-Creator, Contributor*
 
 `2020`
 Universal Reddit Scraper (URS), *Contributor*-->
-
-### Software Proficiencies
 
 **Languages:** Python, C#, HTML + CSS, Javascript, Markdown, C++, Java
 
