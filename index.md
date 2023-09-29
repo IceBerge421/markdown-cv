@@ -451,23 +451,23 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 
 “Press Start: Writing for Games” (Applied Topics in Creative Writing) [Hybrid Course]
 
-- In this advanced studio course, I guided students through game writing practices and design principles. Students engaged a variety of accessible tools for game design (including Twine, Bitsy, and The Homebrewery) and developed a portfolio of three game projects: a critical review, an analog game prototype, and a collaborative digital game.
+- Advanced studio course on game writing practices and design principles. Students engaged accessible design tools (e.g., Twine, Bitsy, and The Homebrewery) and developed a portfolio of game projects: a critical review, an analog game prototype, and a collaborative digital game.
 
 “Writing and the World of Video Games” and “Investigating the World of Video Games” (Advanced English Composition)
 
-- In this advanced research course (taught over two semesters), I used a quest-based adventure game approach to teach students critical media research skills. Students embarked on a main questline and side questlines to explore multimodal and visual design, and research social issues surrounding digital gaming. The course culminated in a critical discourse analysis and in the collaborative development of a video game.
+- Advanced course developing students' critical media research skills. Students explored multimodal and visual design and researched social issues surrounding digital gaming. Culminated in a critical discourse analysis and collaborative development of a video game.
 
 “The Writer's Journey” (Introduction to Creative Writing)
 
-- In this introductory course, students explored four “worlds” of creative writing (Character & Persona, Narrative & Plot, World & Space and Sonics and Revision) through a unique adventure-game structure. Students worked in groups to build creative experiments and were encouraged to explore new genres, identify their own voices and interests, and experience local art scenes.
+- Introductory multigenre, media-focused writing course. Students explored four creative writing elements (Character, Narrative, World, and Sonics) through a unique adventure-game structure.
 
 English Composition II
 
-- For this introductory course, I guided students through semester-long, student-centered research projects. Students worked to develop an extended discourse analysis research project related to digital gaming and ultimately created a multimodal research project to bring the results of their findings to a tangible audience.
+- Introductory course centering semester-long, student-centered research projects. Students developed a discourse analysis related to digital gaming and designed a multimodal project demonstrating their findings.
 
 English Composition I
 
-- In this introductory course, I taught students an introduction to expository writing and genre exploration.  Students wrote papers in numerous new genres, collaborated in groups, and ultimately produced a media project to ‘remix’ one of their papers.
+- Introductory course on expository writing and genre exploration. Students wrote in new genres and produced media projects.
 
 ### Graduate Teaching Assistant
 
