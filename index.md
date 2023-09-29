@@ -426,7 +426,7 @@ Britt, Rebecca K., & **Berge, PS** (2020). r/persona5 as a community of practice
 **Berge, PS** and Davenport, LM. Reading from "Great Opportunities: Stories from the Multiverse's Shittiest Space Colony". MFA Reading Series. February 2020, University of Alabama.
 
 `2019`
-**Berge, PS.** “Teaching with ePortfolios”. Graduate teaching assistant training. November 2019, University of Alabama.
+**Berge, PS.** “Teaching with ePortfolios”. Graduate assistant training. November 2019, University of Alabama.
 
 `2019`
 **Berge, PS.** “Performing Video Game and Virtual Reality Research”. Games writing course. October 2019, University of Alabama.
@@ -645,6 +645,6 @@ Universal Reddit Scraper (URS), *Contributor*-->
 
 **Web & Design:** Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator, Dreamweaver) · WordPress · Weebly · GitHub Pages · Jekyll · Hugo
 
-**Game Design:** Twine · Ren’Py · Unreal Engine 4 · Unity · Inform 7 · Bitsy + Borksy · A-Frame + AR.Js
+**Game Design:** Twine (Harlowe, Sugarcube 2) · Ren’Py · Unreal Engine 4 · Unity · Inform 7 · Bitsy + Borksy · A-Frame + AR.Js
 
 ---
