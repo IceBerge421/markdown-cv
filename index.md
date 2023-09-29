@@ -479,66 +479,6 @@ British Literature I
 
 ---
 
-## Selected Work and Leadership Experience
-
-`2021-Present`
-__The [Discord Academic Research Community](https://darcmode.org/)__<br>
-*Director, Cofounder, Community Manager*
-
-<!--- Designing and maintaining an accessible Discord server for academic resources and community-->
-<!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
-- Leading the moderator team and engaging an active community of 100+ Internet researchers
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
-
-`2021-Present`
-__[Tabletop Research in Practice (TRiP)](https://triptable.top/)__<br>
-*Cofounder, Sponsored Researcher*
-
-<!--- Designing and maintaining an accessible Discord server for academic resources and community-->
-<!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
-- Leading the moderator team and engaging an active community of 100+ Internet researchers
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
-
-`2022-2023`
-__University of Central Florida__<br>
-*Procedural Narrative + Augmented Reality Research Assistant*
-
-<!-- - Researching and devloping procedural narrative systems in JavaScript to support interactive fiction resources -->
-
-`2022-2023`
-__University of Texas, Austin__<br>
-*Writing Assessment Specialist, OnRamps Rhetoric Program*
-
-`2022`
-__Game in Lab__<br>
-*Community Management Consultant*
-
-`2016-2019`
-__University of Alabama__<br>
-*Digital Literacy Mentor, Graduate Teaching Assistant*
-
-<!-- - Developed creative and engaging lessons plans, syllabi, and activities to encourage emergent learning and introduce students to composing and critical thinking fundamentals, including multimodal composing strategies, rhetoric, discourse analysis, and holistic revision strategies -->
-<!-- - Worked with other instructors and departments to develop pedagogical resources and innovative approaches to teaching both composition and creative writing at the department level  -->
-
-`2012-2016`
-__Frelance Game Design__<br>
-*Unity Programmer, Writer, Team Founder and Manager*
-
-<!-- - Recruited and managed a small team of programmers, artists, and designers
-- Worked together to develop games for local game jams, winning several contests
-- Developed team members to go on to successful careers in software and game development -->
-
-<!--`2014-2015`
-__Grey Door Games LLC__<br>
-*Programmer and Writer*
-
-<!-- - Designed game-specific combat and locomotion systems to design specifications
-- Collaborated with designer on narrative elements and key mechanics -->
-
----
-
 ## Service to Profession
 
 `2023-Present`
@@ -607,6 +547,66 @@ Creative writing online curriculum development, University of Alabama
 
 `2019-2020`
 ePortfolio Assessment Group, University of Alabama
+
+---
+
+## Selected Work and Leadership Experience
+
+`2021-Present`
+__The [Discord Academic Research Community](https://darcmode.org/)__<br>
+*Director, Cofounder, Community Manager*
+
+<!--- Designing and maintaining an accessible Discord server for academic resources and community-->
+<!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
+- Leading the moderator team and engaging an active community of 100+ Internet researchers
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
+
+`2021-Present`
+__[Tabletop Research in Practice (TRiP)](https://triptable.top/)__<br>
+*Cofounder, Sponsored Researcher*
+
+<!--- Designing and maintaining an accessible Discord server for academic resources and community-->
+<!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
+- Leading the moderator team and engaging an active community of 100+ Internet researchers
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
+
+`2022-2023`
+__University of Central Florida__<br>
+*Procedural Narrative + Augmented Reality Research Assistant*
+
+<!-- - Researching and devloping procedural narrative systems in JavaScript to support interactive fiction resources -->
+
+`2022-2023`
+__University of Texas, Austin__<br>
+*Writing Assessment Specialist, OnRamps Rhetoric Program*
+
+`2022`
+__Game in Lab__<br>
+*Community Management Consultant*
+
+`2016-2019`
+__University of Alabama__<br>
+*Digital Literacy Mentor, Graduate Teaching Assistant*
+
+<!-- - Developed creative and engaging lessons plans, syllabi, and activities to encourage emergent learning and introduce students to composing and critical thinking fundamentals, including multimodal composing strategies, rhetoric, discourse analysis, and holistic revision strategies -->
+<!-- - Worked with other instructors and departments to develop pedagogical resources and innovative approaches to teaching both composition and creative writing at the department level  -->
+
+`2012-2016`
+__Frelance Game Design__<br>
+*Unity Programmer, Writer, Team Founder and Manager*
+
+<!-- - Recruited and managed a small team of programmers, artists, and designers
+- Worked together to develop games for local game jams, winning several contests
+- Developed team members to go on to successful careers in software and game development -->
+
+<!--`2014-2015`
+__Grey Door Games LLC__<br>
+*Programmer and Writer*
+
+<!-- - Designed game-specific combat and locomotion systems to design specifications
+- Collaborated with designer on narrative elements and key mechanics -->
 
 ---
 
