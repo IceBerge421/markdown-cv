@@ -625,7 +625,7 @@ UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Res
 </div>
 
 ---
-<!--
+
 ## Technical Skills
 
 ### Notable Repository Contributions
@@ -639,24 +639,12 @@ TwineSpace, *Co-Creator, Contributor*
 `2020`
 Universal Reddit Scraper (URS), *Contributor*
 
-<!--Assisted in debugging fatal errors in the Universal Reddit Scraper, an open source research tool for scraping Reddit.
-
-### Programming Experience
-
-Python, C#, HTML + CSS, Javascript, Markdown, C++, Java
-
 ### Software Proficiencies
 
-Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator, Dreamweaver)
+**Languages:** Python, C#, HTML + CSS, Javascript, Markdown, C++, Java
 
-WordPress, Weebly, GitHub Pages, Jekyll, Hugo
+**Web & Design:** Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator, Dreamweaver) · WordPress · Weebly · GitHub Pages · Jekyll · Hugo
 
-Twine, Ren’Py, Inform 7, Bitsy
+**Game Design:** Twine · Ren’Py · Unreal Engine 4 · Unity · Inform 7 · Bitsy + Borksy · A-Frame + AR.Js
 
-A-Frame and AR.js
-
-Unreal Engine 4
-
-Unity Engine
-
------>
+---
