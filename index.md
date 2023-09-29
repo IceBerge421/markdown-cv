@@ -29,7 +29,7 @@ icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35
 
 ## About
 
-Doctoral candidate in Media Studies in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Doctoral candidate in Digital Media in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 <div id="printPageButton">
 
