@@ -228,7 +228,7 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. �
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Presidential Doctoral Fellowship, University of Central Florida
 
 `2023`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, Order of Pegasus, University of Central Florida School of Performing Arts
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee, Order of Pegasus, University of Central Florida
 
 `2022`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Departmental Conference Travel Funding Award
