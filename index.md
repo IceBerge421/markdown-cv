@@ -207,7 +207,7 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. â€
 
 ### External
 
-`2022`
+`2023`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">ğŸ† </span>Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
 
 `2022`
