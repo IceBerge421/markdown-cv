@@ -594,7 +594,7 @@ __University of Alabama__<br>
 <!-- - Worked with other instructors and departments to develop pedagogical resources and innovative approaches to teaching both composition and creative writing at the department level  -->
 
 `2012-2016`
-__Frelance Game Design__<br>
+__Freelance Game Design__<br>
 *Unity Programmer, Writer, Team Founder and Manager*
 
 <!-- - Recruited and managed a small team of programmers, artists, and designers
