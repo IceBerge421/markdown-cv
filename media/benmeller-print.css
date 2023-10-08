@@ -275,6 +275,12 @@ div#pubs {
 
 @page {
     margin: 8%;
+	counter-increment: page;
+
+	@bottom-right {
+		padding-right: 20px;
+		content: "Page " counter(page)
+	}
   }
 
   @media print {
