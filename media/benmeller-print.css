@@ -275,9 +275,6 @@ div#pubs {
 
 @page {
     margin: 8%;
-	@bottom-center {
-		content: "Page " counter(page);
-	}
   }
 
   @media print {
