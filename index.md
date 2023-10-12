@@ -128,7 +128,7 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 
 - Authors contributed equally to this research.
 
-</div>
+</div><div class="printOnly"><br></div>
 
 ### Conference Proceedings - Articles
 
