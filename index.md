@@ -369,7 +369,7 @@ Salter, Anastasia; Moulthrop, Stuart; Marino, Mark; Ciccoricco, David; Milligan,
 **Berge, PS** (chair); Aceae, Ryan Rose; Zegura, Cass; Murray, Jack (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
 
 `2021`
-**Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presdented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Tallinn, Estonia.
+**Berge, PS**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Tallinn, Estonia.
 - Presentation Video: [youtu.be/gH6P3JiT6dE](https://youtu.be/gH6P3JiT6dE)
 
 `2021`
