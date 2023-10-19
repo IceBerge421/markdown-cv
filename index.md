@@ -17,7 +17,7 @@ icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35
 </div>
 
 <div class="printOnly">
-<p>Email: hello@psberge.com | Website: psberge.com | Twitter: @theiceberge</p>
+<p>Email: hello@psberge.com | Website: psberge.com | Portfolio: @theiceberge</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
@@ -500,7 +500,7 @@ Cover Designer, *Peitho* journal special issue, *Coalition of Feminist Scholars 
 Designed and implemented the official Association of Internet Researchers Graduate Student and Early Career Group Discord Server
 
 `2022`
-Designed the [conference program](https://stars.library.ucf.edu/cp2022/resources/materials/1/) and official Discord server for the Console-ing Passions 2022 confernece
+Designed the [conference program](https://stars.library.ucf.edu/cp2022/resources/materials/1/) and official Discord server for the Console-ing Passions 2022 conference
 
 `2022`
 Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
