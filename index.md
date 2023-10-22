@@ -269,6 +269,10 @@ A portfolio of my design work, including published games, software, and ongoing 
 Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2023`
+***FINAL BROADCAST***<br>7-page PDF. A storytelling game about the sun exploding, played by burning a sheet of paper. [https://gravesnail.itch.io/final-broadcast](https://gravesnail.itch.io/final-broadcast)
+- Submission to the Queerness and Games Jam by QG Con
+
+`2023`
 ***the ice: a tragic roleplaying game***<br>18-page PDF. A tragic LARP about surviving an arctic hellscape over the course of seven scenes. [https://gravesnail.itch.io/the-ice](https://gravesnail.itch.io/the-ice)
 - Made in collaboration with adriiadventures
 
