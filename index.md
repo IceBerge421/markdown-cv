@@ -389,13 +389,15 @@ Anastasia Salter, Stuart Moulthrop, Mark Marino, David Ciccoricco, Chloe A. Mill
 Daniel G. Heslep and **PS Berge**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD". Paper presented at AoIR 2021: The 22nd Annual Conference of the Association of Internet Researchers. October 13–16, 2021 [Virtual Event]. Retrieved from [http://spir.aoir.org](https://spir.aoir.org/ojs/index.php/spir/article/view/12183).
 
 `2021`
-**PS Berge**. (2021). “SHOW YOUR DEDICATION:” VR Games and Outmersion. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), March 27 – April 3, 2021, Lisbon, Portugal [Virtual Event], p. 737-738. Extended abstract. [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251). **Winner of the IEEE VR Doctoral Consortium Best Presentation Award.**
+**PS Berge**. (2021). “SHOW YOUR DEDICATION:” VR Games and Outmersion. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), March 27 – April 3, 2021, Lisbon, Portugal [Virtual Event], p. 737-738. Extended abstract. [doi: 10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251). 
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the IEEE VR Doctoral Consortium Best Presentation Award.
 
 `2021`
 Ahmad Awadhi, **PS Berge**, Sarah Dwyer, Sarah Lovett, Sheila McQuaid, Lauren Woolbright (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the College Conference on Composition and Communications. April 7–10, 2021, Spokane, WA [Virtual Event]. (Re-accepted from 2020. Cancelled due to COVID-19).
 
 `2020`
-**PS Berge**, & Rebecca K. Britt (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event]. 
+**PS Berge**, & Rebecca K. Britt (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event].
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the NCA Game Studies Division Top Paper Award.
 
 `2020`
 Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: A computational content analysis of expressed communication based on a Japanese role-playing game. Presented at the National Communication Association, Japan-US Communication Association. November 19–22, 2020, Indianapolis, IN [Virtual Event, Converted for COVID-19].
