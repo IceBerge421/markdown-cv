@@ -184,7 +184,7 @@ Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. 
 **PS Berge** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
 
 Kocik, David; **PS Berge**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Forthcoming in special issue on Fandom and Platforms.)-->
-</div>
+</div><div class="printOnly"><br></div>
 
 ### Book Reviews
 
