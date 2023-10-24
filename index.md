@@ -648,10 +648,10 @@ TwineSpace, *Co-Creator, Contributor*
 `2020`
 Universal Reddit Scraper (URS), *Contributor*-->
 
-**Languages:** Python, C#, HTML + CSS, Javascript, Markdown, C++, Java
+**Languages:** Python, C#, HTML + CSS, Javascript, C++, Markdown, Java
 
-**Web & Design:** Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator, Dreamweaver) · WordPress · Weebly · GitHub Pages · Jekyll · Hugo
+**Web & Design:** Adobe Suite (InDesign, Photoshop, Premiere, After Effects, Illustrator) · WordPress · Weebly · GitHub Pages · Jekyll · Hugo
 
-**Game Design:** Twine (Harlowe, Sugarcube 2) · Ren’Py · Unreal Engine 4 · Unity · Inform 7 · Bitsy + Borksy · A-Frame + AR.Js
+**Game Design:** Twine (Harlowe, Sugarcube 2) · Ren’Py · Unreal Engine 4 · Unity · Inform 7 · Bitsy + Borksy · A-Frame + AR.js
 
 ---
