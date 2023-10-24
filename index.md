@@ -163,6 +163,15 @@ David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Fort
 
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
 
+</div>
+
+## Other Publications
+
+<!--
+**PS Berge** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
+
+Kocik, David; **PS Berge**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Forthcoming in special issue on Fandom and Platforms.)-->
+
 ### Conference Proceedings - Extended Abstracts
 
 <div class="item" id="pubs" markdown="1">
@@ -175,15 +184,6 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 <span id="printPageButton">`2021`</span>
 **PS Berge**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*, 2021, pp. 737-738, [doi:10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
-
-</div>
-
-## Other Publications
-
-<!--
-**PS Berge** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
-
-Kocik, David; **PS Berge**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Forthcoming in special issue on Fandom and Platforms.)-->
 </div><div class="printOnly"><br></div>
 
 ### Book Reviews
