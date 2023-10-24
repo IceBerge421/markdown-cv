@@ -109,22 +109,22 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2023`</span>
-**Berge, PS**. (2023). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture 0*(0). https://doi.org/10.1177/15554120231204145 <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/table-and-tomb/)</span>
+**PS Berge**. (2023). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture 0*(0). https://doi.org/10.1177/15554120231204145 <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/table-and-tomb/)</span>
 
 <span id="printPageButton">`2023`</span>
-**Berge, PS**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, *0*(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
+**PS Berge**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, *0*(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
 
 <span id="printPageButton">`2023`</span>
-Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
+Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A structural content analysis of r/persona5 as a community of practice,” *Participations Journal of Audience and Reception Studies 19*(2). 
 [https://www.participations.org/19-02-07-britt.pdf](https://www.participations.org/19-02-07-britt.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Megathreads-Waifu-Wars.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS** & Britt, Rebecca K. (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](http://gamestudies.org/2104/articles/berge_britt)</span>
+**PS Berge** & Rebecca K. Britt (2021). “Dance With Me, Claude: Creators, Catalyzers, and Canonizers in the Fire Emblem: Three Houses Slash-Ship Fandom,” *Game Studies 21*(4). [http://gamestudies.org/2104/articles/berge_britt](http://gamestudies.org/2104/articles/berge_britt) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](http://gamestudies.org/2104/articles/berge_britt)</span>
 
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the Top Paper Award from the NCA Game Studies Division.
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS** & Heslep, Daniel G. (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
+**PS Berge** & Daniel G. Heslep (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 
 - Authors contributed equally to this research.
 
@@ -135,21 +135,21 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**; Cox, Daniel; Murray, Jack; & Salter, Anastasia. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California.
+**PS Berge**, Daniel Cox, Jack Murray, & Anastasia Salter. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California.
 [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
 
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Nominee for Best Student Paper Award.
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). 'LET ALL PARTAKE IN THE SUFFERING': *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. In *Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together*, 1–19. Presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Let-All-Partake-In-The-Suffering.pdf)</span>
+**PS Berge**. (2022). 'LET ALL PARTAKE IN THE SUFFERING': *MÖRK BORG* as a Visual-Material Toolkit for Fan Remix. In *Proceedings of the 2022 DiGRA International Conference: Bringing Worlds Together*, 1–19. Presented at the Digital Games Research Association 2022 Conference. Guadalajara, Mexico. [http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf](http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2022_paper_2231.pdf) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Let-All-Partake-In-The-Suffering.pdf)</span>
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Monster-Power.-Rebel-Heart.-Gay-Sword.pdf)</span>
+**PS Berge**. (2021). Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games. In A. Mitchell & M. Vosmeer (Eds.), *Interactive Storytelling* (pp. 179–192). Springer International Publishing. [https://doi.org/10.1007/978-3-030-92300-6_16](https://doi.org/10.1007/978-3-030-92300-6_16) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Monster-Power.-Rebel-Heart.-Gay-Sword.pdf)</span>
 
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Most downloaded paper of the *International Conference on Interactive Digital Storytelling* 2021 Proceedings.
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. Presented at the ACM Conference on Hypertext and Social Media. August 30 – September 2, 2021, Virtual Event, Ireland.  [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
+**PS Berge**. (2021). Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. Presented at the ACM Conference on Hypertext and Social Media. August 30 – September 2, 2021, Virtual Event, Ireland.  [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
 
 </div>
 
@@ -158,13 +158,13 @@ Britt, Rebecca K. & **Berge, PS**.  (2023). “Megathreads and ‘waifu wars’:
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021). "GO BACK IN YOUR FETUS CAVE:" HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
+**PS Berge**. (2021). "GO BACK IN YOUR FETUS CAVE:" HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
 
 <span id="printPageButton">`2021`</span>
-Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
+Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.12183](https://doi.org/10.5210/spir.v2021i0.12183)
 
 <span id="printPageButton">`2021`</span>
-**Berge, PS**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*, 2021, pp. 737-738, [doi:10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
+**PS Berge**. (2021) [DC] "SHOW YOUR DEDICATION:" VR Games and Outmersion.  *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*, 2021, pp. 737-738, [doi:10.1109/VRW52623.2021.00251](https://doi.org/10.1109/VRW52623.2021.00251).
 
 </div>
 
@@ -174,9 +174,11 @@ Heslep, Daniel G., & **Berge, PS**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRI
 
 <div class="item" id="pubs" markdown="1">
 
-Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Alberto, Maria; Sapuridis, Effie; and Willard, Leslie (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
+**PS Berge** & Madison Schmalzer. (Forthcoming). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (Manuscript accepted with minor revisions).
 
-Alberto, Maria; **Berge, PS**; Blackburn, Brandon; Burton, Adrianna; Thach, Hibby. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
+David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
+
+Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
 
 <!--
 **Berge, PS** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
@@ -189,7 +191,7 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. �
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)</span>
+**PS Berge**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)</span>
 
 </div>
 
@@ -198,10 +200,10 @@ Kocik, David; **Berge, PS**; Butera, Camille; Oon, Celeste; Senters, Michael. �
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
+**PS Berge**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
 
 <span id="printPageButton">`2022`</span>
-**Berge, PS**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
+**PS Berge**. "Announcing the Discord Academic Research Community." (January, 2022). The D/ARC Blog. [darcmode.org/announcing-the-darc/](https://darcmode.org/announcing-the-darc/)
 
 </div>
 ---
