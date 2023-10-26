@@ -372,7 +372,7 @@ Nikki Barnes, **PS Berge**, and Farah Cato. (2022). “#UploadELO2022: Electroni
 Anastasia Salter, Stuart Moulthrop, Mark Marino, David Ciccoricco, Chloe A. Milligan, **PS Berge**. (2022). "Adventures Through Twine & Space: Re-Imagining Geolocative IF Platforms". Presented in “Are We Platforms? Rethinking Pandemic Pedagogies of Electronic Literature” at the Electronic Literature Conference. Como, Italy.
 
 `2022`
-**PS Berge** (chair), Ryan Rose Aceae, Cass Zegura, Jack Murray (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
+**PS Berge** (chair), Ryan Rose Aceae, Cass Zegura, Jack Murray. (2022). “THERE IS NO ESCAPE: Roguelike Romance and Queer Discovery in *Hades*.” Presented in Opacity, Community, Discovery: Structures of Queer Visibility in Videogames at the 2022 Society for Cinema and Media Studies Conference. Chicago, IL.
 
 `2021`
 **PS Berge**. (2021). "Monster Power. Rebel Heart. Gay Sword. Queer Structures and Narrative Possibility in PbtA Tabletop Roleplaying Games." Presented at the International Conference on Interactive Digital Storytelling. December 7–10, 2021, Tallinn, Estonia.
