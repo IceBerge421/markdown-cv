@@ -323,6 +323,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 <div class="item" id="pubs" markdown="1">
 
 `2023`
+**PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association Games & Gaming Round Table.
+
+`2023`
 **PS Berge.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
 
 `2023`
