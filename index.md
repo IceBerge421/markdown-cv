@@ -322,6 +322,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 <div class="item" id="pubs" markdown="1">
 
+`2024`
+**PS Berge.** Featured Industry Guest Speaker at the Anyone's Game Tabletop Game Conference. Forthcoming February 2024. Hosted by Ringling College of Art and Design.
+
 `2023`
 **PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association Games & Gaming Round Table.
 
