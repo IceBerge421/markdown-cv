@@ -262,13 +262,13 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 ### Full Media Portfolio
 
-A portfolio of my design work, including published games, software, and ongoing projects is available on my website at [psberge.com/portfolio](https://psberge.com/portfolio).
+A portfolio of my design work, including published games, software, and ongoing media projects is available on my website at [psberge.com/portfolio](https://psberge.com/portfolio).
 
 ### Games
 
 <div class="item" id="pubs" markdown="1">
 
-Games also available at [gravesnail.itch.io](https://gravesnail.itch.io/).
+Most games are available at [gravesnail.itch.io](https://gravesnail.itch.io/).
 
 `2023`
 ***FINAL BROADCAST***<br>7-page PDF. A storytelling game about the sun exploding, played by burning a sheet of paper. [https://gravesnail.itch.io/final-broadcast](https://gravesnail.itch.io/final-broadcast)
@@ -326,7 +326,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 **PS Berge.** Featured Industry Guest Speaker at the Anyone's Game Tabletop Game Conference. Forthcoming February 2024. Hosted by Ringling College of Art and Design.
 
 `2023`
-**PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association Games & Gaming Round Table.
+**PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
 
 `2023`
 **PS Berge.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
