@@ -109,7 +109,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2023`</span>
-**PS Berge**. (2023). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture 0*(0). https://doi.org/10.1177/15554120231204145 <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/table-and-tomb/)</span>
+**PS Berge**. (2023). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture 0*(0). [https://doi.org/10.1177/15554120231204145](https://doi.org/10.1177/15554120231204145) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/table-and-tomb/)</span>
 
 <span id="printPageButton">`2023`</span>
 **PS Berge**. (2023). #AnswerUsYoutube: Predatory Influencers and Cross-Platform Insulation. *Feminist Media Studies*, *0*(0), 1–21. [https://doi.org/10.1080/14680777.2023.2231655](https://doi.org/10.1080/14680777.2023.2231655) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/07/AnswerUsYoutube.pdf)</span>
@@ -508,7 +508,7 @@ Cofounder of [Tabletop Research in Practice (TRiP)](https://triptable.top)
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
 `2023`
-Cover Designer, *Peitho* journal special issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
+Cover Designer, *Peitho* Vol 25.4 Special Issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
 
 `2022`
 Designed and implemented the official Association of Internet Researchers Graduate Student and Early Career Group Discord Server
