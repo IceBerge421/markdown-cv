@@ -323,7 +323,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 <div class="item" id="pubs" markdown="1">
 
 `2024`
-**PS Berge.** Featured Industry Guest Speaker at the Anyone's Game Tabletop Game Conference. Forthcoming February 2024. Hosted by Ringling College of Art and Design.
+**PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. Forthcoming February 2024. Hosted by Ringling College of Art and Design.
 
 `2023`
 **PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
@@ -347,6 +347,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 <div class="item" id="pubs" markdown="1">
 
 *Additional presentations may found as published proceedings, listed above.*
+
+`2024`
+**PS Berge** (chair). (Forthcoming 2024). "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". To be Presented at on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA.
 
 `2023`
 **PS Berge** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2022. [Virtual Event].
@@ -527,11 +530,11 @@ Reviewer, organizing committee, Console-ing Passions 2022 Conference
 
 ### Peer Reviewer, Various Journals
 
-*New Media & Society* (2022), *Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *Transformative Works & Culture* (2023-Present)
+*Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *New Media & Society* (2022-Present),*Transformative Works & Culture* (2023-Present)
 
 ### Panels Organized and Chaired
 `2023`
-"(Re)Producing the 'Real': Bad Copies, Trans* Media, and Unindexable Techno-Genders," SCMS 2024. (Panel Under Review).
+"(Re)Producing the 'Real': Bad Copies, Trans* Media, and Unindexable Techno-Genders," SCMS 2024.
 
 `2022`
 "Opacity, Community, Discovery: Structures of Queer Visibility in Videogames," SCMS 2022.
@@ -631,7 +634,10 @@ __Grey Door Games LLC__<br>
 
 <div class="item" id="pubs" markdown="1">
 
-Interviewed as subject-matter expert by journalists from *Frontline PBS* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a forthcoming documentary project. (July, 2023).
+Interviewed as subject-matter expert by journalists from *Frontline PBS* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a series of articles and a documentary (July - December, 2023). [https://www.washingtonpost.com/discord-leaks/](https://www.washingtonpost.com/discord-leaks/). In particular:
+
+- Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [‘Problematic pockets’: How Discord became a home for extremists](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
+- Interviewed for and credited in *The Discord Leaks* Documentary, PBS Frontline. Aired December 12, 2023. [https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/](https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/).
 
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
