@@ -636,7 +636,7 @@ __Grey Door Games LLC__<br>
 
 Interviewed as subject-matter expert by journalists from *Frontline PBS* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a series of articles and a documentary (July - December, 2023). [https://www.washingtonpost.com/discord-leaks/](https://www.washingtonpost.com/discord-leaks/). In particular:
 
-- Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [‘Problematic pockets’: How Discord became a home for extremists](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
+- Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
 - Interviewed for and credited in *The Discord Leaks* Documentary, PBS Frontline. Aired December 12, 2023. [https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/](https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/).
 
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
