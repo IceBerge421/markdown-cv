@@ -472,7 +472,7 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 **Game Seminar** [Online Course]
 
-- *Masters-level course, part of Bradley's Master of Science in Game Design program. Students engaged current and crucial research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed their own critical play reflections and surveys of current issues in gaming culture.*
+- *Masters-level course in Bradley's M.S. in Game Design program. Students engaged current research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed critical play reflections and surveys of current issues in gaming culture.*
 
 
 **University of Alabama (2016-2020)**
