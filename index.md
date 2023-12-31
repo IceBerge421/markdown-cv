@@ -161,6 +161,8 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
 
+**PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue). 
+
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
 
 </div>
