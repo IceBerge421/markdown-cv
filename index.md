@@ -161,6 +161,8 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
 
+**PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue). 
+
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
 
 </div>
@@ -465,7 +467,15 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 ---
 
 ## Courses Taught
+
 ### Instructor of Record 
+
+**Bradley University (2023-2024)**
+
+**Game Seminar** [Online Course]
+
+- *Masters-level course in Bradley's M.S. in Game Design program. Students engaged current research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed critical play reflections and surveys of current issues in gaming culture.*
+
 
 **University of Alabama (2016-2020)**
 
@@ -638,7 +648,7 @@ Interviewed as subject-matter expert by journalist from *The Associated Press* r
 
 Interviewed as subject-matter expert by journalists from *Frontline PBS* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a series of articles and a documentary. (July - December, 2023). [https://www.washingtonpost.com/discord-leaks/](https://www.washingtonpost.com/discord-leaks/). In particular:
 
-- Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [‘Problematic pockets’: How Discord became a home for extremists](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
+- Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
 - Interviewed for and credited in *The Discord Leaks* Documentary, PBS Frontline. Aired December 12, 2023. [https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/](https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/).
 
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
