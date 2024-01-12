@@ -17,7 +17,7 @@ icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35
 </div>
 
 <div class="printOnly">
-<p>Email: hello@psberge.com | Website: psberge.com | Twitter: @theiceberge</p>
+<p>Email: hello@psberge.com | Website: psberge.com | Itch: gravesnail.itch.io</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
