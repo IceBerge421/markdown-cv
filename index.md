@@ -124,7 +124,7 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the Top Paper Award from the NCA Game Studies Division.
 
 <span id="printPageButton">`2021`</span>
-**PS Berge** & Daniel G. Heslep (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *0*(0). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
+**PS Berge** & Daniel G. Heslep (2021). Mapping Discord’s darkside: Distributed hate networks on Disboard. *New Media & Society*, *26*(1). [https://doi.org/10.1177/14614448211062548](https://doi.org/10.1177/14614448211062548) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Mapping-Discords-Darkside.pdf)</span>
 
 - Authors contributed equally to this research.
 
@@ -475,7 +475,6 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 **Game Seminar** [Online Course]
 
 - *Masters-level course in Bradley's M.S. in Game Design program. Students engaged current research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed critical play reflections and surveys of current issues in gaming culture.*
-
 
 **University of Alabama (2016-2020)**
 
