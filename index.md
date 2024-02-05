@@ -157,7 +157,7 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 <div class="item" id="pubs" markdown="1">
 
-**PS Berge** & Madison Schmalzer. (Forthcoming). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (Manuscript accepted with minor revisions).
+**PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (In press).
 
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
 
