@@ -325,7 +325,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 <div class="item" id="pubs" markdown="1">
 
 `2024`
-**PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. Forthcoming February 2024. Hosted by Ringling College of Art and Design.
+**PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
 
 `2023`
 **PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
@@ -418,6 +418,9 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ### Workshops Led
 
+`2024`
+**PS Berge.** *Playing With Fire: a Workshop on Designing Self-Destructing Games*. Anyone's Game Conference. Ringling College of Art & Design. February, 2024.
+
 `2022`
 **PS Berge.** *Working With Networked Discord Data*. The Discord Academic Research Community (D/ARC). February, 2022.
 
@@ -435,8 +438,11 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ### Guest Lectures
 
+`2024`
+**PS Berge.** "Representation and Its Discontents." February 2024. Course on Roleplaying Games & Improvisation. University of California, Irvine.
+
 `2022`
-**PS Berge.** Collecting and Analyzing Discord Data. Social Media Research course. November 2022, University of Central Florida.
+**PS Berge.** Collecting and Analyzing Discord Data. Social media research course. November 2022, University of Central Florida.
 
 `2022`
 **PS Berge.** "Understanding Extremism and Social Media". Developmental psychology course. April 2022, University of Minnesota.
