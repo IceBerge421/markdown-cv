@@ -231,6 +231,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 ### Internal
 
+`2024`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Order of Pegasus Award, University of Central Florida
+
 `2020-2024`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Presidential Doctoral Fellowship, University of Central Florida
 
@@ -417,6 +420,9 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 **PS Berge**, James Eubanks, Lacee Nisbitt, & Amanda Stevens (2019). “Exploring the Rhetoric of Immersion and Identity in Virtual Reality.” Presented in Performance Expression and Identity within Multimodal Technologies at the College Conference on Composition and Communications. March 13–16, 2019, Pittsburgh, PA.
 
 ### Workshops Led
+
+`2024`
+**PS Berge.** *Cut Here: designing self-destructing games and un-ending play*. UCLA Game Lab. Invited Workshop. March, 2024.
 
 `2024`
 **PS Berge.** *Playing With Fire: a Workshop on Designing Self-Destructing Games*. Anyone's Game Conference. Ringling College of Art & Design. February, 2024.
