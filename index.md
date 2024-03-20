@@ -29,7 +29,7 @@ icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35
 
 ## About
 
-Doctoral candidate in Digital Media in the University of Central Florida’s Texts & Technology PhD program. Award-winning game designer and teacher studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Incoming Assistant Professor of Experimental Game Design in the University of Alberta Media & Technology Studies Program and the Department of Women & Gender Studies. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 <div id="printPageButton">
 
@@ -68,7 +68,7 @@ Doctoral candidate in Digital Media in the University of Central Florida’s Tex
 __Ph.D. Candidate, Texts and Technology (Digital Media), Universty of Central Florida__
 
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
-and possibility in digital and analog gaming" (Expected Defense: June 2024)
+and possibility in digital and analog gaming" (Defense: April 2024)
 - Chair: Dr. Anastasia Salter
 - Committee: Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
 
@@ -107,6 +107,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 ### Journal Articles
 
 <div class="item" id="pubs" markdown="1"> 
+
+<span id="printPageButton">`2024`</span>
+David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." [https://journal.transformativeworks.org/index.php/twc/article/view/2497](https://journal.transformativeworks.org/index.php/twc/article/view/2497) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://journal.transformativeworks.org/index.php/twc/article/view/2497)</span>
 
 <span id="printPageButton">`2023`</span>
 **PS Berge**. (2023). The Table and the Tomb: Positioning Trans Power and Play Amid Fantasy Realism in *Dungeons & Dragons*. *Games & Culture 0*(0). [https://doi.org/10.1177/15554120231204145](https://doi.org/10.1177/15554120231204145) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/table-and-tomb/)</span>
@@ -159,8 +162,6 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (In press).
 
-David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (Forthcoming March 2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." (In press).
-
 **PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue). 
 
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
@@ -200,6 +201,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 ### Academic Blog Posts
 
 <div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2024`</span>
+**PS Berge**. "Discord Research Roundup: February 2024." (February, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/research-roundup-feb-2024/)
 
 <span id="printPageButton">`2022`</span>
 **PS Berge**. "Scraping Disboard Data." (January, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/scraping-disboard/)
