@@ -29,7 +29,7 @@ icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35
 
 ## About
 
-Incoming Assistant Professor of Experimental Game Design in the Media & Technology Studies Program and the Department of Women & Gender Studies at the University of Alberta. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Incoming Assistant Professor of Experimental Game Design in the Media & Technology Studies Program at the University of Alberta. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 <div id="printPageButton">
 
