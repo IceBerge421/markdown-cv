@@ -64,11 +64,11 @@ Incoming Assistant Professor of Experimental Game Design in the Media & Technolo
 
 ## Education
 
-`2020-Present`
-__Ph.D. Candidate, Texts and Technology (Digital Media), Universty of Central Florida__
+`2024`
+__Ph.D. Texts and Technology (Digital Media), Universty of Central Florida__
 
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
-and possibility in digital and analog gaming" (Defense: April 2024)
+and possibility in digital and analog gaming"
 - Chair: Dr. Anastasia Salter
 - Committee: Dr. Mel Stanfill, Dr. Brandy Dieterle, Dr. Amanda Phillips, Dr. Bo Ruberg
 
@@ -100,6 +100,13 @@ __A.A. Integrated Studies, Cascadia Community College__
 <hr><h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p>
 
 </div>-->
+
+---
+
+## Academic Appointments
+
+`Present`
+__Assistant Professor of Experimental Game Design (Incoming)__, The University of Alberta, effective July 2024.
 
 ---
 
@@ -162,7 +169,7 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (In press).
 
-**PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue). 
+**PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
 
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
 
@@ -192,6 +199,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 ### Book Reviews
 
 <div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2024`</span>
+**PS Berge**. (2024). Book Review: Beyond the Deck: Critical Essays on *Magic: The Gathering* and Its Influence. *Journal of Fandom Studies.* 3, 276–280. [https://doi.org/10.1386/jfs_00092_5](https://doi.org/10.1386/jfs_00092_5)
 
 <span id="printPageButton">`2022`</span>
 **PS Berge**. (2022). Book Review: Cosplay: The Fictional Mode of Existence. *The Journal of Anime and Manga Studies*, 3, 276–280. [https://doi.org/10.21900/j.jams.v3.1132](https://doi.org/10.21900/j.jams.v3.1132) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://iopn.library.illinois.edu/journals/jams/article/view/1132/935)</span>
@@ -550,11 +560,14 @@ Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
 `2021-2022`
 Reviewer, organizing committee, Console-ing Passions 2022 Conference
 
-### Peer Reviewer, Various Journals
+### Peer Reviewer, Various Journals and Conferences
 
-*Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *New Media & Society* (2022-Present),*Transformative Works & Culture* (2023-Present)
+Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
+`2024`
+"B{ending} Trans Media Studies," The 2nd International Trans Studies Conference 2024.
+
 `2023`
 "(Re)Producing the 'Real': Bad Copies, Trans* Media, and Unindexable Techno-Genders," SCMS 2024.
 
@@ -594,9 +607,9 @@ ePortfolio Assessment Group, University of Alabama
 
 ## Selected Work and Leadership Experience
 
-`2021-Present`
-__The [Discord Academic Research Community](https://darcmode.org/)__<br>
-*Director, Cofounder, Community Manager*
+`2022-Present`
+__[Tabletop Research in Practice (TRiP)](https://triptable.top/)__<br>
+*Cofounder, Sponsored Researcher*
 
 <!--- Designing and maintaining an accessible Discord server for academic resources and community-->
 <!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
@@ -605,8 +618,8 @@ __The [Discord Academic Research Community](https://darcmode.org/)__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View community webpage: [https://darcmode.org/](https://darcmode.org/) -->
 
 `2021-Present`
-__[Tabletop Research in Practice (TRiP)](https://triptable.top/)__<br>
-*Cofounder, Sponsored Researcher*
+__The [Discord Academic Research Community](https://darcmode.org/)__<br>
+*Director, Cofounder, Community Manager*
 
 <!--- Designing and maintaining an accessible Discord server for academic resources and community-->
 <!-- - Regularly updating calendar of events, community website and blog, and Twitter accounts
