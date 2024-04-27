@@ -106,7 +106,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 ## Academic Appointments
 
 `Present`
-__Assistant Professor of Experimental Game Design (Incoming)__, The University of Alberta, effective July 2024.
+__Assistant Professor of Experimental Game Design (Incoming)__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
 
 ---
 
