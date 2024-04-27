@@ -1,10 +1,9 @@
 ---
 layout: cv
 title: "PS Berge"
-icon: "https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg"
 ---
 
-![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
+![](https://darcmode.org/wp-content/uploads/2024/04/pb-2024.jpg)
 
 <div id="printPageButton"><h1>PS<br>BERGE</h1></div>
 <div class="printOnly"><h1>PS Berge</h1></div>
