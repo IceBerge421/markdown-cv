@@ -64,7 +64,7 @@ Incoming Assistant Professor of Experimental Game Design in the Media & Technolo
 
 ## Education
 
-`2024`
+`2020-2024`
 __Ph.D. Texts and Technology (Digital Media), Universty of Central Florida__
 
 - Dissertation: "Unplayable Games: a ludoarsonist’s manifesto on trans play
