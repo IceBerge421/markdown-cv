@@ -64,7 +64,7 @@ Assistant Professor of Experimental Game Design in the Media & Technology Studie
 ## Academic Appointments
 
 `2024-Present`
-__Assistant Professor of Experimental Game Design__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
+__Assistant Professor of Experimental Game Design__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta.
 
 ---
 
