@@ -28,13 +28,13 @@ title: "PS Berge"
 
 ## About
 
-Incoming Assistant Professor of Experimental Game Design in the Media & Technology Studies Program at the University of Alberta. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Assistant Professor of Experimental Game Design in the Media & Technology Studies Program at the University of Alberta. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
 
 <div id="printPageButton">
 
-<h3>Fields of Research:</h3>
+<h3>Research Areas:</h3>
 
-<p>Game and media studies, critical platform studies, trans theory, tabletop roleplaying games, social media and cross-platform dynamics, XR, critical making.</p></div>
+<p>Games and media, trans play, critical platform research, tabletop roleplaying games, personal games, XR, critical making.</p></div>
 
 </div>
 
@@ -58,6 +58,13 @@ Incoming Assistant Professor of Experimental Game Design in the Media & Technolo
 
 </div>
 </div>
+
+---
+
+## Academic Appointments
+
+`2024-Present`
+__Assistant Professor of Experimental Game Design__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
 
 ---
 
@@ -99,13 +106,6 @@ __A.A. Integrated Studies, Cascadia Community College__
 <hr><h2>Teaching and Research Fields</h2><p>Game and media studies; platform studies; trans and queer theory; tabletop roleplaying games; critical making; digital humanities.</p>
 
 </div>-->
-
----
-
-## Academic Appointments
-
-`2024-Present`
-__Assistant Professor of Experimental Game Design__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
 
 ---
 
