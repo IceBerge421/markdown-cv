@@ -104,8 +104,8 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 ## Academic Appointments
 
-`Present`
-__Assistant Professor of Experimental Game Design (Incoming)__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
+`2024-Present`
+__Assistant Professor of Experimental Game Design__, Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta, effective July 2024.
 
 ---
 
@@ -166,11 +166,13 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 <div class="item" id="pubs" markdown="1">
 
+Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
+
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in Triforce%. *Journal of Cinema and Media Studies.* (In press).
 
 **PS Berge** & Madison Schmalzer. (Forthcoming). 'I Took a Deep Breath and Came Out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
 
-Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. Stars & Wishes: A Collaborative Disaster Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (Book chapter conditionally accepted for publication in forthcoming collection).
+**PS Berge** & Madison Schmalzer. (Forthcoming). "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (Chapter conditionally accepted for forthcoming publication).
 
 </div>
 
@@ -341,7 +343,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 **PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
 
 `2023`
-**PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
+**PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
 
 `2023`
 **PS Berge.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. April, 2023. Institute of Digital Games Book Club, University of Malta.
@@ -364,7 +366,17 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2024`
-**PS Berge** (chair). (Forthcoming 2024). "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". To be Presented at on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA.
+**PS Berge**. (Forthcoming November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
+
+`2024`
+**PS Berge**; wendi yu; Hibby Thach & Wells Lucas Santo; and Madison Schmalzer. (2024). "We Can Always Never Tell: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented as part of "B\{ending\} Trans Media Studies” at the Second International Trans Studies Conference. September 4-7 2024. Hybrid event; Northwestern University. 
+
+`2024`
+**PS Berge**. (2024). "Time to (╯°□°)╯︵ ┻━┻ : Exclusionary Game Platforms and Flipping the 'Good Table'" at Generation Analog 2024.
+- Presentation Video: [https://youtu.be/4ANzut_nU-s?si=fbDxpcdOGm0auhzI&t=2896](https://youtu.be/4ANzut_nU-s?si=fbDxpcdOGm0auhzI&t=2896)
+
+`2024`
+**PS Berge** (chair). (2024). "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". Presented at on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA. With: Madison Schmalzer, Kit Chokly, and MK Travis-Knudsen. 
 
 `2023`
 **PS Berge** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2022. [Virtual Event].
