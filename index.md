@@ -340,6 +340,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 `2024`
 **PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
 
+`2024`
+**PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
+
 `2023`
 **PS Berge.** I SET MY GAMES ON FIRE: A Ludoarsonist’s Guide to World-Ending, Emulation, and Burning Games. Featured talk. Forthcoming December 2023. Hosted by the American Library Association's Games & Gaming Round Table.
 
@@ -364,10 +367,19 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2024`
-**PS Berge** (chair). (Forthcoming 2024). "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". To be Presented at on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA.
+**PS Berge** and Madison Schmalzer. 2024. “I took a deep breath and came out as GC”: Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented on "Threats to Trans and Queer Lives" panel with Debbie Ging, Catherine Baker, Maja Brandt Andreasen, Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon, and Kat Brewster. Sheffield, UK.
+
+`2024`
+**PS Berge** (chair). “We Can ~~Always~~ Never Tell”: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented on "B{ending} Trans Media Studies" with wendi yu, Madison Schmalzer, Hibby Thach, and Wells Lucas Santo, at the 2nd International Trans Studies Conference. Evanston, Illinois, September 4-7, 2024.
+
+`2024`
+**PS Berge** (2024). "(╯°□°)╯︵ ┻━┻: Exclusionary Game Platforms and Flipping the “'Good Table'". Generation Analog 2024. [Virtual Event].
+
+`2024`
+**PS Berge** (chair). 2024. "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". Presented on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA.
 
 `2023`
-**PS Berge** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2022. [Virtual Event].
+**PS Berge** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2023. [Virtual Event].
 - Presentation Video: [https://youtu.be/v6O0vPsXRWQ](https://youtu.be/v6O0vPsXRWQ)
 
 `2023`
@@ -668,16 +680,20 @@ __Grey Door Games LLC__<br>
 
 <div class="item" id="pubs" markdown="1">
 
-Interviewed as subject-matter expert by journalist from *The Associated Press* regarding Discord and social media and radicalization among youths for forthcoming article. (January 2023).
+*Rascal News.* Featured as a subject expert regarding the use tabletop roleplaying games in the classroom. (November 2024). [https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/](https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/)
 
-Interviewed as subject-matter expert by journalists from *Frontline PBS* and *The Washington Post* regarding Discord, extremism, gaming culture, and platform dynamics for a series of articles and a documentary. (July - December, 2023). [https://www.washingtonpost.com/discord-leaks/](https://www.washingtonpost.com/discord-leaks/). In particular:
+*The Globe & Mail.* Interviewed as subject-matter expert regarding anti-trans extremism, political violence, and sports bills. (November 2024). [https://www.theglobeandmail.com/canada/alberta/article-alberta-tables-legislation-regulating-pronouns-in-school-gender-in/](https://www.theglobeandmail.com/canada/alberta/article-alberta-tables-legislation-regulating-pronouns-in-school-gender-in/)
+
+*The Associated Press.* Interviewed as subject-matter expert by journalist regarding Discord and social media and radicalization among youths for forthcoming article. (January 2024).
+
+*PBS Frontline* and *The Washington Post.* Interviewed as subject-matter expert by journalists and documentarians regarding Discord, extremism, gaming culture, and platform dynamics for a series of articles and a documentary. (July - December, 2023). [https://www.washingtonpost.com/discord-leaks/](https://www.washingtonpost.com/discord-leaks/). In particular:
 
 - Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
 - Interviewed for and credited in *The Discord Leaks* Documentary, PBS Frontline. Aired December 12, 2023. [https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/](https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/).
 
 Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
-Kotaku. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+*Kotaku*. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
 
 UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
