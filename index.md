@@ -369,19 +369,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2024`
-<<<<<<< HEAD
-**PS Berge** and Madison Schmalzer. 2024. “I took a deep breath and came out as GC”: Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented on "Threats to Trans and Queer Lives" panel with Debbie Ging, Catherine Baker, Maja Brandt Andreasen, Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon, and Kat Brewster. Sheffield, UK.
-
-`2024`
-**PS Berge** (chair). “We Can ~~Always~~ Never Tell”: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented on "B{ending} Trans Media Studies" with wendi yu, Madison Schmalzer, Hibby Thach, and Wells Lucas Santo, at the 2nd International Trans Studies Conference. Evanston, Illinois, September 4-7, 2024.
-
-`2024`
-**PS Berge** (2024). "(╯°□°)╯︵ ┻━┻: Exclusionary Game Platforms and Flipping the “'Good Table'". Generation Analog 2024. [Virtual Event].
-
-`2024`
-**PS Berge** (chair). 2024. "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". Presented on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA.
-=======
-**PS Berge**. (Forthcoming November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
+**PS Berge**. ( November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
 
 `2024`
 **PS Berge**; wendi yu; Hibby Thach & Wells Lucas Santo; and Madison Schmalzer. (2024). "We Can Always Never Tell: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented as part of "B\{ending\} Trans Media Studies” at the Second International Trans Studies Conference. September 4-7 2024. Hybrid event; Northwestern University. 
@@ -392,7 +380,6 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 `2024`
 **PS Berge** (chair). (2024). "Now That’s What I Call 95% femaleConfidence! Verified Girls, Saving Face, and the Play of Being a Bad Copy". Presented at on "(Re)Producing the “Real”: Bad Copies, Trans* Media, and Unindexable Techno-Genders" at the Society for Cinema and Media Studies 2024 conference. Boston, MA. With: Madison Schmalzer, Kit Chokly, and MK Travis-Knudsen. 
->>>>>>> 811423bd9c9060383195d7afc29fca858534dc1c
 
 `2023`
 **PS Berge** (2023). "The Ludoarsonist’s Playground: Doom, Clocking, and The Ends of the Table". Presented at Generation Analog 2023. [Virtual Event].
