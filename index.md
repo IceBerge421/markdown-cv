@@ -429,7 +429,7 @@ Daniel G. Heslep and **PS Berge**. (2021). "MAPPING DISCORD'S DARKSIDE: DISTRIBU
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner of the IEEE VR Doctoral Consortium Best Presentation Award.
 
 `2021`
-Ahmad Awadhi, **PS Berge**, Sarah Dwyer, Sarah Lovett, Sheila McQuaid, Lauren Woolbright (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the College Conference on Composition and Communications. April 7–10, 2021, Spokane, WA [Virtual Event]. (Re-accepted from 2020. Cancelled due to COVID-19).
+Ahmad Awadhi, **PS Berge**, Sarah Dwyer, Elliot Lovett, Sheila McQuaid, Lauren Woolbright (2021). Role-Playing Peer Review: Games and Gatekeepers. Engaged Learning Experience accepted for presentation at the College Conference on Composition and Communications. April 7–10, 2021, Spokane, WA [Virtual Event]. (Re-accepted from 2020. Cancelled due to COVID-19).
 
 `2020`
 **PS Berge**, & Rebecca K. Britt (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Presented at the National Communication Association, Game Studies Division. November 19–22, 2020, Indianapolis, IN [Virtual Event].
@@ -539,6 +539,34 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 British Literature II
 
 British Literature I
+
+---
+
+## Graduate Student Supervision
+
+### University of Alberta: Current -- Supervisor/Co-Supervisor
+
+`2024-present`
+Adeline K. Piercy, Digital Humanities, MA Candidate
+
+`2024-present`
+Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
+
+`2024-present`
+Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
+
+### University of Alberta: Current -- Committee Member
+
+`2024-Present`
+Cat Bevan, Digital Humanities, MA Candidate
+
+`2024-Present`
+Becka Grose, Digital Humanities, MA Candidate
+
+### York University: Current -- External Supervisor
+
+`2024-present`
+Zhenia Puzankov, Design Media Arts, PhD Candidate
 
 ---
 
