@@ -168,6 +168,8 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
 
+**PS Berge.** (Forthcoming June 2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on Itch.io. *Foundations of Digital Games 2025 Proceedings.* (Accepted for publication, pending minor revisions).
+
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
 **PS Berge** & Madison Schmalzer. (Forthcoming). “I took a deep breath and came out as GC”: Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
@@ -365,8 +367,11 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 *Additional presentations may found as published proceedings, listed above.*
 
+`2025`
+**PS Berge**. (Forthcoming 2025). ““Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." Presented as part of "Political Economy of Games Now" at the Society for Cinema and Media Studies 2025 Conference. April 3-6. Chicago, IL.
+
 `2024`
-**PS Berge**. ( November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
+**PS Berge**. (2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
 
 `2024`
 **PS Berge**; wendi yu; Hibby Thach & Wells Lucas Santo; and Madison Schmalzer. (2024). "We Can Always Never Tell: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented as part of "B\{ending\} Trans Media Studies” at the Second International Trans Studies Conference. September 4-7 2024. Hybrid event; Northwestern University. 
@@ -544,7 +549,7 @@ British Literature I
 
 ## Graduate Student Supervision
 
-### University of Alberta: Current -- Supervisor/Co-Supervisor
+### University of Alberta: Current -- Supervisor
 
 `2024-present`
 Adeline K. Piercy, Digital Humanities, MA Candidate
