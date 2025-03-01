@@ -16,7 +16,7 @@ title: "Dr. PB Berge"
 </div>
 
 <div class="printOnly">
-<p>Email: hello@psberge.com | Website: persephone.blue | Itch: gravesnail.itch.io</p>
+<p>Email: hello@psberge.com | Website: persephone.blue | BlueSky: @persephone.blue | Itch: gravesnail.itch.io</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
@@ -48,13 +48,13 @@ Dr. Persephone Blue (PB) Berge is an Assistant Professor of Experimental Game De
 
 <span id="printPageButton">📧 </span>[hello@psberge.com](mailto: hello@psberge.com)
 
-<span id="printPageButton">🌐 </span>[persephone.blue](https://psberge.com)
+<span id="printPageButton">🌐 </span>[unplayable.games](https://unplayable.games)
 
-<span id="printPageButton">🦋 </span>[@persephone.blue](https://twitter.com/theiceberge)
+<span id="printPageButton">🦋 </span>[@persephone.blue](https://bsky.app/profile/persephone.blue)
 
 <span id="printPageButton">🎲 </span>[gravesnail.itch.io](https://gravesnail.itch.io/)
 
-<span id="printPageButton">👩‍🎓 </span>[PS Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)
+<span id="printPageButton">👩‍🎓 </span>[PB Berge (G Scholar)](https://scholar.google.com/citations?user=KsiN6IwAAAAJ&hl=en&oi=ao)
 
 <!--👩‍💻 [IceBerge421 (GitHub)](https://github.com/IceBerge421)  -->
 
