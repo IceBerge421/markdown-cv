@@ -229,6 +229,22 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 </div>
 ---
 
+## GRANTS & FUNDING AWARDS
+
+### External
+
+`2024-2025`Contributor and game designer: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. (PIs: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College)
+
+### Internal
+
+2025. PI: Strategic Research Initiative Fund (SRIF). "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)." $186,346 (CAD).
+
+2025. Co-Investigator: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
+
+2024. PI: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
+
+---
+
 ## Awards & Fellowships
 
 ### External
@@ -249,9 +265,6 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Top Paper Award, NCA Game Studies Division
 
 ### Internal
-
-`2025`
-<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Endowment Fund for the Future: Support for the Advancement of Scholarship (EFF-SAS) Award, University of Alberta
 
 `2024`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Order of Pegasus Award, University of Central Florida
@@ -372,8 +385,17 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 *Additional presentations may found as published proceedings, listed above.*
 
+`2025`
+**PS Berge** (chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (Forthcoming June 2025). "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+
+`2025`
+Adeline K. Piercy & **PS Berge**. (Forthcoming June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+
+`2025`
+**PS Berge**. (Forthcoming April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." To bve presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
+
 `2024`
-**PS Berge**. ( November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
+**PS Berge**. (November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
 
 `2024`
 **PS Berge**; wendi yu; Hibby Thach & Wells Lucas Santo; and Madison Schmalzer. (2024). "We Can Always Never Tell: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented as part of "B\{ending\} Trans Media Studies” at the Second International Trans Studies Conference. September 4-7 2024. Hybrid event; Northwestern University. 
@@ -588,6 +610,12 @@ Cofounder of [Tabletop Research in Practice (TRiP)](https://triptable.top)
 `2021-Present`
 Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
+`2025-Present`
+Community Management Officer, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
+
+`2024-2025`
+Lightning Talk Track Chair, Foundations of Digital Games Conference.
+
 `2023`
 Cover Designer, *Peitho* Vol 25.4 Special Issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
 
@@ -604,11 +632,14 @@ Community Management Consultant, [Game in Lab](https://www.game-in-lab.org/)
 Book Reviewer, *JAMS: The Journal for Anime and Manga Studies*
 
 `2021-2022`
-Reviewer, organizing committee, Console-ing Passions 2022 Conference
+Organizing committee, Console-ing Passions 2022 Conference
 
-### Peer Reviewer, Various Journals and Conferences
+`2019-2021`
+CCCC’s Council for Play and Game Studies, active member and panelist.
 
-Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (2023), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
+### Peer Reviewer, Various Presses, Journals, and Conferences
+
+Minnesota Press (2025), *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
 `2024`
@@ -625,17 +656,20 @@ Queer Studies in Media and Popular Culture* Special Issue (2022), *CHI Play* (20
 
 ## University Service
 
+`2025-Present`
+Admissions Committee, Digital Humanities MA Program.
+
+`2024-Present`
+Maker space development committee, Media & Technology Studies.
+
 `2022`
 Designed website for new faculty, University of Central Florida English Department
 
-`2020-Present`
+`2020-2024`
 Digital Culture Research Group, active member, University of Central Florida
 
 `2020`
 Carolyn P. Handa Undergraduate Scholarship Award Committee, University of Alabama
-
-`2019-2021`
-CCCC’s Council for Play and Game Studies, active member and panelist.
 
 `2019-2020`
 Digital Pedagogy Community of Practice, University of Alabama
