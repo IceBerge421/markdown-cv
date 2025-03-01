@@ -5,8 +5,8 @@ title: "Dr. PB Berge"
 
 ![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
 
-<div id="printPageButton"><h1>PS<br>BERGE</h1></div>
-<div class="printOnly"><h1>PS Berge</h1></div>
+<div id="printPageButton"><h1>DR. PB<br>BERGE</h1></div>
+<div class="printOnly"><h1>Dr. PB Berge</h1></div>
 
 *(Pronouns: they/them, she/her)*
 
@@ -16,7 +16,7 @@ title: "Dr. PB Berge"
 </div>
 
 <div class="printOnly">
-<p>Email: hello@psberge.com | Website: psberge.com | Itch: gravesnail.itch.io</p>
+<p>Email: hello@psberge.com | Website: persephone.blue | Itch: gravesnail.itch.io</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
@@ -28,7 +28,9 @@ title: "Dr. PB Berge"
 
 ## About
 
-Assistant Professor of Experimental Game Design in the Media & Technology Studies Program at the University of Alberta. Award-winning game designer studying the so-called "unplayable." Work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+Dr. Persephone Blue (PB) Berge is an Assistant Professor of Experimental Game Design in the Media & Technology Studies Program at the University of Alberta. She is an award-winning game designer studying the so-called "unplayable." Their work can be found in *Game Studies,* *New Media & Society,* *Feminist Media Studies* and the proceedings of DiGRA, ICIDS, and elsewhere.
+
+*In publications, Dr. Berge's name has been stylized both as "PS Berge" and "PB Berge."*
 
 <div id="printPageButton">
 
@@ -46,9 +48,9 @@ Assistant Professor of Experimental Game Design in the Media & Technology Studie
 
 <span id="printPageButton">📧 </span>[hello@psberge.com](mailto: hello@psberge.com)
 
-<span id="printPageButton">🌐 </span>[psberge.com](https://psberge.com)
+<span id="printPageButton">🌐 </span>[persephone.blue](https://psberge.com)
 
-<span id="printPageButton">🐦 </span>[@theiceberge](https://twitter.com/theiceberge)
+<span id="printPageButton">🦋 </span>[@persephone.blue](https://twitter.com/theiceberge)
 
 <span id="printPageButton">🎲 </span>[gravesnail.itch.io](https://gravesnail.itch.io/)
 
@@ -233,15 +235,17 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 ### External
 
-`2024-2025`Contributor and game designer: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. (PIs: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College)
+`2024-2025`
+**Contributor and game designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. (PIs: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College)
 
 ### Internal
 
-2025. PI: Strategic Research Initiative Fund (SRIF). "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)." $186,346 (CAD).
+`2025`
+**PI**: Strategic Research Initiative Fund (SRIF). "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)." $186,346 (CAD).
 
-2025. Co-Investigator: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
+`2025` **Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
 
-2024. PI: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
+`2024`**PI**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
 
 ---
 
