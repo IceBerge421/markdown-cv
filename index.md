@@ -639,7 +639,7 @@ CCCC’s Council for Play and Game Studies, active member and panelist.
 
 ### Peer Reviewer, Various Presses, Journals, and Conferences
 
-Minnesota Press (2025), *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
+Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
 `2024`
