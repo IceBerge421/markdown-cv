@@ -170,8 +170,6 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 **PS Berge**. (Forthcoming April 2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on itch.io. *Proceedings of the Foundations for Digital Games Conferences.* (Accepted for publication).
 
-**PS Berge**. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
-
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
 
 Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
