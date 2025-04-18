@@ -145,6 +145,11 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 <div class="item" id="pubs" markdown="1">
 
+<span id="printPageButton">`2025`</span>
+**PB Berge**. (2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on Itch.io. In *International Conference on the Foundations of Digital Games (FDG ’25), April 15–18, 2025, Graz, Austria*. ACM, New York,
+NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739] <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://persephone.blue/wp-content/uploads/2025/04/FDG25-Speculative-Game-Design.pdf)</span>
+- <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Best Paper Award Winner
+
 <span id="printPageButton">`2022`</span>
 **PS Berge**, Daniel Cox, Jack Murray, & Anastasia Salter. (2022). Adventures in TwineSpace: An Augmented Reality Story Format for Twine. In M. Vosmeer & L. Holloway-Attaway (Eds.), *Interactive Storytelling* (pp. 499–512). Springer International Publishing. Presented at the International Conference on Interactive Digital Storytelling 2022, Santa Cruz, California.
 [https://doi.org/10.1007/978-3-031-22298-6_32](https://doi.org/10.1007/978-3-031-22298-6_32) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Adventures-in-TwineSpace.pdf)</span>
@@ -167,8 +172,6 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 ### Accepted Manuscripts in Process
 
 <div class="item" id="pubs" markdown="1">
-
-**PS Berge**. (Forthcoming April 2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on itch.io. *Proceedings of the Foundations for Digital Games Conferences.* (Accepted for publication).
 
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
 
@@ -250,6 +253,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 ## Awards & Fellowships
 
 ### External
+
+`2025`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Best Paper Award, Foundations of Digital Games Conference, 2025
 
 `2023`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Honorable Mention, SCMS 2023 Video Game Studies Special Interest Group Emerging Scholar Award
