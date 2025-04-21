@@ -242,11 +242,13 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 ### Internal
 
 `2025`
-**PI**: Strategic Research Initiative Fund (SRIF). "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)." $186,346 (CAD).
+**PI**: Strategic Research Initiative Fund (SRIF) award. $186,346 (CAD) awarded for the "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)" project to support lab equipment, renovations, and graduate student support.
 
-`2025` **Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
+`2025`
+**Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
 
-`2024`**PI**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
+`2024`
+**PI**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
 
 ---
 
@@ -367,6 +369,9 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 <div class="item" id="pubs" markdown="1">
 
+`2025`
+**PB Berge.** Invited speaker for a featured panel on experimental game pedagogy at the Canadian Game Studies Association, 2025. Invited by the CGSA Executive Team. (Forthcoming).
+
 `2024`
 **PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
 
@@ -400,7 +405,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 Adeline K. Piercy & **PS Berge**. (Forthcoming June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
-**PS Berge**. (Forthcoming April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." To bve presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
+**PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." To bve presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
 
 `2024`
 **PS Berge**. (November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
@@ -539,7 +544,7 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ## Courses Taught
 
-### Instructor of Record 
+### Instructor of Record
 
 **Bradley University (2023-2024)**
 
@@ -579,7 +584,7 @@ British Literature I
 
 ---
 
-## Graduate Student Supervision
+## Student Supervision
 
 ### University of Alberta: Current -- Supervisor/Co-Supervisor
 
@@ -591,6 +596,9 @@ Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
 
 `2024-present`
 Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
+
+`2025-present`
+Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
 
 ### University of Alberta: Current -- Committee Member
 
@@ -612,14 +620,14 @@ Zhenia Puzankov, Design Media Arts, PhD Candidate
 `2023-Present`
 Design Lead and Organizing Committee Member, Electronic Literature Organization 2024 Conference, July 20-22 2024
 
-`2022-Present`
-Cofounder of [Tabletop Research in Practice (TRiP)](https://triptable.top)
-
 `2021-Present`
-Cofounder of The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
+Lead Director and Cofounder, The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
 
 `2025-Present`
-Community Management Officer, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
+Community Co-Chair, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
+
+`2022-Present`
+Cofounder, [Tabletop Research in Practice (TRiP)](https://triptable.top)
 
 `2024-2025`
 Lightning Talk Track Chair, Foundations of Digital Games Conference.
@@ -650,6 +658,10 @@ CCCC’s Council for Play and Game Studies, active member and panelist.
 Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
+
+`2025`
+"🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." Candian Game Studies Association, 2025.
+
 `2024`
 "B{ending} Trans Media Studies," The 2nd International Trans Studies Conference 2024.
 
@@ -665,10 +677,13 @@ Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press St
 ## University Service
 
 `2025-Present`
-Admissions Committee, Digital Humanities MA Program.
+Curriculum Review Committee, Media & Technology Studies Program
 
-`2024-Present`
-Maker space development committee, Media & Technology Studies.
+`2025-Present`
+Admissions Committee, Digital Humanities MA Program
+
+`2024-2025`
+IMPRESS committee, Media & Technology Studies
 
 `2022`
 Designed website for new faculty, University of Central Florida English Department
