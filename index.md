@@ -772,6 +772,8 @@ __Grey Door Games LLC__<br>
 
 <div class="item" id="pubs" markdown="1">
 
+*Edmonton Journal.* Quoted as a subject expert regarding social media bots and election interference. (April 2025). [https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections](https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections)
+
 *Rascal News.* Featured as a subject expert regarding the use tabletop roleplaying games in the classroom. (November 2024). [https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/](https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/)
 
 *The Globe & Mail.* Interviewed as subject-matter expert regarding anti-trans extremism, political violence, and sports bills. (November 2024). [https://www.theglobeandmail.com/canada/alberta/article-alberta-tables-legislation-regulating-pronouns-in-school-gender-in/](https://www.theglobeandmail.com/canada/alberta/article-alberta-tables-legislation-regulating-pronouns-in-school-gender-in/)
