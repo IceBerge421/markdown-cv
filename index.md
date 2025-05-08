@@ -617,20 +617,20 @@ Zhenia Puzankov, Design Media Arts, PhD Candidate
 
 ## Service to Profession
 
-`2023-Present`
-Design Lead and Organizing Committee Member, Electronic Literature Organization 2024 Conference, July 20-22 2024
-
 `2021-Present`
 Lead Director and Cofounder, The [Discord Academic Research Community (D/ARC)](https://darcmode.org/)
-
-`2025-Present`
-Community Co-Chair, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
 
 `2022-Present`
 Cofounder, [Tabletop Research in Practice (TRiP)](https://triptable.top)
 
+`2025-Present`
+Discord Community Officer, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
+
 `2024-2025`
 Lightning Talk Track Chair, Foundations of Digital Games Conference.
+
+`2023-2024`
+Design Lead and Organizing Committee Member, Electronic Literature Organization 2024 Conference, July 20-22 2024
 
 `2023`
 Cover Designer, *Peitho* Vol 25.4 Special Issue, *Coalition of Feminist Scholars in the History of Rhetoric and Composition*
