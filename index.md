@@ -387,7 +387,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 **PS Berge** & Dan Cox. Presentation of TwineSpace: An Augmented Reality Story Format for Twine. Hosted by the Association for Research in Digital Interactive Narratives (ARDIN). March, 2023.
 
 `2022`
-**PS Berge.** "Dice, Zines, and (Gay) Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
+**PS Berge.** "Dice, Zines, and Gay Pirate Queens: Queer Horizons and Tabletop Roleplaying Games". Featured talk. December, 2022. Hosted by the American Library Association Games & Gaming Round Table.
 
 `2022`
 **PS Berge.** Discussion of “Rotten and Possessed: *Control* and *Hellblade: Senua’s Sacrifice* as Models of Outmersive Game Design”. Featured talk. September, 2022. Game Philosophy reading group.
@@ -401,13 +401,13 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2025`
-**PS Berge** (chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (Forthcoming June 2025). "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+**PB Berge** (chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (Forthcoming June 2025). "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
-Adeline K. Piercy & **PS Berge**. (Forthcoming June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+Adeline K. Piercy & **PB Berge**. (Forthcoming June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
-**PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." To bve presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
+**PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." Presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
 
 `2024`
 **PS Berge**. (November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
