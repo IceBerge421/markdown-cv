@@ -11,7 +11,7 @@ title: "Dr. PB Berge"
 *(Pronouns: they/them, she/her)*
 
 <div id="printPageButton">
-<p>Studying trans play 🌈🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
+<p>Studying trans play 🏳️‍⚧️🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
 
 </div>
 
@@ -147,7 +147,7 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 <span id="printPageButton">`2025`</span>
 **PB Berge**. (2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on Itch.io. In *International Conference on the Foundations of Digital Games (FDG ’25), April 15–18, 2025, Graz, Austria*. ACM, New York,
-NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739] <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://persephone.blue/wp-content/uploads/2025/04/FDG25-Speculative-Game-Design.pdf)</span>
+NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/doi/10.1145/3723498.3723739) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access\]](https://dl.acm.org/doi/10.1145/3723498.3723739)</span>
 - <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Best Paper Award Winner
 
 <span id="printPageButton">`2022`</span>
@@ -175,11 +175,13 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739] <span id="printPage
 
 **PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
 
-Maria Alberto, **PS Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
+Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
-**PS Berge** & Madison Schmalzer. (Forthcoming). “I took a deep breath and came out as GC”: Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
+**PB Berge** & Madison Schmalzer. (Forthcoming). “I took a deep breath and came out as GC”: Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
 
 **PS Berge** & Madison Schmalzer. (Forthcoming). "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (Chapter conditionally accepted for forthcoming publication).
+
+**PB Berge** & Percival Hornak. (Forthcoming July 2025). "liches, lampreys, and the moon: a scholarly rant on trans life and lyrical play authored in exhausted and loving dissent to the inauguration of "queer analog game studies." *Analog Game Studies.* (Article conditionally accepted for publication in forthcoming special issue).
 
 </div>
 
@@ -544,6 +546,12 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ## Courses Taught
 
+**Bradley University (2023-2024)**
+
+**Game Seminar** [Online Course]
+
+- *Masters-level course in Bradley's M.S. in Game Design program. Students engaged current research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed critical play reflections and surveys of current issues in gaming culture.*
+
 ### Instructor of Record
 
 **Bradley University (2023-2024)**
@@ -772,7 +780,10 @@ __Grey Door Games LLC__<br>
 
 <div class="item" id="pubs" markdown="1">
 
-*Edmonton Journal.* Quoted as a subject expert regarding social media bots and election interference. (April 2025). [https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections](https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections)
+### National Press Coverage
+
+*The Conversation.* Published Discord-related research cited extensively in "Lady Gaga bomb plot: Thwarted plan lifts veil on the gamification of hate and gendered nature of online radicalization." (May 2025).
+* Article translated and republished in *Yahoo News* and ten other publications.
 
 *Rascal News.* Featured as a subject expert regarding the use tabletop roleplaying games in the classroom. (November 2024). [https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/](https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/)
 
@@ -785,9 +796,15 @@ __Grey Door Games LLC__<br>
 - Interviewed for and quoted at length in "‘Problematic pockets’: How Discord became a home for extremists," *The Washington Post*, December 12, 2023. [https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/](https://www.washingtonpost.com/national-security/2023/12/12/discord-app-extremism/).
 - Interviewed for and credited in *The Discord Leaks* Documentary, PBS Frontline. Aired December 12, 2023. [https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/](https://www.pbs.org/wgbh/frontline/documentary/the-discord-leaks/).
 
-Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
-
 *Kotaku*. (June, 2022). Interviewed as a subject-matter expert expert for "Online Voice Chat Is Often A Sexist Nightmare (But It Doesn't Have To Be)". [https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
+
+### Local Press Coverage
+
+*Media & Technology Studies News*. Showcased in "Trans & Queer Game Design (MST 399) students organize Haptic Play Arcade."
+
+*Edmonton Journal.* Quoted as a subject expert regarding social media bots and election interference. (April 2025). [https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections](https://edmontonjournal.com/news/local-news/foreign-influence-canada-democratic-elections)
+
+Nicholson School of Media. (September, 2022). Featured in spotlight article "UCF student designs video games to combat lack of queer representation". [http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html](http://www.nicholsonstudentmedia.com/life/ucf-student-designs-video-games-to-combat-lack-of-queer-representation/article_ba337dfe-361b-11ed-b263-87e91d6770af.html)
 
 UCF College of Arts & Humanities. (June, 2021). Featured in spotlight video "Research Spotlight: PS Berge, Texts & Technology Ph.D. Program". [https://www.youtu.be/watch?v=73M4qz9998E](https://www.youtube.com/watch?v=73M4qz9998E).
 
