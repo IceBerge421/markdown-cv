@@ -663,7 +663,7 @@ CCCC’s Council for Play and Game Studies, active member and panelist.
 
 ### Peer Reviewer, Various Presses, Journals, and Conferences
 
-Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
+Canadian Game Studies Association (2025), Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
 
@@ -682,7 +682,13 @@ Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press St
 `2019`
 "Performance Expression and Identity within Multimodal Technologies," CCCC 2019.
 
-## University Service
+## Service to the University
+
+`2025-Present`
+Interem Director, Game Development Certificate Program, University of Alberta
+
+`2025-Present`
+Graduate Scholarship Committee, University of Alberta
 
 `2025-Present`
 Curriculum Review Committee, Media & Technology Studies Program
