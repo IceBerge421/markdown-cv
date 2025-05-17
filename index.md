@@ -685,19 +685,19 @@ Canadian Game Studies Association (2025), Minnesota Press (2025), *TOPCHI* (2024
 ## Service to the University
 
 `2025-Present`
-Interem Director, Game Development Certificate Program, University of Alberta
+Interem Director, University of Alberta Game Development Certificate Program
 
 `2025-Present`
 Graduate Scholarship Committee, University of Alberta
 
 `2025-Present`
-Curriculum Review Committee, Media & Technology Studies Program
+Curriculum Review Committee, University of Alberta Media & Technology Studies Program
 
 `2025-Present`
-Admissions Committee, Digital Humanities MA Program
+Admissions Committee, University of Alberta Digital Humanities MA Program
 
 `2024-2025`
-IMPRESS committee, Media & Technology Studies
+IMPRESS committee, University of Alberta Media & Technology Studies Program
 
 `2022`
 Designed website for new faculty, University of Central Florida English Department
