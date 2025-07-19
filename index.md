@@ -116,6 +116,8 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
+**Berge, PB**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
+
 <span id="printPageButton">`2024`</span>
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." [https://journal.transformativeworks.org/index.php/twc/article/view/2497](https://journal.transformativeworks.org/index.php/twc/article/view/2497) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://journal.transformativeworks.org/index.php/twc/article/view/2497)</span>
 
@@ -181,8 +183,6 @@ Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. 
 
 **PS Berge** & Madison Schmalzer. (Forthcoming). "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (Chapter conditionally accepted for forthcoming publication).
 
-**PB Berge** & Percival Hornak. (Forthcoming July 2025). "liches, lampreys, and the moon: a scholarly rant on trans life and lyrical play authored in exhausted and loving dissent to the inauguration of "queer analog game studies." *Analog Game Studies.* (Article conditionally accepted for publication in forthcoming special issue).
-
 </div>
 
 ## Other Publications
@@ -195,6 +195,9 @@ Kocik, David; **PS Berge**; Butera, Camille; Oon, Celeste; Senters, Michael. “
 ### Conference Proceedings - Extended Abstracts
 
 <div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2021`</span>
+PB Berge & Madison Schmalzer. (2025). “I TOOK A DEEP BREATH AND CAME OUT AS GC”: EXCAVATING GENDER CRITICAL INFORMATION LITERACY PRACTICES AND ANTI-TRANS RADICALIZATION ON OVARIT AND MUMSNET. *AoIR Selected Papers of Internet Research*. https://doi.org/10.5210/spir.v2024i0.13903
 
 <span id="printPageButton">`2021`</span>
 **PS Berge**. (2021). "GO BACK IN YOUR FETUS CAVE:" HOW PREDATORY INFLUENCERS MANIPULATE AUDIENCES THROUGH PLATFORM RETREATS. *AoIR Selected Papers of Internet Research*, 2021. [https://doi.org/10.5210/spir.v2021i0.11869](https://doi.org/10.5210/spir.v2021i0.12183)
@@ -223,6 +226,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2024`</span>
+**PB Berge** and Rachel Berryman, Daniel G. Heslep, Celeste Oon, and Kira Bohunicky. "Discord Ethics 101: Where to Start." (December, 2024). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/ethics-101/)
+
+<span id="printPageButton">`2024`</span>
 **PS Berge**. "Discord Research Roundup: February 2024." (February, 2022). The D/ARC Blog. [darcmode.org/scraping-disboard/](https://darcmode.org/research-roundup-feb-2024/)
 
 <span id="printPageButton">`2022`</span>
@@ -238,19 +244,26 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 ### External
 
+`2025-2027`
+**Principal Investigator**: "Playing Against the Unlivable: An Exploration of Trans Game Art" SSHRC Insight Development Grant. $61,097 (CAD).
+
 `2024-2025`
 **Contributor and game designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. (PIs: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College)
 
 ### Internal
 
-`2025`
-**PI**: Strategic Research Initiative Fund (SRIF) award. $186,346 (CAD) awarded for the "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)" project to support lab equipment, renovations, and graduate student support.
+`2025-2027`
+**Principal Investigator**: "Discord After Dark: a symposium advancing the
+critical study of community-driven platforms." Kule Dialogue Grant. $2,500
+
+`2025-2027`
+**Principal Investigator**: Strategic Research Initiative Fund (SRIF) award. $186,346 (CAD) awarded for the "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)" project to support lab equipment, renovations, and graduate student support.
 
 `2025`
 **Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
 
 `2024`
-**PI**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
+**Principal Investigator**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
 
 ---
 
@@ -372,7 +385,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 <div class="item" id="pubs" markdown="1">
 
 `2025`
-**PB Berge.** Invited speaker for a featured panel on experimental game pedagogy at the Canadian Game Studies Association, 2025. Invited by the CGSA Executive Team. (Forthcoming).
+**PB Berge.** Invited speaker for "Pedagogy in Play," featured panel on experimental game pedagogy at the Canadian Game Studies Association, 2025. June 2025. Invited by the CGSA Executive Team. Montreal, Quebéc.
 
 `2024`
 **PS Berge.** Featured Guest Speaker at the Anyone's Game Tabletop Game Conference. February 2024. Hosted by Ringling College of Art and Design.
@@ -401,10 +414,10 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2025`
-**PB Berge** (chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (Forthcoming June 2025). "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+**PB Berge** (co-chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (June 2025). "Games That Aren't: Jamming Beyond the Playable." Presented as part of "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
-Adeline K. Piercy & **PB Berge**. (Forthcoming June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." To be presented as part of the Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+Adeline K. Piercy & **PB Berge**. (June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
 **PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." Presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
@@ -546,13 +559,18 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ## Courses Taught
 
-**Bradley University (2023-2024)**
+**University of Alberta (2024-2025)**
 
-**Game Seminar** [Online Course]
+**Interactive Storytelling for the Digital Humanities** 
+- *A graduate-level interdisciplinary course combining media theory and hands-on technical workshosp to guide students through the design and development of original digital humanist media works. Course content explored digital and combinatory poetics, interactive fiction, digital and analog games, visual novels, and social media programs.*
 
-- *Masters-level course in Bradley's M.S. in Game Design program. Students engaged current research in critical game studies--from queer and feminist design principles to platform and industry studies--and performed critical play reflections and surveys of current issues in gaming culture.*
+**Trans & Queer Game Design** [Cross-listed course between Media & Tech Studies, Women's and Gender Studies, and Computer Science]
 
-### Instructor of Record
+- *Advanced special topics course on the theory and practice of trans and queer interactive media art. Spanning videogames, interactive exhibitions, and physical computing, this course prompted studnets to design personal, theoretically motivated game projects and subsequently showcase these projects at an exhibition alongside an alternative controler or haptic experience that they designed.*
+
+**Understanding Videogames**
+
+- *Intermediate course on the dynamics of gaming culture and game development. Students developed up to six small game experiments, wrote extensive reflections on their relationships to games and game culture, and were introduced to key critical and theoretical interventions into contemporary game studies.*
 
 **Bradley University (2023-2024)**
 
@@ -668,6 +686,9 @@ Canadian Game Studies Association (2025), Minnesota Press (2025), *TOPCHI* (2024
 ### Panels Organized and Chaired
 
 `2025`
+"Play, Embodiment, and the Axes of Access: An Anti-Panel for Trans Zinesters in Anti-Trans Times." Queerness in Games Conference, Montreal, QC 2025. (Panel Organizer).
+
+`2025`
 "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." Candian Game Studies Association, 2025.
 
 `2024`
@@ -696,8 +717,14 @@ Curriculum Review Committee, University of Alberta Media & Technology Studies Pr
 `2025-Present`
 Admissions Committee, University of Alberta Digital Humanities MA Program
 
+`2025-Present`
+Accessibility, Community, and Belonging Committee, University of Alberta Women's & Gender Studies Program
+
+`2025-Present`
+JELF Grant Committee, University of Alberta Media & Technology Studies Program
+
 `2024-2025`
-IMPRESS committee, University of Alberta Media & Technology Studies Program
+IMPRESS Committee, University of Alberta Media & Technology Studies Program
 
 `2022`
 Designed website for new faculty, University of Central Florida English Department
