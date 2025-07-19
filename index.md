@@ -414,6 +414,10 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 `2025`
+**PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
+- Presentation Video: [https://youtu.be/pyn7NHFjpAs](https://youtu.be/pyn7NHFjpAs)
+
+`2025`
 **PB Berge** (co-chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (June 2025). "Games That Aren't: Jamming Beyond the Playable." Presented as part of "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
