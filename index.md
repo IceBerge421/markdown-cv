@@ -242,28 +242,28 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 
 ## GRANTS & FUNDING AWARDS
 
-### External
+### External Grants
 
 `2025-2027`
 **Principal Investigator**: "Playing Against the Unlivable: An Exploration of Trans Game Art" SSHRC Insight Development Grant. $61,097 (CAD).
 
 `2024-2025`
-**Contributor and game designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. (PIs: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College)
+**Contributor and game designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. $10,000 (USD). Principal Investigators: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College.
 
-### Internal
+### Internal Grants
 
 `2025-2027`
 **Principal Investigator**: "Discord After Dark: a symposium advancing the
-critical study of community-driven platforms." Kule Dialogue Grant. $2,500
+critical study of community-driven platforms." Kule Dialogue Grant. $2,500 (CAD).
 
 `2025-2027`
 **Principal Investigator**: Strategic Research Initiative Fund (SRIF) award. $186,346 (CAD) awarded for the "Interdisciplinary Media Production, Research, and Experimental Spaces (IMPRESS)" project to support lab equipment, renovations, and graduate student support.
 
 `2025`
-**Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000. (PI: Dr. Jared Wesley)
+**Co-Investigator**: KIAS Collaborative Outreach Grant. "Common Ground Workshop: Tools for Constructive Dialogue." $5,000 (CAD). (PI: Dr. Jared Wesley)
 
 `2024`
-**Principal Investigator**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000.
+**Principal Investigator**: Endowment for the Future: Support for the Advancement of Scholarship Award. Fall 2024. $5,000 (CAD).
 
 ---
 
