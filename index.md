@@ -3,7 +3,7 @@ layout: cv
 title: "Dr. PB Berge"
 ---
 
-![](https://darcmode.org/wp-content/uploads/2022/01/photo_2022-01-14_14-56-35.jpg)
+![](https://persephone.blue/wp-content/uploads/2025/07/pb-2025.jpg)
 
 <div id="printPageButton"><h1>DR. PB<br>BERGE</h1></div>
 <div class="printOnly"><h1>Dr. PB Berge</h1></div>
