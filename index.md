@@ -671,6 +671,7 @@ Yaghma Kaby, English & Film Studies, PhD Student
 Zhenia Puzankov, Design Media Arts, PhD Candidate
 
 ### Additional / External Mentorships
+In my role as Director of the Discord Academic Research Community (D/ARC) and Tabletop Research in Practice (TRIP), I serve as a formal and informal mentor to a number of researchers and media artists. Each of the following researchers and artists are junior scholars with whom who have met with me more than once for mentorship purposes in the past year:
 * Eleanor Young, Digital Humanities MA, Faculty of Arts
 * Lewis Sang, Digital Humanities MA, Faculty of Arts
 * Emily Halina, PhD Program in Computing Science, Faculty of Science
