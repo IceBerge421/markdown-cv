@@ -413,6 +413,8 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 *Additional presentations may found as published proceedings, listed above.*
 
+\* Indicates student coauthor.
+
 `2025`
 **PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
 - Presentation Video: [https://youtu.be/pyn7NHFjpAs](https://youtu.be/pyn7NHFjpAs)
@@ -421,7 +423,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 **PB Berge** (co-chair), Madison Schmalzer, Elliot Yu, and Brandon Blackburn. (June 2025). "Games That Aren't: Jamming Beyond the Playable." Presented as part of "🔥 Critical Methodologies For Post-Game Studies (or, why games never worked in the first place and that’s the whole damn point)." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
-Adeline K. Piercy & **PB Berge**. (June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
+Adeline K. Piercy* & **PB Berge**. (June 2025). "Min-Maxing Relaxing: Playtime and Privilege in the Post-Pandemic." Candian Game Studies Association 2025 conference. June 7-10. Montreal, Quebéc.
 
 `2025`
 **PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." Presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
@@ -566,11 +568,11 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 **University of Alberta (2024-2025)**
 
 **Interactive Storytelling for the Digital Humanities** 
-- *A graduate-level interdisciplinary course combining media theory and hands-on technical workshosp to guide students through the design and development of original digital humanist media works. Course content explored digital and combinatory poetics, interactive fiction, digital and analog games, visual novels, and social media programs.*
+- *A graduate-level interdisciplinary course combining media theory and hands-on technical workshops to guide students through the design and development of original digital humanist media works. Course content explored digital and combinatory poetics, interactive fiction, digital and analog games, visual novels, and social media programs.*
 
 **Trans & Queer Game Design** [Cross-listed course between Media & Tech Studies, Women's and Gender Studies, and Computer Science]
 
-- *Advanced special topics course on the theory and practice of trans and queer interactive media art. Spanning videogames, interactive exhibitions, and physical computing, this course prompted studnets to design personal, theoretically motivated game projects and subsequently showcase these projects at an exhibition alongside an alternative controler or haptic experience that they designed.*
+- *Advanced special topics course on the theory and practice of trans and queer interactive media art. Spanning videogames, interactive exhibitions, and physical computing, this course prompted students to design personal, theoretically motivated game projects and subsequently showcase these projects at an exhibition alongside an alternative controller or haptic experience that they designed.*
 
 **Understanding Videogames**
 
@@ -616,32 +618,71 @@ British Literature I
 
 ## Student Supervision
 
-### University of Alberta: Current -- Supervisor/Co-Supervisor
+### University of Alberta: Current -- Supervisor
 
-`2024-present`
+`2024-Present`
 Adeline K. Piercy, Digital Humanities, MA Candidate
+* Winner, GPS Graduate Student Elevation Award (2025)
+* Winner, Women in Technical and Applied Arts Scholarship (2025)
+* Winner, Alberta Graduate Excellence Scholarship (AGES) (2024)
 
-`2024-present`
-Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
+`2025-Present`
+Victoria Cairns, Digital Humanities, MA Candidate
 
-`2024-present`
+`2024-Present`
 Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
 
-`2025-present`
+`2025-Present`
+Abhik Hasnain, Digital Humanities, MA Candidate
+
+`2024-Present`
+Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
+
+`2025-Present`
+Navarra Houldin, Gender and Social Justice, MA Candidate
+
+`2025-Present`
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
+* Winner, URI Research Grant (2025)
 
 ### University of Alberta: Current -- Committee Member
 
 `2024-Present`
-Cat Bevan, Digital Humanities, MA Candidate
+Catherine Bevan, Digital Humanities, MA Candidate
 
 `2024-Present`
 Becka Grose, Digital Humanities, MA Candidate
 
+`2025-Present`
+Reilly Bohan, Women's & Gender Studies, MA Candidate
+
+`2025-Present`
+Maëlle Weber, Women's & Gender Studies, MA Candidate
+
+`2025-Present`
+Mara Vranjkovic, Digital Humanities, MA/MLIS Candidate
+
+`2025-Present`
+Yaghma Kaby, English & Film Studies, PhD Student
+
 ### York University: Current -- External Supervisor
 
-`2024-present`
+`2024-Present`
 Zhenia Puzankov, Design Media Arts, PhD Candidate
+
+### Additional / External Mentorships
+* Eleanor Young, Digital Humanities MA, Faculty of Arts
+* Lewis Sang, Digital Humanities MA, Faculty of Arts
+* Emily Halina, PhD Program in Computing Science, Faculty of Science
+* Yalmaz Abdullah, MA Program in Computing Science, Faculty of Science
+* Celeste Oon, Master's student in Cinema and Media Studies, University of Southern California
+* Brandon Blackburn, Ph.D. Student in Film & Media Studies, University of California, Irvine
+* Luka Brave, Master's student in game studies, North Carolina State University
+* Percival Hornak, Performance Artist, New York
+* Shano Liang, Ph.D. Candidate in Computational Media, Worcester Polytechinc Institute
+* Hibby Thach, Ph.D. Student in Information, University of Michigan
+* F. Ria Khan, Ph.D. Student in Information, University of Michigan
+* JaeWon Kim, Ph.D. Candidate in Information, University of Washington
 
 ---
 
@@ -685,7 +726,7 @@ CCCC’s Council for Play and Game Studies, active member and panelist.
 
 ### Peer Reviewer, Various Presses, Journals, and Conferences
 
-Canadian Game Studies Association (2025), Minnesota Press (2025), *TOPCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
+Canadian Game Studies Association (2025), Minnesota Press (2025), *TOCHI* (2024-2025),  *CHI Play* (2023-2025), *Press Start* (2021-Present), *New Media & Society* (2022-Present), *AoIR* (2022-Present), Queer Studies in Media and Popular Culture* Special Issue (2022), *Transformative Works & Culture* (2023-Present), *FDG* (2024-Present), *ELO* (2024-Present).
 
 ### Panels Organized and Chaired
 
@@ -819,7 +860,9 @@ __Grey Door Games LLC__<br>
 
 ### National Press Coverage
 
-*The Conversation.* Published Discord-related research cited extensively in "Lady Gaga bomb plot: Thwarted plan lifts veil on the gamification of hate and gendered nature of online radicalization." (May 2025).
+*CBC Kids News*. Interviewed and quoted as subject witness for video and text article aimed at teenage audience titled "What is a viewbot and why is Twitch cracking down on them?" Author: Angelica Cooper. Correspondent: Matthew Hines. (August 2025). [https://www.cbc.ca/kidsnews/post/watch-what-is-a-viewbot-and-why-is-twitch-cracking-down-on-them](https://www.cbc.ca/kidsnews/post/watch-what-is-a-viewbot-and-why-is-twitch-cracking-down-on-them)
+
+*The Conversation.* Published research cited extensively in "Lady Gaga bomb plot: Thwarted plan lifts veil on the gamification of hate and gendered nature of online radicalization." (May 2025). [https://theconversation.com/lady-gaga-bomb-plot-thwarted-plan-lifts-veil-on-the-gamification-of-hate-and-gendered-nature-of-online-radicalization-256199](https://theconversation.com/lady-gaga-bomb-plot-thwarted-plan-lifts-veil-on-the-gamification-of-hate-and-gendered-nature-of-online-radicalization-256199)
 * Article translated and republished in *Yahoo News* and ten other publications.
 
 *Rascal News.* Featured as a subject expert regarding the use tabletop roleplaying games in the classroom. (November 2024). [https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/](https://www.rascal.news/play-as-learning-ttrpgs-in-the-classroom/)
