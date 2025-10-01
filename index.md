@@ -530,6 +530,9 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 ### Guest Lectures
 
 `2024`
+**PS Berge.** "Navigating Exclusionary Practices in Gaming Culture." November 2024. Course on "How Games Change Us". Lehigh University.
+
+`2024`
 **PS Berge.** "Representation and Its Discontents." February 2024. Course on Roleplaying Games & Improvisation. University of California, Irvine.
 
 `2022`
