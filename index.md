@@ -116,6 +116,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
+Berge, PB; Schmalzer, Madison. 2025. “Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects.” *The Journal of Cinema and Media Studies 64* (5): 343–66. https://doi.org/10.3998/jcms.18261332.0064.515. <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext)</span>
+
+
 **Berge, PB**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
 <span id="printPageButton">`2024`</span>
@@ -174,8 +177,6 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 ### Accepted Manuscripts in Process
 
 <div class="item" id="pubs" markdown="1">
-
-**PS Berge** & Madison Schmalzer. (Forthcoming May 2025). Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects. *Journal of Cinema and Media Studies.* (In press).
 
 Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
