@@ -116,7 +116,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
-**Berge, PB**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
+**PB Berge**, and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
+
+**PB Berge**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
 <span id="printPageButton">`2024`</span>
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." [https://journal.transformativeworks.org/index.php/twc/article/view/2497](https://journal.transformativeworks.org/index.php/twc/article/view/2497) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://journal.transformativeworks.org/index.php/twc/article/view/2497)</span>
@@ -416,6 +418,13 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 \* Indicates student coauthor.
 
 `2025`
+**PB Berge.** “Play and Precarity: Anti-Games, Speculative Design, and the Trans Possibilities of the Unplayable.” Queerness in Games Conferencec, 2025. Presented as part of "Play, Embodiment, and the Axes of Access: An Anti-Panel for Trans Zinesters in Anti-Trans Times" with Teddy Pozo, Hibby Thach, and Geneva Heyward. Montreal, QC. September 27, 2025.
+
+`2025`
+**PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
+- Presentation Video: [https://youtu.be/pyn7NHFjpAs](https://youtu.be/pyn7NHFjpAs)
+
+`2025`
 **PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
 - Presentation Video: [https://youtu.be/pyn7NHFjpAs](https://youtu.be/pyn7NHFjpAs)
 
@@ -643,6 +652,9 @@ Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
 
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
+
+`2025-Present`
+Sam Graham, Modern Languages & Cultures, PhD Student
 
 `2025-Present`
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
