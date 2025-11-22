@@ -66,7 +66,7 @@ Dr. Persephone Blue (PB) Berge is an Assistant Professor of Experimental Game De
 ## Academic Appointments
 
 `2024-Present`
-__Assistant Professor of Experimental Game Design__<br>Interim Director of the Game Development Certificate<br>Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta.
+__Assistant Professor of Experimental Game Design__<br>Co-Director of the Game Development Certificate<br>Media and Technology Studies Program & Department of Women & Gender Studies at The University of Alberta.
 
 ---
 
