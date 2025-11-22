@@ -11,7 +11,7 @@ title: "Dr. PB Berge"
 *(Pronouns: they/them, she/her)*
 
 <div id="printPageButton">
-<p>Studying trans play 🏳️‍⚧️🎲, toxic technocultures 💻💀, and ludoarsony 🔥🎮.</p>
+<p>Studying trans play 🏳️‍⚧️🎲, toxic technocultures 💻💀, and the "unplayable." 🔥🎮.</p>
 
 </div>
 
@@ -116,9 +116,10 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
+<span id="printPageButton">`2025`</span>
 Berge, PB; Schmalzer, Madison. 2025. “Un-Moving Play and the End of Time: Code Injections and the Trans Abrogation of Media Objects.” *The Journal of Cinema and Media Studies 64* (5): 343–66. https://doi.org/10.3998/jcms.18261332.0064.515. <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext)</span>
 
-
+<span id="printPageButton">`2025`</span>
 **Berge, PB**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
 <span id="printPageButton">`2024`</span>
@@ -249,7 +250,7 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 **Principal Investigator**: "Playing Against the Unlivable: An Exploration of Trans Game Art" SSHRC Insight Development Grant. $61,097 (CAD).
 
 `2024-2025`
-**Contributor and game designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. $10,000 (USD). Principal Investigators: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College.
+**Co-Investigator, Game Designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. $10,000 (USD). Principal Investigators: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College.
 
 ### Internal Grants
 
@@ -627,6 +628,7 @@ British Literature I
 `2024-Present`
 Adeline K. Piercy, Digital Humanities, MA Candidate
 * Winner, GPS Graduate Student Elevation Award (2025)
+* Published, "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction." *Network in Canadian History & Environment*, video essay, 2025.
 * Winner, Women in Technical and Applied Arts Scholarship (2025)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2024)
 
@@ -638,6 +640,7 @@ Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
 
 `2025-Present`
 Abhik Hasnain, Digital Humanities, MA Candidate
+* Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
 
 `2024-Present`
 Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
