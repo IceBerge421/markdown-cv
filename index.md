@@ -59,7 +59,6 @@ Dr. Persephone Blue (PB) Berge is an Assistant Professor of Experimental Game De
 <!--👩‍💻 [IceBerge421 (GitHub)](https://github.com/IceBerge421)  -->
 
 </div>
-</div>
 
 ---
 
@@ -116,7 +115,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
-**PB Berge**, and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
+PB Berge and Madison Schmalzer. 2025. "'I Took a Deep Breath and Came Out as GC': Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet." *Bulletin of Applied Transgender Studies 4* (1-3): -. [https://doi.org/10.57814/wjd7-w023](https://doi.org/10.57814/wjd7-w023)<span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://doi.org/10.57814/wjd7-w023)</span>
+
+**PB Berge** and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
 
 **PB Berge**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
@@ -178,8 +179,6 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 <div class="item" id="pubs" markdown="1">
 
 Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
-
-**PB Berge** & Madison Schmalzer. (Forthcoming). “I took a deep breath and came out as GC”: Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet. *Bulletin of Applied Transgender Studies*. In Kat Fuller and Quinnehtukqut McLamore (eds.) special issue on “Dynamics of Transphobic Content and Disinformation." (Article conditionally accepted for publication in forthcoming special issue).
 
 **PS Berge** & Madison Schmalzer. (Forthcoming). "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (Chapter conditionally accepted for forthcoming publication).
 
@@ -331,6 +330,11 @@ A portfolio of my design work, including published games, software, and ongoing 
 <div class="item" id="pubs" markdown="1">
 
 Most games are available at [gravesnail.itch.io](https://gravesnail.itch.io/).
+
+`2025`
+***HOW'S NEXT WEEK?***<br>A solo-journaling game built in Ren'Py, InDesign, Python, HTML, CSS, and JavaScript. [https://gravesnail.itch.io/next-week](https://gravesnail.itch.io/next-week)
+- Published in the peer-reviewed *[Trans Game Zine](https://transgameszine.org/)*.
+- Features 15 original videos, >10k lines of code, dozens of original illustrations and animations.
 
 `2023`
 ***FINAL BROADCAST***<br>7-page PDF. A storytelling game about the sun exploding, played by burning a sheet of paper. [https://gravesnail.itch.io/final-broadcast](https://gravesnail.itch.io/final-broadcast)
