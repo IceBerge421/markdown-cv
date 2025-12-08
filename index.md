@@ -636,23 +636,21 @@ British Literature I
 
 `2024-Present`
 Adeline K. Piercy, Digital Humanities, MA Candidate
-* Winner, GPS Graduate Student Elevation Award (2025)
 * Published, "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction." *Network in Canadian History & Environment*, video essay, 2025.
+* Winner, GPS Graduate Student Elevation Award (2025)
 * Winner, Women in Technical and Applied Arts Scholarship (2025)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2024)
+
+`2024-Present`
+Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
+* Winner, Graduate Course-based Master’s Community Engagement Award, 2025
 
 `2025-Present`
 Victoria Cairns, Digital Humanities, MA Candidate
 
-`2024-Present`
-Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
-
 `2025-Present`
 Abhik Hasnain, Digital Humanities, MA Candidate
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
-
-`2024-Present`
-Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
 
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
@@ -664,25 +662,31 @@ Sam Graham, Modern Languages & Cultures, PhD Student
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
 * Winner, URI Research Grant (2025)
 
+### University of Alberta: Past Graduates -- Supervisor
+`Graduated 2025`
+Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
+* Capstone Project: "Faith-Based User Interactions with the internet: An exploration of glitch based resistance tactics for
+web 3.0"
+  
 ### University of Alberta: Current -- Committee Member
-
-`2024-Present`
-Catherine Bevan, Digital Humanities, MA Candidate
-
 `2024-Present`
 Becka Grose, Digital Humanities, MA Candidate
 
 `2025-Present`
-Reilly Bohan, Women's & Gender Studies, MA Candidate
+Yaghma Kaby, English & Film Studies, PhD Student
 
-`2025-Present`
-Maëlle Weber, Women's & Gender Studies, MA Candidate
+### University of Alberta: Past Graduates -- Committee Member
+`Graduated 2025`
+Catherine Bevan, Digital Humanities, MA Candidate
 
-`2025-Present`
+`Graduated 2025`
 Mara Vranjkovic, Digital Humanities, MA/MLIS Candidate
 
-`2025-Present`
-Yaghma Kaby, English & Film Studies, PhD Student
+`Graduated 2025`
+Reilly Bohan, Women's & Gender Studies, MA Candidate
+
+`Graduated 2025`
+Maëlle Weber, Women's & Gender Studies, MA Candidate
 
 ### York University: Current -- External Supervisor
 
