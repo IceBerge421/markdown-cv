@@ -88,7 +88,7 @@ __M.F.A. Creative Writing, University of Alabama__
 <!--- Advisor: Dr. Heidi Staples-->
 
 `2016-2019`
-__M.A. Composition, Rhetoric, and English Studies__
+__M.A. Composition, Rhetoric, and English Studies, University of Alabama__
 
 - Thesis: “Lost in the Rift: Exploring the Rhetoric of Immersion and Identity in VR”
 - Advisor: Dr. Amber Buck
