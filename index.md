@@ -115,13 +115,13 @@ __A.A. Integrated Studies, Cascadia Community College__
 
 <div class="item" id="pubs" markdown="1"> 
 
-`2025`
+<span id="printPageButton">`2025`</span>
 PB Berge and Madison Schmalzer. 2025. "'I Took a Deep Breath and Came Out as GC': Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet." *Bulletin of Applied Transgender Studies 4* (1-3): -. [https://doi.org/10.57814/wjd7-w023](https://doi.org/10.57814/wjd7-w023)<span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://doi.org/10.57814/wjd7-w023)</span>
 
-`2025`
+<span id="printPageButton">`2025`</span>
 **PB Berge** and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
 
-`2025`
+<span id="printPageButton">`2025`</span>
 **PB Berge**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
 <span id="printPageButton">`2024`</span>
