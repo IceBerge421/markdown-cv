@@ -59,6 +59,8 @@ Dr. Persephone Blue (PB) Berge is an Assistant Professor of Experimental Game De
 <!--👩‍💻 [IceBerge421 (GitHub)](https://github.com/IceBerge421)  -->
 
 </div>
+</div>
+
 
 ---
 
