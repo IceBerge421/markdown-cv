@@ -733,8 +733,11 @@ Cofounder, [Tabletop Research in Practice (TRiP)](https://triptable.top)
 `2025-Present`
 Discord Community Officer, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
 
+`2025-Present`
+Grant Adjudication Committee Member, Interactive Fiction Technology Foundation, 2025
+
 `2024-2025`
-Lightning Talk Track Chair, Foundations of Digital Games Conference.
+Lightning Talk Track Chair, Foundations of Digital Games Conference
 
 `2023-2024`
 Design Lead and Organizing Committee Member, Electronic Literature Organization 2024 Conference, July 20-22 2024
