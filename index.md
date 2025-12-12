@@ -16,7 +16,7 @@ title: "Dr. PB Berge"
 </div>
 
 <div class="printOnly">
-<p>Email: hello@psberge.com | Website: persephone.blue | BlueSky: @persephone.blue | Itch: gravesnail.itch.io</p>
+<p>Email: pb.berge@ualberta.ca | Website: https://persephone.blue<br>BlueSky: @persephone.blue | Itch: gravesnail.itch.io</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
@@ -181,7 +181,7 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 **PS Berge**. (2021). Rotten and Possessed: Control and Hellblade: Senua’s Sacrifice as Models of Outmersive Game Design. In *Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21)*. Association for Computing Machinery, New York, NY, USA, 35–44. Presented at the ACM Conference on Hypertext and Social Media. August 30 – September 2, 2021, Virtual Event, Ireland.  [https://doi.org/10.1145/3465336.3475094](https://doi.org/10.1145/3465336.3475094) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[PDF\]](https://psberge.com/wp-content/uploads/2023/05/Rotten-Possessed.pdf)</span>
 
 </div>
-
+<div class="printOnly"><br></div>
 ### Accepted Manuscripts in Process
 
 <div class="item" id="pubs" markdown="1">
