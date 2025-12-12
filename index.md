@@ -121,7 +121,7 @@ __A.A. Integrated Studies, Cascadia Community College__
 <div class="item" id="pubs" markdown="1"> 
 
 <span id="printPageButton">`2025`</span>
-PB Berge and Madison Schmalzer. 2025. "'I Took a Deep Breath and Came Out as GC': Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet." *Bulletin of Applied Transgender Studies 4* (1-3): -. [https://doi.org/10.57814/wjd7-w023](https://doi.org/10.57814/wjd7-w023)<span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://doi.org/10.57814/wjd7-w023)</span>
+**PB Berge** and Madison Schmalzer. 2025. "'I Took a Deep Breath and Came Out as GC': Gender Critical Storytelling, Radicalization, and Discursive Practice on Ovarit and Mumsnet." *Bulletin of Applied Transgender Studies 4* (1-3): -. [https://doi.org/10.57814/wjd7-w023](https://doi.org/10.57814/wjd7-w023)<span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://doi.org/10.57814/wjd7-w023)</span>
 
 <span id="printPageButton">`2025`</span>
 **PB Berge** and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
@@ -190,7 +190,7 @@ Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. 
 
 **PS Berge** & Madison Schmalzer. "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (In press).
 
-Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings of the Digital Games Research Association. (Under review).
+Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings article submitted to the Digital Games Research Association. (Under review).
 
 </div>
 
