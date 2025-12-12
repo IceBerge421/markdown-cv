@@ -113,6 +113,9 @@ __A.A. Integrated Studies, Cascadia Community College__
 ---
 
 ## Peer-Reviewed Publications
+
+\* Denotes student or mentee coauthor.
+
 ### Journal Articles
 
 <div class="item" id="pubs" markdown="1"> 
@@ -124,7 +127,7 @@ PB Berge and Madison Schmalzer. 2025. "'I Took a Deep Breath and Came Out as GC'
 **PB Berge** and Madison Schmalzer. “Un-Moving Play and the End of *Time*: Code Injections and the Trans Abrogation of Media Objects.” The *Journal of Cinema and Media Studies 64*, no. 5 (2025): 343–66. [https://doi.org/10.3998/jcms.18261332.0064.515](https://quod.lib.umich.edu/cgi/t/text/idx/j/jcms/18261332.0064.515/--un-moving-play-and-the-end-of-time-code-injections?rgn=main;view=fulltext).
 
 <span id="printPageButton">`2025`</span>
-**PB Berge**, and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
+**PB Berge**, and Percival Hornak\*. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” *Analog Game Studies XII*, Special Issue: Queer Analog Game Studies (2025). [https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://analoggamestudies.org/2025/07/liches-lampreys-and-the-moon-an-incantation-for-trans-life-lyrical-play/)</span>
 
 <span id="printPageButton">`2024`</span>
 David Kocik, **PS Berge**, Camille Butera, Celeste Oon, & Michael Senters. (2024). "Imagine a Place": Power and Intimacy in Fandoms on Discord. In Maria Alberto, Effie Sapuridis, and Leslie  Willard (Eds.) *Transformative Works and Cultures* 42 "Fandoms and Platforms." [https://journal.transformativeworks.org/index.php/twc/article/view/2497](https://journal.transformativeworks.org/index.php/twc/article/view/2497) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access Online\]](https://journal.transformativeworks.org/index.php/twc/article/view/2497)</span>
@@ -185,7 +188,9 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 
 Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
-**PS Berge** & Madison Schmalzer. (Forthcoming). "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (Chapter conditionally accepted for forthcoming publication).
+**PS Berge** & Madison Schmalzer. "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (In press).
+
+Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings of the Digital Games Research Association. (Under review).
 
 </div>
 
@@ -654,14 +659,17 @@ Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
 Victoria Cairns, Digital Humanities, MA Candidate
 
 `2025-Present`
-Abhik Hasnain, Digital Humanities, MA Candidate
+Abhik Hasnain, Digital Humanities, MA Candidate (Co-Supervised)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
 
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
 
 `2025-Present`
-Sam Graham, Modern Languages & Cultures, PhD Student
+Sam Graham, Modern Languages & Cultures, PhD Student (Co-Supervised)
+
+`2025-Present`
+Chelsea Novak, English and Film Studies, PhD Student (Co-Supervised)
 
 `2025-Present`
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
@@ -717,7 +725,6 @@ In my role as Director of the Discord Academic Research Community (D/ARC) and Ta
 * Percival Hornak, Performance Artist, New York
 * Shano Liang, Ph.D. Candidate in Computational Media, Worcester Polytechinc Institute
 * Hibby Thach, Ph.D. Student in Information, University of Michigan
-* F. Ria Khan, Ph.D. Student in Information, University of Michigan
 * JaeWon Kim, Ph.D. Candidate in Information, University of Washington
 
 ---
@@ -732,6 +739,9 @@ Cofounder, [Tabletop Research in Practice (TRiP)](https://triptable.top)
 
 `2025-Present`
 Discord Community Officer, The [Content Creator Studies Network (CCSN)](https://www.ccsn.site/)
+
+`2025-Present`
+Topics Editor, *[Reviews in Digital Humanities](https://reviewsindh.pubpub.org/)*, Ongoing special issue series, 2025
 
 `2025-Present`
 Grant Adjudication Committee Member, Interactive Fiction Technology Foundation, 2025
