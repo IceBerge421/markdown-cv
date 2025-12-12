@@ -16,7 +16,7 @@ title: "Dr. PB Berge"
 </div>
 
 <div class="printOnly">
-<p>Email: pb.berge@ualberta.ca • Website: https://persephone.blue • BlueSky: @persephone.blue • Itch: gravesnail.itch.io</p>
+<p>Email: pb.berge@ualberta.ca<br>Website: https://persephone.blue<br>BlueSky: @persephone.blue<br>Itch: gravesnail.itch.io</p>
 </div>
 
 <div class="item" id="profile" markdown="1">
