@@ -909,6 +909,8 @@ __Grey Door Games LLC__<br>
 
 ### National Press Coverage
 
+*Assigned Media*. Research quoted as a subject expert regarding tabletop gaming fandoms. "Trans People are Wargamers Whether the Fandom Likes it or Not." Author: Adelaide Kung. [https://www.assignedmedia.org/breaking-news/trans-players-wargames-warhammer](https://www.assignedmedia.org/breaking-news/trans-players-wargames-warhammer)
+
 *CBC Kids News*. Interviewed and quoted as subject witness for video and text article aimed at teenage audience titled "What is a viewbot and why is Twitch cracking down on them?" Author: Angelica Cooper. Correspondent: Matthew Hines. (August 2025). [https://www.cbc.ca/kidsnews/post/watch-what-is-a-viewbot-and-why-is-twitch-cracking-down-on-them](https://www.cbc.ca/kidsnews/post/watch-what-is-a-viewbot-and-why-is-twitch-cracking-down-on-them)
 
 *The Conversation.* Published research cited extensively in "Lady Gaga bomb plot: Thwarted plan lifts veil on the gamification of hate and gendered nature of online radicalization." (May 2025). [https://theconversation.com/lady-gaga-bomb-plot-thwarted-plan-lifts-veil-on-the-gamification-of-hate-and-gendered-nature-of-online-radicalization-256199](https://theconversation.com/lady-gaga-bomb-plot-thwarted-plan-lifts-veil-on-the-gamification-of-hate-and-gendered-nature-of-online-radicalization-256199)
