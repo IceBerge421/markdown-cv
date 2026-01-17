@@ -661,6 +661,7 @@ Victoria Cairns, Digital Humanities, MA Candidate
 `2025-Present`
 Abhik Hasnain, Digital Humanities, MA Candidate (Co-Supervised)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
+* Winner, Graduate and Postdoctoral Studies Research Travel Grant (2025)
 
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
@@ -673,17 +674,16 @@ Chelsea Novak, English and Film Studies, PhD Student (Co-Supervised)
 
 `2025-Present`
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
-* Winner, URI Research Grant (2025)
+* Winner, University Research Initiatives Grant (2025)
 
 ### University of Alberta: Past Graduates -- Supervisor
 `Graduated 2025`
 Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
-* Capstone Project: "Faith-Based User Interactions with the internet: An exploration of glitch based resistance tactics for
-web 3.0"
+* Capstone Project: "Faith-Based User Interactions with the internet: An exploration of glitch based resistance tactics for web 3.0"
   
 ### University of Alberta: Current -- Committee Member
-`2024-Present`
-Becka Grose, Digital Humanities, MA Candidate
+`2025-Present`
+Evan Kuznetsov, Modern Languages & Cultural Studies, PhD Student
 
 `2025-Present`
 Yaghma Kaby, English & Film Studies, PhD Student
