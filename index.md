@@ -186,20 +186,13 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 
 <div class="item" id="pubs" markdown="1">
 
-Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2024). In S. Hedge (Ed.) *Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
+Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2026). In S. Hedge (Ed.) *Playing Outside the Mainstream: Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
 **PS Berge** & Madison Schmalzer. "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (In press).
 
-Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings article submitted to the Digital Games Research Association. (Under review).
+Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings article submitted to the Digital Games Research Association. (Forthcoming in the Proceedings of DiGRA, 2026).
 
 </div>
-
-## Other Publications
-
-<!--
-**PS Berge** and Schmalzer, Madison. Un-Moving Play and the End of Time: TASBot, Arbitrary Code Execution, and Trans Possibilities in *Triforce%*. *Journal of Cinema and Media Studies.* (Manuscript under review.)
-
-Kocik, David; **PS Berge**; Butera, Camille; Oon, Celeste; Senters, Michael. “Imagine a Place:" Power and Intimacy in Fandoms on Discord. *Transformative Works and Cultures.* (Forthcoming in special issue on Fandom and Platforms.)-->
 
 ### Conference Proceedings - Extended Abstracts
 
@@ -259,7 +252,10 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 `2024-2025`
 **Co-Investigator, Game Designer**: "A Trans Game Zine: Issue #1." ACLS Digital Justice Seed Grant. $10,000 (USD). Principal Investigators: Dr. Ari Gass, Drexel University; Dr. Teddy Pozo, Occidental College.
 
-### Internal Grants
+### Internal Grants & Awards
+
+`2026`
+**Winner.** "Killam Accelerator Research Award." $225,000 (CAD) awarded over three years. University of Alberta.
 
 `2025-2027`
 **Principal Investigator**: "Discord After Dark: a symposium advancing the
@@ -299,6 +295,9 @@ critical study of community-driven platforms." Kule Dialogue Grant. $2,500 (CAD)
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Top Paper Award, NCA Game Studies Division
 
 ### Internal
+
+`2026`
+<span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Killam Accelerator Research Award, University of Alberta
 
 `2024`
 <span id="printPageButton" style="font-family: Noto Emoji, sans-serif; color: #000000">🏆 </span>Winner, Order of Pegasus Award, University of Central Florida
@@ -429,6 +428,12 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 
 \* Indicates student coauthor.
 
+`2026`
+Madison Schmalzer and **PB Berge.** “Playing on the Run: Trans Play, Running Through Walls, and the Abolition of Game.” Society for Cinema and Media Studies, 2026. Presented as part of "Games Beyond Empire Abolition and Decolonization in Games" with Marina Fontolan and Ari Gass. Chicago, IL. March 28, 2026.
+
+`2026`
+**PB Berge.** “Surviving the Aslopalypse.” DiHuCon 2026. University of Alberta. March 26, 2026.
+
 `2025`
 **PB Berge.** “Play and Precarity: Anti-Games, Speculative Design, and the Trans Possibilities of the Unplayable.” Queerness in Games Conferencec, 2025. Presented as part of "Play, Embodiment, and the Axes of Access: An Anti-Panel for Trans Zinesters in Anti-Trans Times" with Teddy Pozo, Hibby Thach, and Geneva Heyward. Montreal, QC. September 27, 2025.
 
@@ -527,6 +532,9 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 ### Workshops Led
 
+`2026`
+**PB Berge.** *Academic Conferencing 101*. Scholarly Professionalization & Radical Knowledge (SPARK) Workshop. February, 2026.
+
 `2024`
 **PS Berge.** *Cut Here: designing self-destructing games and un-ending play*. UCLA Game Lab. Invited Workshop. March, 2024.
 
@@ -549,6 +557,12 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 **PS Berge**. “Building Images”. Creative Writing course. September 2016, Univeristy of Alabama.
 
 ### Guest Lectures
+
+`2026`
+**PB Berge.** Performing social justice research on extremist communities. March 2026. Graduate course on Gender & Social Justice. University of Alberta.
+
+`2025`
+**PB Berge.** "Managing Your Player." November 2025. Undergraduate course on game design. University of Alberta.
 
 `2024`
 **PS Berge.** "Navigating Exclusionary Practices in Gaming Culture." November 2024. Course on "How Games Change Us". Lehigh University.
@@ -591,12 +605,13 @@ Rebecca K. Britt, & **PS Berge** (2020). r/persona5 as a community of practice: 
 
 **University of Alberta (2024-2025)**
 
-**Interactive Storytelling for the Digital Humanities** 
+**Interactive Storytelling for the Digital Humanities**
+
 - *A graduate-level interdisciplinary course combining media theory and hands-on technical workshops to guide students through the design and development of original digital humanist media works. Course content explored digital and combinatory poetics, interactive fiction, digital and analog games, visual novels, and social media programs.*
 
 **Trans & Queer Game Design** [Cross-listed course between Media & Tech Studies, Women's and Gender Studies, and Computer Science]
 
-- *Advanced special topics course on the theory and practice of trans and queer interactive media art. Spanning videogames, interactive exhibitions, and physical computing, this course prompted students to design personal, theoretically motivated game projects and subsequently showcase these projects at an exhibition alongside an alternative controller or haptic experience that they designed.*
+- *Advanced special topics course on the theory and practice of trans and queer interactive media art. Spanning videogames, interactive exhibitions, and physical computing, this course prompted students to design personal, theoretically motivated game projects and subsequently showcase these projects at an exhibition alongside an alternative controller or haptic experience that they designed.* 
 
 **Understanding Videogames**
 
@@ -644,27 +659,61 @@ British Literature I
 
 ### University of Alberta: Current -- Supervisor
 
+#### Masters Students
+
 `2024-Present`
 Adeline K. Piercy, Digital Humanities, MA Candidate
 * Published, "Controlling Catastrophe: Indoor Gameplay to Support Sensory Dysfunction." *Network in Canadian History & Environment*, video essay, 2025.
+* Published, Adeline K. Piercy & PB Berge, "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." (Forthcoming in the Proceedings of DiGRA, 2026)
+* Winner, Interactive Fiction Technology Foundation Project Grant (2026)
+* Winner, Myer Horowitz Graduate Student's Association Graduate Scholarship (2025)
 * Winner, GPS Graduate Student Elevation Award (2025)
 * Winner, Women in Technical and Applied Arts Scholarship (2025)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2024)
-
-`2024-Present`
-Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
-* Winner, Graduate Course-based Master’s Community Engagement Award, 2025
+* Presented, "Min-Maxxing Relaxing," Canadian Game Studies Association (2026)
+* Research assistant, CRYPT Lab: "Playing Against the Unlivable" (SSHRC IDG Project)
 
 `2025-Present`
 Victoria Cairns, Digital Humanities, MA Candidate
+* Presented, "Gender in Game Design: Looking Forwards," DiHuCon 2026
+* Research assistant, CRYPT Lab: "Playing Against the Unlivable" (SSHRC IDG Project)
 
 `2025-Present`
 Abhik Hasnain, Digital Humanities, MA Candidate (Co-Supervised)
+* Winner, Interactive Fiction Technology Foundation Project Grant (2026)
+* Winner, Research Travel Grant (Graduate and Postdoctoral Studies) (2026)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
 * Winner, Graduate and Postdoctoral Studies Research Travel Grant (2025)
+* Presented, "Designing Local RAG Systems for DH and ARchival Research," DiHuCon (2026)
+
+`2024-Present`
+Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
+* Winner, Graduate Course-based Master’s Community Engagement Award (2025)
 
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
+* Presented, "Accessing the Digital Humanities," DiHuCon (2026)
+
+`2026-Present`
+Miriam Martin, Digital Humanities, MA Student (Incoming)
+* Presented, "'The problem isn’t p2w… it’s the idiots who support it'”': The toxic politics of predatory monetization in Minecraft prison servers
+
+`2026-Present`
+Jerzy Beaumont, Digital Humanities / Library & Information Science, Dual-MA Candidate (Co-Supervised)
+* Winner, University Research Initiatives Grant (2025)
+* Research assistant, CRYPT Lab: Lab Manager
+
+
+`2026-Present`
+Nick Czerwonka, Digital Humanities, MA Candidate
+* Presented, "'Panic!': Research-Creation to Explore the Satanic Panic and Its Attacks on RPGs," DiHuCon (2026)
+* Research assistant, CRYPT Lab: "Make the NetWork Project" (Collaboration with Dr. Rob McMahon)
+
+`2026-Present`
+Blaze Bennet, Digital Humanities , MA Candidate
+* Presented, "Pronouns & Politics," DiHuCon (2026)
+
+#### Doctoral Students
 
 `2025-Present`
 Sam Graham, Modern Languages & Cultures, PhD Student (Co-Supervised)
@@ -672,14 +721,15 @@ Sam Graham, Modern Languages & Cultures, PhD Student (Co-Supervised)
 `2025-Present`
 Chelsea Novak, English and Film Studies, PhD Student (Co-Supervised)
 
-`2025-Present`
+#### Undergraduate Students
+`2025-2026`
 Miriam Martin, Computer Science, Undergraduate Research Initiatives (URI) Scholar
 * Winner, University Research Initiatives Grant (2025)
 
 ### University of Alberta: Past Graduates -- Supervisor
 `Graduated 2025`
 Aysha O'Brien, Gender and Social Justice / Digital Humanities, MA Candidate
-* Capstone Project: "Faith-Based User Interactions with the internet: An exploration of glitch based resistance tactics for web 3.0"
+* Capstone Project: "Faith-Based User Interactions with the internet: An exploration of glitch-based resistance tactics for web 3.0"
   
 ### University of Alberta: Current -- Committee Member
 `2025-Present`
@@ -687,6 +737,15 @@ Evan Kuznetsov, Modern Languages & Cultural Studies, PhD Student
 
 `2025-Present`
 Yaghma Kaby, English & Film Studies, PhD Student
+
+`2026-Present`
+Michael MacKenzie, English & Film Studies, PhD Student
+
+`2026-Present`
+June Yao, Modern Languages and Cultural Studies, PhD Student
+
+`2026-Present`
+Emilia Hillyer, Theatre Practice, MFA Student
 
 ### University of Alberta: Past Graduates -- Committee Member
 `Graduated 2025`
@@ -707,11 +766,6 @@ Maëlle Weber, Women's & Gender Studies, MA Candidate
 `Graduated 2025`
 Rebecca Grose, Digital Humanities, MA Candidate
 * Thesis: Out of Alignment: Ethical Systems and Player Agency in *Baldur’s Gate III* and the CRPG Tradition
-
-### York University: Current -- External Supervisor
-
-`2024-Present`
-Zhenia Puzankov, Design Media Arts, PhD Candidate
 
 ### Additional / External Mentorships
 In my role as Director of the Discord Academic Research Community (D/ARC) and Tabletop Research in Practice (TRIP), I serve as a formal and informal mentor to a number of researchers and media artists. Each of the following researchers and artists are junior scholars with whom who have met with me more than once for mentorship purposes in the past year:
