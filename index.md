@@ -435,11 +435,7 @@ Madison Schmalzer and **PB Berge.** “Playing on the Run: Trans Play, Running T
 **PB Berge.** “Surviving the Aslopalypse.” DiHuCon 2026. University of Alberta. March 26, 2026.
 
 `2025`
-**PB Berge.** “Play and Precarity: Anti-Games, Speculative Design, and the Trans Possibilities of the Unplayable.” Queerness in Games Conferencec, 2025. Presented as part of "Play, Embodiment, and the Axes of Access: An Anti-Panel for Trans Zinesters in Anti-Trans Times" with Teddy Pozo, Hibby Thach, and Geneva Heyward. Montreal, QC. September 27, 2025.
-
-`2025`
-**PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
-- Presentation Video: [https://youtu.be/pyn7NHFjpAs](https://youtu.be/pyn7NHFjpAs)
+**PB Berge.** “Play and Precarity: Anti-Games, Speculative Design, and the Trans Possibilities of the Unplayable.” Queerness in Games , 2025. Presented as part of "Play, Embodiment, and the Axes of Access: An Anti-Panel for Trans Zinesters in Anti-Trans Times" with Teddy Pozo, Hibby Thach, and Geneva Heyward. Montreal, QC. September 27, 2025.
 
 `2025`
 **PB Berge** and Percival Hornak. “Liches, Lampreys, and the Moon: An Incantation for Trans Life & Lyrical Play.” Generation Analog 2025 Confernece. Presented as part of "Punk Sex & Gender" session with Megan Condis, James Walker Holmes, keerthi sridharen, and Che Pieper. Virtual event. July 17, 2025.
@@ -455,7 +451,7 @@ Adeline K. Piercy* & **PB Berge**. (June 2025). "Min-Maxing Relaxing: Playtime a
 **PS Berge**. (April 2025). "Playing After Industry: Fantasy Consoles, Itch Bundles, and the Political Economy of Speculative Play." Presented as part of "Political Economy of Games Now” at the Society for Cinema and Media Studies 2025 Conference. April 3 - April 6 2025. Chicago, IL. Panel Chair: Evan Torner.
 
 `2024`
-**PS Berge**. (November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
+**PS Berge** and Madison Schmalzer. (November 2024). “'I took a deep breath and came out as GC': Excavating Gender Critical Information Literacy Practices and Anti-Trans Radicalization on Ovarit and Mumsnet." Presented as part of "Risks to Trans & Queer Lives” at the Association of Internet Researchers 2024 Conference. October 29 - November 4 2024. Sheffield, UK. With: Kathryn Brewster, Oliver Haimson; Michelle Robin Stewart, Samuel Laperle, Dominique Gagnon; and Debbie Ging, Catherine Baker, Maja Brandt Andreasen.
 
 `2024`
 **PS Berge**; wendi yu; Hibby Thach & Wells Lucas Santo; and Madison Schmalzer. (2024). "We Can Always Never Tell: Giggling Faces, Gender Machines, and Un-Recognizing Play." Presented as part of "B\{ending\} Trans Media Studies” at the Second International Trans Studies Conference. September 4-7 2024. Hybrid event; Northwestern University. 
