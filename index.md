@@ -158,6 +158,9 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 <div class="item" id="pubs" markdown="1">
 
+<span id="printPageButton">`2026`</span>
+Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." *Proceedings of the Digital Games Research Association, 2026*. Preprint available at [https://persephone.blue/bloodless](https://persephone.blue/bloodless).
+
 <span id="printPageButton">`2025`</span>
 **PB Berge**. (2025). Anti-Games, Fantasy Consoles, and the Rise of Speculative Game Development on Itch.io. In *International Conference on the Foundations of Digital Games (FDG ’25), April 15–18, 2025, Graz, Austria*. ACM, New York,
 NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/doi/10.1145/3723498.3723739) <span id="printPageButton" style="color:rgb(255, 30, 199)">[\[Open Access\]](https://dl.acm.org/doi/10.1145/3723498.3723739)</span>
@@ -189,8 +192,6 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2026). In S. Hedge (Ed.) *Playing Outside the Mainstream: Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
 **PS Berge** & Madison Schmalzer. "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (In press).
-
-Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Proceedings article submitted to the Digital Games Research Association. (Forthcoming in the Proceedings of DiGRA, 2026).
 
 </div>
 
@@ -427,6 +428,15 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 *Additional presentations may found as published proceedings, listed above.*
 
 \* Indicates student coauthor.
+
+`2026`
+Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Digital Games Research Association (DiGRA) 2026. Maynooth, Ireland. June 2026.
+
+`2026`
+**PB Berge**. "Playing Against the Unlivable: Doom, Transness, and Un-Ending Play." Accepted for presentation at Games Against Death Workshop at the Digital Games Research Association (DiGRA) 2026. Maynooth, Ireland. June 2026.
+
+`2026`
+**PB Berge** & Madison Schmalzer. “'THERE IS NO ESCAPE:' Reflections on Playing Stuck.” Canadian Game Studies Association, 2026. Montreal, QC. June 2026.
 
 `2026`
 Madison Schmalzer and **PB Berge.** “Playing on the Run: Trans Play, Running Through Walls, and the Abolition of Game.” Society for Cinema and Media Studies, 2026. Presented as part of "Games Beyond Empire Abolition and Decolonization in Games" with Marina Fontolan and Ari Gass. Chicago, IL. March 28, 2026.
