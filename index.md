@@ -154,6 +154,11 @@ Rebecca K. Britt & **PS Berge**.  (2023). “Megathreads and ‘waifu wars’: A
 
 </div><div class="printOnly"><br></div>
 
+### Book Chapters
+<div class="item" id="pubs" markdown="1">
+Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2026). In S. Hedge (Ed.) *Playing Outside the Mainstream: Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
+</div>
+<div class="printOnly"><br></div>
 ### Conference Proceedings - Articles
 
 <div class="item" id="pubs" markdown="1">
@@ -188,8 +193,6 @@ NY, USA, 11 pages. [https://doi.org/10.1145/3723498.3723739](https://dl.acm.org/
 ### Accepted Manuscripts in Process
 
 <div class="item" id="pubs" markdown="1">
-
-Maria Alberto, **PB Berge**, Brandon Blackburn, Adrianna Burton, & Hibby Thach. “You Strange and Violent Queers”: A Collaborative Disaster-Queer Autoethnography of Playing *Thirsty Sword Lesbians*. (Forthcoming 2026). In S. Hedge (Ed.) *Playing Outside the Mainstream: Essays on Indie Tabletop Roleplaying Games*. McFarland Publishing. (In press).
 
 **PS Berge** & Madison Schmalzer. "Speedrunning." Invited chapter for *Keywords in Game Studies* by Christopher B. Patterson and Amanda Phillips (eds.). (In press).
 
@@ -246,6 +249,9 @@ Daniel G. Heslep, & **PS Berge**. (2021). MAPPING DISCORD’S DARKSIDE: DISTRIBU
 ## GRANTS & FUNDING AWARDS
 
 ### External Grants
+
+`2027-2032`
+**Lead Investigator**: "The STITCH Network: Shaping Technology and Inquiry through Transdisciplinary Critical Humanities." John R. Evans Leaders Fund (JELF) Award. Canada Foundation for Innovation. $507,916 (CAD).
 
 `2025-2027`
 **Principal Investigator**: "Playing Against the Unlivable: An Exploration of Trans Game Art" SSHRC Insight Development Grant. $61,097 (CAD).
@@ -433,7 +439,7 @@ __*CODEX SADISTICA: A Heavy-Metal Minigame*__<br>Short sacrilicious parser game 
 Adeline K. Piercy\* & **PB Berge**. "Min-Maxxing Relaxing: Playtime and Privilege in the Post-Pandemic." Digital Games Research Association (DiGRA) 2026. Maynooth, Ireland. June 2026.
 
 `2026`
-**PB Berge**. "Playing Against the Unlivable: Doom, Transness, and Un-Ending Play." Accepted for presentation at Games Against Death Workshop at the Digital Games Research Association (DiGRA) 2026. Maynooth, Ireland. June 2026.
+**PB Berge**. "Playing Against the Unlivable: Doom, Transness, and Un-Ending Play." Presented at the Games Against Death Workshop at the Digital Games Research Association (DiGRA) 2026. Maynooth, Ireland. June 2026.
 
 `2026`
 **PB Berge** & Madison Schmalzer. “'THERE IS NO ESCAPE:' Reflections on Playing Stuck.” Canadian Game Studies Association, 2026. Montreal, QC. June 2026.
@@ -676,7 +682,9 @@ Adeline K. Piercy, Digital Humanities, MA Candidate
 * Winner, GPS Graduate Student Elevation Award (2025)
 * Winner, Women in Technical and Applied Arts Scholarship (2025)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2024)
-* Presented, "Min-Maxxing Relaxing," Canadian Game Studies Association (2026)
+* Presented, "Min-Maxxing Relaxing," Canadian Game Studies Association (2025)
+* Presented, "Patriarchy in Pastels and the Girl Gamer Cave," Canadian Game Studies Association (2026)
+* Presented, "Playtime and Privilege in the Post-Pandemic," Digital Games Research Association (2026)
 * Research assistant, CRYPT Lab: "Playing Against the Unlivable" (SSHRC IDG Project)
 
 `2025-Present`
@@ -691,6 +699,9 @@ Abhik Hasnain, Digital Humanities, MA Candidate (Co-Supervised)
 * Winner, Alberta Graduate Excellence Scholarship (AGES) (2025)
 * Winner, Graduate and Postdoctoral Studies Research Travel Grant (2025)
 * Presented, "Designing Local RAG Systems for DH and ARchival Research," DiHuCon (2026)
+* Presented, "'I Know a Fair Bit': Building an LLM Chatbot to Investigate Historical Brewing Texts," Canadian Society for Digital Humanities (2026)
+* Presented, "Making AI Legible: Visual workflows for Critical Reflexivity and Ethical LLM Use in the Social Sciences and Humanities," Canadian Society for Digital Humanities (2026)
+* Presented, "Bangladesh Makes Indie Games: An Ethnography of Sustaining Game Development in Zero-Support Ecosystems," Canadian Society for Digital Humanities (2026)
 
 `2024-Present`
 Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
@@ -699,19 +710,19 @@ Yasmine Abdel Razek, Gender and Social Justice, MA Candidate
 `2025-Present`
 Navarra Houldin, Gender and Social Justice, MA Candidate
 * Presented, "Accessing the Digital Humanities," DiHuCon (2026)
+  
+`2026-Present`
+Jerzy Beaumont, Digital Humanities / Library & Information Science, Dual-MA Candidate (Co-Supervised)
+* Winner, University Research Initiatives Grant (2025)
+* Research assistant, CRYPT Lab: Lab Manager
 
 `2026-Present`
 Miriam Martin, Digital Humanities, MA Student (Incoming)
 * Presented, "'The problem isn’t p2w… it’s the idiots who support it'”': The toxic politics of predatory monetization in Minecraft prison servers
 
 `2026-Present`
-Jerzy Beaumont, Digital Humanities / Library & Information Science, Dual-MA Candidate (Co-Supervised)
-* Winner, University Research Initiatives Grant (2025)
-* Research assistant, CRYPT Lab: Lab Manager
-
-
-`2026-Present`
 Nick Czerwonka, Digital Humanities, MA Candidate
+* Presented, 
 * Presented, "'Panic!': Research-Creation to Explore the Satanic Panic and Its Attacks on RPGs," DiHuCon (2026)
 * Research assistant, CRYPT Lab: "Make the NetWork Project" (Collaboration with Dr. Rob McMahon)
 
